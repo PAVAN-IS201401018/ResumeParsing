@@ -1,0 +1,6 @@
+total words in posting
+total words in resume
+domain_cosine_similarity
+similar_cosine_similarity
+related_cosine_similarity
+ranking score

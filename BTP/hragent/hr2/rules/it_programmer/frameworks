@@ -1,0 +1,8 @@
+{
+ "php":["symphony", "codeignitor", "cakephp","zend","laravel","sinatra"]
+ "python":["django","flask"],
+ "ruby":["ruby_on_rails"],
+ "java":["spring","jsp","servlets","hibernate","struts"],
+ "scala":["play","lift"],
+ "javascript":["node(js)","ember(js)","meteor(js)","react(js)","angular(js)","backbone(js)",jquery]
+

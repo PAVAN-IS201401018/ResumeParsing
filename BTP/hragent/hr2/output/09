@@ -1,0 +1,517 @@
+ 
+
+DEEPAK PAL 
+
+ 
+
+ 
+
+Project Associate 
+Department of Electrical Engineering 
+Indian Institute of Technology, Kanpur 
+pdeepak@iitk.ac.in, deep.imhere@gmail.com 
+http://www.iitk.ac.in/mwn/deepak/index.htm 
++91- 9415770233 
+
+CAREER VISION 
+To work in a challenging environment demanding all my skills and efforts to explore and adapt myself in different fields and 
+realize my potential where I get the opportunity for continuous learning 
+
+RELEVENT EXPERIENCE 
+
+Department of Electrical Engineering, Indian Institute of Technology, Kanpur, India 
+Project Associate 
+
+ Dec, 2010 – Present 
+                        Prof. Aditya K. Jagannatham, Multimedia Wireless Networks Lab, IIT Kanpur 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Developed robust MPEG encoder in MATLAB and C that performs streaming of live videos over wireless network 
+ 
+
+Set up a wireless link, supporting radio data rate up to 250 kbps for transmission of images and small sized video using  
+TELOS B motes on TINY OS platform using JAVA 
+
+  Developed H.261 video encoder and decoder on MATLAB Platform 
+  Performed study of JSVM (Joint Scalable Video Model) for h.264 compliant bitstream generation and transmission 
+  Currently developing H.264/SVC codec to achieve video streaming of live events on IIT Kanpur campus wireless 
+
+infrastructure 
+
+ 
+Department of Electrical Engineering, Indian Institute of Technology, Kanpur, India 
+Project Fellow 
+
+              Aug, 2010 – Nov 2010 
+        Prof. Aditya K. Jagannatham, Multimedia Wireless Networks Lab, IIT Kanpur 
+
+        
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Developed GUI for transmission and reception of digital images over AWGN and RAYLEIGH channel with noise filtering 
+
+mechanism at the receiver on MATLAB Platform 
+
+  Performed extensive work in video motion estimation, morphological image processing, aliasing, transform coding, 2D 
+
+sampling, filtering and interpolation 
+
+  Developed JPEG encoder and decoder on MATLAB platform 
+
+ 
+TECHNICAL SKILLS 
+
+Languages 
+
+  MATLAB  
+  HTML, CSS, JAVASCRIPT (MEDIUM, 6 months) 
+
+(EXPERT, 3 Years) 
+
+ 
+
+Tools and Libraries 
+  Visual Studio 
+  GNU Scientific Library 
+
+ 
+
+| 
+| 
+
+Operating Systems 
+
+Eclipse   
+Open CV 
+
+  Windows - 7, Vista, XP 
+
+|  
+
+Linux – Ubuntu 
+
+EDUCATIONAL QUALIFICATIONS 
+
+| 
+| 
+
+| 
+| 
+
+( ADVANCED, 2.5 Years) 
+
+C  
+Verilog  (FAMILIAR, 3 Months) 
+
+Dreamweaver 
+JRTP 
+
+| 
+
+Xilinx IDE 
+
+| 
+
+Cygwin 
+
+Bachelor of Technology in Electronics and Communication Engineering (UPTU, Percentage - 70.02 %) 
+Galgotias College of Engineering and Technology 
+Intermediate (UP Board, Percentage – 79.4 %) 
+Lucknow Public Inter College 
+High School (UP Board, Percentage – 65.8 %) 
+St. Peters High School 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   Aug 2006 – Jun 2010 
+
+ 
+
+ 
+
+       May 2004 
+
+         Jun 2002 
+
+PROJECTS 
+
+MULTIMEDIA TRANSMISSION OVER WIRELESS   
+Details 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+    Nov 2010 – Present 
+
+  Objective - Implement a video coding standard to enable transmission and unpacking at multiple spatio-temporal 
+
+resolutions with variegated bitrates so as to make video streaming readily suited for wireless networks  
+Sponsor company – BSNL India 
+
+ 
+Role 
+
+  Developed MPEG encoder with scalability feature. Generated bitstream can be decoded up to 3 spatial resolutions 
+
+depending on the receiver requirement and bandwidth availability 
+
+  Added RTP functionality to encoder using JRTP library so as to complete a working model of the SVC codec for video 
+
+streaming of live events on the IITK campus wireless infrastructure 
+
+  Platform – Linux/Windows 
+  Libraries – Open CV, JRTP 
+
+| 
+
+ Tools – Eclipse/Visual studio 
+
+| 
+
+Language – C (Started with MATLAB) 
+
+ 
+ 
+ACADEMIC PROJECTS 
+Moving Object Tracking Using MATLAB (Guide: A.Prof Navneet Sharma, Dept. of ECE, GCET) 
+
+ 
+
+Mar 2010 - May2010 
+
+  Designed and constructed moving object tracking system on MATLAB with ATMEGA 16 microcontroller controlled 
+
+movable webcam 
+
+Speed Control of Permanent Magnet DC Motor 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Feb 2010 – Mar 2010 
+
+  Constructed and designed microcontroller based speed control system for permanent magnet DC Motor 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Micromouse 
+
+Line Follower 
+
+Nov 2009 – Jan 2009 
+  Constructed an autonomous robot capable of solving mazes with the help of IR sensors using ATMEGA 16 microcontroller 
+Feb 2008- Mar 2008 
+  Constructed an automatic robot capable of traversing black line on white background using microcontroller ATMEGA 16  
+Sep 2007- Nov 2007 
+
+Biogas Engine for Rural Transformation (Mentor: Prof G.P Govil, H.O.D, Mechanical Engg, GCET)    
+
+          
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Worked on a business model which can be implemented in rural sector for employment generation and solve as well as 
+
+energy problem using biogas 
+
+TRAININGS 
+
+Bharat Sanchar Nigam Limited, Mahanagar Telephone Exchange, Lucknow 
+
+  Undergone summer training on working of telephone exchange 
+
+Training on MATLAB SOFTWARE from QMS Softech Pvt. Ltd., Lucknow   
+
+  Undergone summer training on basic knowledge of MATLAB Software 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  Jun 2009 - Jul 2009 
+
+Jun 2008 - Aug 2008 
+
+Micro Small & Medium Enterprises Development Institute (Govt. of INDIA), New Delhi           
+
+Feb 2010- Mar 2010 
+  Undergone training on BUSINESS SKILLS DEVELOPMENT PROGRAMME on basic qualities of an entrepreneur & how to set 
+
+ 
+
+up an enterprise 
+
+PAPER PRESENTATION 
+
+ 
+
+  Published a national level technical paper on ‘Electromagnetic Suspension’ in The 3rd CSI National Conference on 
+
+Education & Research sponsored by IEEE & CSI at Jaypee Institute of Eng. & Tech. Guna          
+
+ 
+
+  Published a national level technical paper on ‘Moving Object Tracking Using MATLAB’ at LNCT, Bhopal 
+
+Mar – 2010 
+Mar - 2010 
+
+ 
+POSITIONS OF RESPONSIBILITY 
+
+General Secretary, GNIX (Student Based Electronic Society of College) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Aug 2008- May2009 
+
+  Organized events: BULLZ AND BEARZ (Virtual stock market event), SKEP TORING (To build structure using provided 
+
+material), YAMAHA DAY, QUIZ, Technical Paper presentation 
+
+  Organized Industrial Trip to NTPC Dadri 
+  Conducted hand’s on workshop on Robotics 
+ 
+
+Inspired students for experimental learning attitude towards engineering 
+
+Coordinator (Metal Storm - Inter College Robotic Event) for Gladiator ‘08, annual Technical Festival 
+
+ 
+
+    Apr 2008 
+
+  Managed overall task for successful conduction of the event 
+
+ACHIEVEMENTS & PARTICIPATION 
+
+  Won 1st prize in ‘SAVIOR SENSE’, a manual robotic event at TECHKRITI ‘08, Technical festival of IIT Kanpur 
+ 
+
+Initiated a technical environment in the college by introducing technical competitions like ‘GLADIATOR’, a Manual 
+Robotics competition and various technical competitions for the first time. Ensured high participation of  students 
+respectively 
+
+Secured RUNNER UP position in ‘CAPTIVITY’ event at GCET  
+
+  Won 1st prize in an Advertising event at GCET organized by NATIONAL ENTREPRENEUR NETWORK(NEN)  
+  Won 1st prize in ‘DEXTERITY- Assembling & Disassembling of Machines’ at GCET  
+ 
+  Participated in TECHKRITI ‘08, Technical festival of IIT Kanpur 
+  Participated in robotic event at SHAASTRA ‘07, Technical festival of IIT Madras 
+  Participated in Techfest NEXUS 2007 at MNIT Jaipur 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+    Feb 2009 
+    Mar 2007 
+    May 2009 
+    Feb 2008 
+     Sep 2007 
+    Sep 2007 
+
+HOBBIES 
+ 
+Reading Books   | 
+ 
+ 
+Kanpur, UP 
+Date: 
+
+ 
+
+ 
+
+Internet Surfing  | 
+
+Solving Sudoku  | 
+
+Listening to music 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(Deepak Pal) 
+
+

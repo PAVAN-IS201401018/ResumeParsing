@@ -1,0 +1,2388 @@
+Eric–Jan Wagenmakers
+
+Curriculum Vitae, 2016
+
+Department of Psychology
+University of Amsterdam
+Nieuwe Achtergracht 129-B
+1018 VZ Amsterdam
+The Netherlands
+
+EJ.Wagenmakers@gmail.com
+http://www.ejwagenmakers.com/
+Phone: (+31) 6–45626624
+Fax:
+(+31) 20–525 6456
+
+Personal
+
+Born May 21, 1972, in Baarland, The Netherlands. Dutch Citizenship.
+
+Employment
+
+Full Professor, employed at the Methodology Unit of the Department of Psy-
+chology at the University of Amsterdam.
+
+2012–current. Full Professor “Neurocognitive Modeling: Interdisciplinary Inte-
+gration” for the Cognitive Science Center Amsterdam (CSCA) at the University
+of Amsterdam.
+
+2012–current. Honorary Professor “Formal Models in Cognitive Science” for
+the Department of Psychology at the University of Groningen.
+
+2012–2017. Research fellow on an ERC consolidator grant, awarded by the Eu-
+ropean Research Council. Main interests: Bayesian hypothesis testing, cogni-
+tive modeling, and the interaction between quantitative modeling and cognitive
+neuroscience.
+
+2007–2012. Research fellow on a personal Vidi grant, awarded by the Nether-
+lands Organisation for Scientiﬁc Research (NWO). Main interests: response
+time modeling, hypothesis testing and model selection, Bayesian inference, re-
+inforcement learning, and the interaction between quantitative modeling and
+cognitive neuroscience.
+
+2004–2007. Research fellow on a personal Veni grant, awarded by the Nether-
+lands Organisation for Scientiﬁc Research (NWO). Main interests: long–range
+correlations in psychological time series, response time modeling, model selec-
+tion methods, development of expertise, and reinforcement learning.
+
+2003–2004. Postdoctoral fellow with Han van der Maas and Peter Molenaar,
+University of Amsterdam. Main interests: Modeling phase transitions using
+stochastic catastrophe theory, with possible application to response times.
+
+2001–2003. Postdoctoral fellow with Roger Ratcliﬀ, Northwestern University.
+Main interests: Lexical decision, time series analysis, response time modeling,
+and model selection methods.
+
+1996–2000. Graduate student with Jeroen Raaijmakers, University of Amster-
+dam. Main interests: Modeling of human memory and visual word recognition.
+September 1998–May 1999: Fulbright scholarship to work with Rich Shiﬀrin,
+
+1 of 44
+
+Professional
+Service
+
+Indiana University.
+
+1994–1996 : Undergraduate student with Ritske de Jong, University of Gronin-
+gen. Main interests: Aging, task switching, and response times.
+
+• Member of the committee on Replication Research (“Replicatieonder-
+zoek”) organized by the Royal Netherlands Academy of Arts and Sciences
+(KNAW).
+
+• Member of the Editorial Board (expertise: “meta-research”), PLoS Biol-
+
+ogy, 2016–present.
+
+• Associate Editor for statistical methods and practices at Psychonomic
+
+Bulletin & Review, 2015–present.
+
+• Member of the search committee for the next editor of Psychological Sci-
+
+ence, 2015.
+
+• Guest editor for the special issue “Bayes factors for Testing Hypotheses
+in Psychological Research: Practical Relevance and New Developments”,
+Journal of Mathematical Psychology, 2016 (with Joris Mulder). Vol. 72,
+pp. 1–220.
+
+• Editor of the Methodology volume of Stevens’ Handbook of Experimental
+
+Psychology and Cognitive Neuroscience (in preparation).
+
+• Statistical consulting for the CHDI foundation, 2014–present.
+• Advisory Board, PsychFileDrawer.org project, 2011–present.
+• Editorial Advisory Board, Journal of Open Psychology Data, 2012–present.
+• Statistical Consultant Editor for Comprehensive Results in Social Psy-
+
+chology, 2014–present.
+
+• Member of the board of consulting editors for Journal of Mathematical
+
+Psychology, 2010–present.
+
+• Editor of the Tutorial Section in Journal of Mathematical Psychology,
+
+2008–2015.
+
+• Member of the board of consulting editors for Psychological Review, 2011–
+
+2015.
+
+• Member of the board of consulting editors (i.e., member of the “Review
+
+Editorial Board”) for Frontiers in Decision Neuroscience, 2010–2015.
+
+• Guest editor for the special issue “A Discussion of Publication Bias and
+the Test for Excess Signiﬁcance”, Journal of Mathematical Psychology,
+2013, Vol. 57, issue 5, pp. 155–195.
+
+• Associate Editor for Psychonomic Bulletin & Review, 2010–2013.
+• Vice-president of the Society for Mathematical Psychology, 2012–2013.
+• Associate Editor for Cognitive Psychology, 2009–2013.
+• Guest Associate Editor for Psychometrika, 2013.
+
+2 of 44
+
+Organizational
+Activities
+
+• Guest editor for the special section “Replicability in Psychological Sci-
+ence: A Crisis of Conﬁdence?”, Perspectives on Psychological Science,
+2012 (with Hal Pashler). Vol. 7, issue 6, pp. 528–654.
+
+• President of the Society for Mathematical Psychology, 2011–2012.
+• Member of the board of consulting editors for Journal of Experimental
+
+Psychology: Learning, Memory, and Cognition, 2009.
+
+• Member of the board of consulting editors for Psychonomic Bulletin &
+
+Review, 2006–2009.
+
+• Member of the editorial board for Journal of Mathematical Psychology,
+
+2006–2009.
+
+• Guest editor for the special issue “Model Selection: Theoretical Develop-
+ments and Applications”, Journal of Mathematical Psychology, 2006, Vol.
+50, issue 2, pp. 99–214 (with Lourens Waldorp).
+
+• Together with Richard Morey, Ravi Selker, Alexander Ly, Dora Matzke,
+Helen Steingroever, Johnny van Doorn, Maarten Marsman, and Quentin
+Gronau, part of the organizing committee for the second annual two–day
+JASP workshop “Theory and Practice of Bayesian Hypothesis Testing”.
+The workshop took place August 22–23, 2016, in Amsterdam, the Nether-
+lands, and attracted 70 participants.
+
+• Together with Dora Matzke, Helen Steingroever, Alexander Ly, Ravi
+Selker, Johnny van Doorn, Udo B¨ohm, Quentin Gronau, and Michael
+Lee, part of the organizing committee for the one–week “Sixth Annual
+JAGS and WinBUGS Workshop: Bayesian Modeling for Cognitive Sci-
+ence”. The workshop took place August 15–19, 2016, in Amsterdam, the
+Netherlands, and attracted 65 participants.
+
+• Together with Jaap Murre and Rene Zeelenberg, part of the organizing
+committee for a one–day international symposium in honor of Prof. dr.
+J. G. W. Raaijmakers. The symposium took place June 30, 2016, in
+Amsterdam, the Netherlands.
+
+• Together with Amy Criss and Joachim Vandekerckhove, part of the Soci-
+ety for Mathematical Psychology organizing committee for the symposium
+“Computational Approaches to Cognition”, a one-day pre-conference to
+the 57th annual meeting of the Psychonomic Society. The symposium is
+scheduled to take place November 17, 2016, in Boston, USA.
+
+• Together with Amy Criss and Joachim Vandekerckhove, part of the Soci-
+ety for Mathematical Psychology organizing committee for the symposium
+“Computational Approaches to Cognition”, a one-day pre-conference to
+the 56th annual meeting of the Psychonomic Society. The symposium
+took place November 19, 2015, in Chicago, USA, and attracted 76 partic-
+ipants.
+
+• Together with Jonathon Love, Richard Morey, Dora Matzke, Alexander
+Ly, Ravi Selker, Helen Steingroever, Maarten Marsman, Tahira Jamil,
+
+3 of 44
+
+Quentin Gronau, Damian Dropmann, and Michael Lee, part of the orga-
+nizing committee for the two–day “First Annual JASP Workshop”. The
+workshop took place August 6–7, 2015, in Amsterdam, the Netherlands,
+and attracted 33 participants.
+
+• Together with Jonathon Love, organized the workshop “Teaching Bayesian
+statistics with JASP” at 48th Annual Meeting for the Society of Mathe-
+matical Psychology (Newport Beach, USA), July 17, 2015.
+
+• Together with Jonathon Love and Richard Morey, organized the workshop
+“Bayesian hypothesis testing using JASP” at the SARMAC conference
+(Victoria, Canada), June 24, 2015.
+
+• Together with Dora Matzke and Francis Tuerlinckx, part of the organiz-
+ing committee for the one–week seminar “Bayesian Methods for the Social
+Sciences”. Participants included students from the University of Amster-
+dam, University of Glasgow, University of Graz, University of Leuven,
+University of Lisbon, University Complutense of Madrid, University of
+Oldenburg, University of Padova, University of Tartu, and University of
+T¨ubingen. The seminar took place March 22–28, 2015, in Balatonf¨oldv´ar,
+Hungary.
+
+• Together with Jonathon Love and Richard Morey, organized the workshop
+“Bayesian hypothesis testing using JASP” for the International Conven-
+tion of Psychological Science (ICPS), Amsterdam, the Netherlands, March
+12–14, 2015.
+
+• Together with Dora Matzke, Helen Steingroever, Alexander Ly, Ravi
+Selker, Maarten Marsman, Tahira Jamil, Johnny van Doorn, Udo B¨ohm,
+Quentin Gronau, Damian Dropmann, Jonathon Love, and Michael Lee,
+part of the organizing committee for the one–week “Fifth Annual JAGS
+and WinBUGS Workshop: Bayesian Modeling for Cognitive Science”.
+The workshop took place August 10–14, 2015, in Amsterdam, the Nether-
+lands, and attracted 51 participants.
+
+• Chair of the committee on preregistration for the workshop “Standards
+for Promoting Reproducible Research in the Social-Behavioral Sciences”,
+Charlottesville, November 2–3, 2014.
+
+• Together with Dora Matzke, Helen Steingroever, Alexander Ly, Tahira
+Jamil, Jonathon Love, Josine Verhagen, and Michael Lee, part of the or-
+ganizing committee for the one–week “Fourth Annual WinBUGS Work-
+shop: Bayesian Modeling for Cognitive Science”. The workshop took
+place August 11–15, 2014, in Amsterdam, the Netherlands, and attracted
+56 participants.
+
+• Member of the Program Committee for the Annual Convention of the
+
+Association for Psychological Science, 2014–2016.
+
+• Together with Agneta Fischer and Gerben van Kleef, part of the organiz-
+ing committee for the lecture series “Replicability and Transparency in
+Psychological Research” (2013–2014).
+
+• Together with Dora Matzke, Helen Steingroever, Alexander Ly, and Michael
+Lee, part of the organizing committee for the one–week workshop “Bayesian
+
+4 of 44
+
+Modeling for Cognitive Science”. The workshop took place August 12–16,
+2013, in Amsterdam, the Netherlands, and attracted 50 participants.
+
+• Local coordinator of the Socrates–Erasmus Intensive Programme 2012,
+2013, and 2014 on “Quantitative Approaches to Psychological Processes:
+Modeling, Testing, Fitting”.
+
+• Together with Dora Matzke, Helen Steingroever, and Michael Lee, part
+of the organizing committee for the one–week workshop “Bayesian Mod-
+eling for Cognitive Science”. The workshop took place July 2–6, 2012, in
+Amsterdam, the Netherlands, and attracted 37 participants.
+
+• Together with Birte Forstmann, part of the organizing committee for the
+Academy Colloquium “New Insights from Model–Based Cognitive Neuro-
+science” funded by the Royal Netherlands Academy of Arts and Sciences
+(KNAW). The colloquium took place in Amsterdam, May 2012.
+
+• Together with Ruud Wetzels, Dora Matzke, and Michael Lee, part of the
+organizing committee for the one–week workshop “Bayesian Modeling for
+Cognitive Science”. The workshop took place August 22–26, 2011, in
+Amsterdam, the Netherlands, and attracted 48 participants.
+
+• Chair of the organizing committee for the 42nd annual meeting of the
+Society for Mathematical Psychology and the 40th annual meeting of the
+European Mathematical Psychology Group. The joint meeting took place
+August 1–4, 2009, in Amsterdam, the Netherlands, and attracted over
+250 participants.
+
+• Global coordinator of the Socrates–Erasmus Intensive Programme 2008,
+2009, and 2010 on “Formal Models and Quantitative Methods for Psychol-
+ogy”, a European–wide initiative to promote mathematical modeling in
+psychology. Participating institutions: University of Amsterdam, Interna-
+tional University Bremen, University of Debrecen, University of Glasgow,
+University of Graz, University of Leuven, University of Lisbon, University
+Complutense of Madrid, University of Oldenburg, University of Padova,
+University of Tartu, University of Oulu, and University of T¨ubingen.
+
+• Local coordinator of the Socrates–Erasmus Intensive Programme 2005,
+2006, and 2007 on “Mathematical and Computational Models in the Psy-
+chological Sciences”.
+
+• Organized the symposium “Modeling Response Times” for the 71th an-
+nual meeting of the Psychometrics Society, Montreal, Canada, June 14–
+17, 2006.
+
+• Co–organized a three–day workshop “Model Selection: Theoretical De-
+velopments and Applications”, in Amsterdam, the Netherlands, August
+2004. Participants included Marc Aerts, Jim Berger, Ken Bollen, Michael
+Browne, Ken Burnham, Laurie Davies, Aart de Vos, Malcolm Forster,
+Paul Vitanyi, and Jay Myung. External funding was provided by NWO.
+• Co–organized a three–day workshop “Computational Models of Memory”
+in Amsterdam, the Netherlands, September 2001. Participants included
+John Anderson, Roger Ratcliﬀ, Rich Shiﬀrin, Erik Altmann, Randall
+
+5 of 44
+
+Memberships
+
+O‘Reilly, Mike Masson, Trish Van Zandt and Art Jacobs. External fund-
+ing was provided by NWO and the Royal Academy of Arts and Sciences.
+
+• Member of the Society for Mathematical Psychology.
+• Member of the International Society for Bayesian Analysis.
+• Member of the Psychonomic Society.
+• Member of ESCoP, the European Society for Cognitive Psychology.
+• Member of the Foundation for Open Access Statistics (FOAS).
+• Member of the Dutch Psychonomic Society (NVP).
+• Member of IOPS, a Dutch Research School for Psychometrics and Socio-
+
+metrics.
+
+Awards and
+Grants
+
+32. In 2016, the proposal “JASP Professional Services: A Fresh Way to Analyze
+Data” was awarded a e39,838 TakeOﬀ grant from the Technology Foundation
+STW and the Netherlands Organisation for Scientiﬁc Research (NWO). Co-
+applicants are Helen Steingroever and Michiel Klønhammer.
+
+31. In 2016, the “MaGW research talent” PhD project “Accounting for model
+uncertainty in structural equation modeling: A Bayesian approach” was awarded
+a four–year e204,474 grant from the Netherlands Organisation for Scientiﬁc Re-
+search (NWO). PhD student is Quentin F. Gronau.
+
+30.
+In 2016, the Berkeley Initiative for Transparency in the Social Sciences
+(BITSS) approved a $29,767 Social Science Meta-Analysis and Research Trans-
+parency (SSMART) grant for the proposal “Bayesian Evidence Synthesis: New
+Meta-Analytic Procedures for Measuring, Monitoring, Combining, and Project-
+ing Statistical Evidence”.
+
+29. In 2015, the Center for Open Science (COS) approved a $13,750 incubator
+grant for integrating JASP and the Open Science Framework. Main applicant:
+Jonathon Love.
+
+28. In 2015, the Erasmus+ 2015 Key Action 2 (KA2) Strategic Partnerships
+Project “Tools for Teaching Quantitative Thinking” was awarded a e392,710
+grant to improve presentation, research ethics, and programming skills related
+to quantitative thinking of students from 12 universities across Europe. Main
+applicant is Martin Lages (University of Glasgow).
+
+27. In 2015, the IOPS PhD project “Bayesian Inference for Ordinal Data in
+Psychology” was awarded a four–year e200,000 grant from the Netherlands
+Organisation for Scientiﬁc Research (NWO). PhD student is Johnny van Doorn.
+
+In 2015, the project “Bayesian Hypothesis Testing without Tears: An
+26.
+Interactive Introduction for Psychology Teachers and Students” was awarded
+
+6 of 44
+
+a $5000 grant from the APS Fund for Teaching and Public Understanding of
+Psychological Science. Co-applicants are Felix Sch¨onbrodt and Richard Morey.
+
+25. In 2014, the “MaGW research talent” PhD project “A Bayesian approach to
+mental health assessment in psychiatric detention centers” was awarded a three–
+year e171,362 grant from the Netherlands Organisation for Scientiﬁc Research
+(NWO). PhD student is Ravi Selker.
+
+24. In 2013, the “MaGW research talent” PhD project “Dynamic Adjustment
+of Response Caution in Perceptual Decision-Making” was awarded a three–
+year e168,735 grant from the Netherlands Organisation for Scientiﬁc Research
+(NWO). Main applicant is Hedderik van Rijn, PhD student is Udo B¨ohm.
+
+23. The Socrates–Erasmus Intensive Programme “Quantitative Approaches to
+Psychological Processes: Modeling, Testing, Fitting” was awarded a grant from
+the Institute on Life Long Learning; e46,205 in 2012. This grant supported
+the organization of a 10–day seminar on mathematical psychology for students
+from 13 universities across Europe. Fellow applicants are Luca Stefanutti (Uni-
+versity of Padova), Francis Tuerlinckx (Catholic University of Leuven), Martin
+Lages (University of Glasgow), Hans Colonius (University of Oldenburg), Istvan
+Hidegkuti. (University of Debrecen), Thomas Augustin (University of Graz),
+Miguel Garcia–Perez (University Complutense of Madrid), Adele Diederich (Ja-
+cobs University of Bremen), Mario Ferreira (University of Lisbon), Aire Raidvee
+(University of Tartu), J¨urgen Heller (University of T¨ubingen), and Peter Hasto
+(University of Oulu).
+
+22. In 2012, inaugural recipient of the Newcastle Psychology Research Visitor
+Fellowship, AUD$5,000.
+
+21. Partner investigator on the Australian Research Council AUD$134,000
+three–year project “Rapid Decisions: From Neuroscience to Complex Cogni-
+tions” (chief investigators: Scott Brown, Ami Eidels, and Andrew Heathcote;
+project duration: 2012–2014).
+
+20. Partner investigator on the Australian Research Council AUD$387,000
+three–year project “Cognitive Flexibility from Adolescence to Senescence: Vari-
+ability Associated with Cognitive Strategy and Brain Connectivity” (chief in-
+vestigators: Frini Karayanidis, Rhoshel Lenroot, Mark Parsons, and Patricia
+Michie; project duration: 2012–2014).
+
+19. In 2011, the project “Bayes or Bust: Sensible Hypothesis Tests for Social
+Scientists” was awarded a ﬁve–year e1,500,000 “consolidator” grant from the
+European Research Council.
+
+18. In 2011, the e23,000 Academy Colloquium proposal “New Insights from
+Model-Based Cognitive Neuroscience” was funded by the Royal Netherlands
+Academy of Arts and Sciences (KNAW). Fellow applicant is Birte Forstmann.
+
+7 of 44
+
+17. External advisor on the Engineering and Physical Sciences Research Council
+£1,858,354 project “Decision making in an unstable world” (investigators: Iain
+Gilchrist, Roland Baddeley, Rafal Bogacz, Simon Farrell, David Leslie, Casimir
+Ludwig, and John McNamara).
+
+16. In 2011, the “MaGW open competition” PhD project “A dynamic and for-
+mal account of what people do before and after they make an error” was awarded
+a four–year e208,193 grant from the Netherlands Organisation for Scientiﬁc
+Research (NWO). Fellow applicants are Birte Forstmann, Sander Nieuwenhuis,
+and Han van der Maas.
+
+15. Consultant on the NSF $440,000 CAREER project “Cued recall: Theory
+and data” (PI Amy Criss, Syracuse University).
+
+14. In 2010, the “ALW open competition” postdoc project “The neural basis
+of decision–making with multiple choice alternatives” was awarded a three–
+year e228,921 grant from the Netherlands Organisation for Scientiﬁc Research
+(NWO). Fellow applicants are Birte Forstmann, Sander Nieuwenhuis, Rafal
+Bogacz, Scott Brown, John Serences, and Han van der Maas.
+
+13. In 2009, the project “Decision–making and adaptive control over impul-
+sive actions” was awarded a e580,000 focal point (“Zwaartepunt”) grant from
+the University of Amsterdam. Fellow applicants include Richard Ridderinkhof,
+Frans van Winden, Damiaan Denys, and Birte Forstmann.
+
+12. Co–applicant on the “ALW open competition” four–year e218,000 PhD
+grant proposal “The anatomical and neurochemical foundations of decision–
+making under time pressure”, funded by the Netherlands Organisation for Sci-
+entiﬁc Research (NWO). Fellow applicant and PI is Birte Forstmann.
+
+11. The Socrates–Erasmus Intensive Programme “Formal Models and Quan-
+titative Methods for Psychology” was awarded three grants from the Institute
+on Life Long Learning; e52,855 in 2008, e46,462 in 2009, and e46,017 in 2010.
+These grants supported the organization of 10–day seminars on mathemati-
+cal psychology for students from 13 universities across Europe. Fellow appli-
+cants are Luca Stefanutti (University of Padova), Francis Tuerlinckx (Catholic
+University of Leuven), Martin Lages (University of Glasgow), Hans Colonius
+(University of Oldenburg), Akos Munnich (University of Debrecen), Thomas
+Augustin (University of Graz), Miguel Garcia–Perez (University Complutense
+of Madrid), Adele Diederich (Jacobs University of Bremen), Helena Bacelar
+Nicolau (University of Lisbon), Aire Raidvee (University of Tartu), Rolf Ulrich
+(University of T¨ubingen), and Peter Hasto (University of Oulu).
+
+10.
+In 2007, the project “Diﬀusion Processes in the Brain” was awarded a
+one–year e28,220 “pilot” grant from the Netherlands Organisation for Scien-
+tiﬁc Research (NWO). Fellow applicants are Birte Forstmann, Scott Brown
+(University of Newcastle), and Jane Neumann (MPI Leipzig).
+
+8 of 44
+
+9. Consultant on the three–year $430,000 Air Force Research Laboratory
+project “Modeling Exploration and Exploitation in Structured Environments”
+(PIs Michael D. Lee and Mark Steyvers, University of Califoria at Irvine).
+
+8. William K. Estes Early Career Award, Society for Mathematical Psychology.
+The annual award was presented at the 2007 Mathematical Psychology meeting
+in Irvine, USA.
+
+7. In 2006, the project “Modeling the Relation Between Speed and Accuracy”
+was awarded a ﬁve–year e600,000 “Vidi” grant from the Netherlands Organi-
+sation for Scientiﬁc Research (NWO).
+
+6. Paul Bertelson Early Career Award, The European Society for Cognitive
+Psychology (ESCoP). The bi–annual award was presented at the 2007 ESCoP
+conference in Marseille, France. “The Paul Bertelson award is designed to honor
+scientists at a relatively early stage of their scientiﬁc career, who have made an
+outstanding contribution to European Cognitive Psychology”.
+
+5. Co–applicant on the “MaGW open competition” four–year e170,000 PhD
+grant proposal “Development of cognitive expertise in chess”, funded by the
+Netherlands Organisation for Scientiﬁc Research (NWO). Fellow applicants are
+Han van der Maas (PI) and Frenk van Harreveld.
+
+4. In 2004, the project “Methods and Models for 1/f Noise in Human Cogni-
+tion” was awarded a three–year e200,000 “Veni” grant from the Netherlands
+Organisation for Scientiﬁc Research (NWO).
+
+3. Best Thesis Award, Dutch Psychonomic Society (NVP). The bi–annual
+award was presented at the 2003 NVP meeting in Egmond aan Zee, the Nether-
+lands. The thesis is titled “Priming in Visual Word Recognition: Empirical
+Studies and Computational Models”.
+
+2. Best Graduate Student Article Award, EPOS (i.e., a Dutch research school
+for experimental psychology). The award was presented at the 2000 EPOS
+meeting in Amsterdam, the Netherlands. The article is titled “Testing the
+counter model for perceptual identiﬁcation: Eﬀects of repetition priming and
+word frequency.” (Wagenmakers, Zeelenberg, & Raaijmakers, 2000).
+
+1. Fulbright scholarship for an eight–month stay at Indiana University to work
+with Rich Shiﬀrin on the REM memory model (1999).
+
+Ad Hoc
+Reviewing
+
+• Acta Psychologica
+• The American Psychologist
+• The American Statistician
+• Attention, Perception, & Psychophysics
+• Basic and Applied Social Psychology
+
+9 of 44
+
+• Basic Research Funding Program of the Athens University of Economics
+
+and Business
+
+• Behavior Research Methods
+• Behavioral and Brain Sciences
+• Brain and Cognition
+• Cambridge University Press book proposals
+• Canadian Journal of Experimental Psychology
+• The Canadian Journal of Statistics
+• Child Development
+• Clinical Chemistry
+• Cognition
+• Cognition and Emotion
+• Cognitive Psychology
+• Cognitive Science
+• The Cognitive Science conference: 2004, 2007
+• Colombian Journal of Statistics
+• Communication Methods and Measures
+• Comprehensive Results in Social Psychology
+• Computational Psychiatry
+• Computational Statistics and Data Analysis
+• Cortex
+• Current Biology
+• Current Directions in Psychological Science
+• Decision
+• Developmental Psychology
+• Electronic Journal of Statistics
+• Experimental Brain Research
+• The European Journal of Cognitive Psychology
+• The European Journal of Developmental Psychology
+• European Journal of Neuroscience
+• The European Physical Journal B
+• The European Psychologist
+• IEEE Transactions on Signal Processing
+• Field Methods
+• Frontiers in Decision Neuroscience
+• Frontiers in Neuroinformatics
+• Frontiers in Perception Science
+
+10 of 44
+
+• Frontiers in Quantitative Psychology and Measurement
+• FWO (Research Foundation Flanders)
+• Group Processes and Intergroup Relations
+• Human Brain Mapping
+• International Journal of Information Technology and Decision Making
+• International Journal of Methods in Psychiatric Research
+• Journal of the American Statistical Association
+• Journal of Applied Statistics
+• Journal of Aﬀective Disorders
+• Journal of Behavior Therapy and Experimental Psychiatry
+• Journal of Cognitive Neuroscience
+• Journal of Experimental Psychology: Human Perception & Performance
+• Journal of Experimental Psychology: General
+• Journal of Experimental Psychology: Learning, Memory, and Cognition
+• Journal of Experimental Social Psychology
+• Journal of Management
+• Journal of Mathematical Psychology
+• Journal of Memory and Language
+• Journal of Neurophysiology
+• Journal of Neuroscience
+• The Journal of Problem Solving
+• Journal of the Royal Society Interface
+• Journal of Statistical Planning and Inference
+• Journal of Vision
+• Learning and Individual Diﬀerences
+• Management Science
+• Memory
+• Memory & Cognition
+• Motor Control
+• Multivariate Behavioral Research
+• Nature Reviews Neuroscience
+• Nature Neuroscience
+• NIPS (Neural Information Processing Systems) conferences: 2002, 2003,
+
+2007
+
+• Neural Computation
+• Neural Networks
+• Neuropsychology
+
+11 of 44
+
+• Neuron
+• NSF (National Science Foundation)
+• NWO (Netherlands Organisation for Scientiﬁc Research), MaGW Re-
+
+search Talent programme
+
+• Perception & Psychophysics
+• Physica A
+• PLoS ONE
+• PLoS Biology
+• PLoS Computational Biology
+• Proceedings of the National Academy of Sciences
+• Psychonomic Bulletin & Review
+• Psychological Assessment
+• Psychological Bulletin
+• Psychological Methods
+• Psychological Research
+• Psychological Review
+• Psychology and Aging
+• Psychology of Popular Media Culture
+• Psychometrika
+• Quarterly Journal of Experimental Psychology
+• Royal Society Open Science
+• Science
+• Self and Identity
+• Social Psychological and Personality Science
+• Social Sciences and Humanities Research Council of Canada
+• Springer book proposals
+• Statistica Neerlandica
+• Statistics and Probability Letters
+• Swiss National Science Foundation
+• Theory & Psychology
+• Topics in Cognitive Science
+• Trends in Cognitive Sciences
+
+Books
+
+Forstmann, B. U., & Wagenmakers, E.–J. (Eds., 2015) An introduction to
+model–based cognitive neuroscience. Springer.
+
+Lee, M. D., & Wagenmakers, E.–J. (2013). Bayesian cognitive modeling: A
+practical course. Cambridge University Press. See also www.bayesmodels.com.
+
+12 of 44
+
+Articles
+
+172. Etz, A., & Wagenmakers, E.–J. (in press). J. B. S. Haldane’s contribution
+to the Bayes factor hypothesis test. Statistical Science.
+
+171. Marsman, M., & Wagenmakers, E.–J. (in press). Bayesian beneﬁts with
+JASP. European Journal of Developmental Psychology.
+
+170. Forstmeier, W., Wagenmakers, E.–J., & Parker, T. (in press). Detect-
+ing and avoiding likely false–positive ﬁndings — A practical guide. Biological
+Reviews.
+
+169. Gronau, Q. F., & Wagenmakers, E.–J. (in press). Bayesian evidence
+accumulation in experimental mathematics: A case study of four irrational
+numbers. Experimental Mathematics.
+
+168. van Doorn, J., Ly, A., Marsman, M., & Wagenmakers, E.–J. (in press).
+Bayesian inference for Kendall’s rank correlation coeﬃcient. The American
+Statistician.
+
+167. Field, S. M., Wagenmakers, E.–J., Newell, B. R., Zeelenberg, R., & van
+Ravenzwaaij, D. (in press). Two Bayesian tests of the GLOMOsys model. Jour-
+nal of Experimental Psychology: General.
+
+166. Tierney, W., Schweinsberg, M., Jordan, J., Kennedy, D., Qureshi, I.,
+Sommer, S. A., Thornley, N., Madan, N., Vianello, M., Awtrey, E., Zhu, L.,
+Diermeier, D., Heinze, J., Srinivasan, M., Tannenbaum, D., Bivolaru, E., Dana,
+J., Davis–Stober, C., du Plessis, C., Gronau, Q. F., Hafenbrack, A., Liao, E.,
+Ly, A., Marsman, M., Murase, T., Schaerer, M., Tworek, C., Wagenmakers, E.–
+J., Wong, L., Anderson, T., Bauman, C., Bedwell, W., Brescoll, V., Canavan,
+A., Chandler, J., Cheries, E., Cheryan, S., Cheung, F., Cimpian, A., Clark,
+M., Cordon, D., Cushman, F., Ditto, P., Amell, A., Frick, S., Gamez–Djokic,
+M., Grady, R., Graham, J., Gu, J., Hahn, A., Hanson, B., Hartwich, N., Hein,
+K., Inbar, Y., Jiang, L., Kellogg, T., Legate, N., Luoma, T., Maibeucher, H.,
+Meindl, P., Miles, J., Mislin, A., Molden, D., Motyl, M., Newman, G., Ngo, H.
+H., Packham, H., Ramsay, P. S., Ray, J., Sackett, A., Sellier, A.–L.,Sokolova, T.,
+Sowden, W., Storage, D., Sun, X., van Bavel, J., Washburn, A., Wei, C., Wetter,
+E., Wilson, C., Darroux, S.–C., & Uhlmann, E. (2016). Data from a pre-
+publication independent replication initiative examining ten moral judgement
+eﬀects. Scientiﬁc Data, 3, 160082.
+
+165. Wagenmakers, E.–J., Beek, T., Dijkhoﬀ, L., Gronau, Q. F., Acosta, A.,
+Adams, R. B., Jr., Albohn, D. N., Allard, E. S., Benning, S. D., Blouin–Hudon,
+E.–M., Bulnes, L. C., Caldwell, T. L., Calin–Jageman, R. J., Capaldi, C. A.,
+Carfagno, N. S., Chasten, K. T., Cleeremans, A., Connell, L., DeCicco, J. M.,
+Dijkstra, K., Fischer, A. H., Foroni, F., Hess, U., Holmes, K. J., Jones, J. L. H.,
+Klein, O., Koch, C., Korb, S., Lewinski, P., Liao, J. D., Lund, S., Lupi´a˜nez, J.,
+Lynott, D., Nance, C. N., Oosterwijk, S., ¨Ozdo˘gru, A. A., Pacheco–Unguetti, A.
+P., Pearson, B., Powis, C., Riding, S., Roberts, T.–A., Rumiati, R. I., Senden,
+M., Shea–Shumsky, N. B., Sobocko, K., Soto, J. A., Steiner, T. G., Talarico,
+
+13 of 44
+
+J. M., van Allen, Z. M., Vandekerckhove, M., Wainwright, B., Wayand, J. F.,
+Zeelenberg, R., Zetzer, E. E., Zwaan, R. A. (in press). Registered Replica-
+tion Report: Strack, Martin, & Stepper (1988). Perspectives on Psychological
+Science.
+
+164. Marsman, M., Ly, A., & Wagenmakers, E.–J. (in press). Four Require-
+ments for an Acceptable Research Program. Basic and Applied Social Psychol-
+ogy.
+
+163. Rouder, J. N., Morey, R. D., Verhagen, J. A., Province, J. M., & Wagen-
+makers, E.–J. (2016). Is there a free lunch in inference? Topics in Cognitive
+Science, 8, 520–547.
+
+162. Heck, D. W., & Wagenmakers, E.–J. (2016). Adjusted priors for Bayes
+factors involving reparameterized order constraints. Journal of Mathematical
+Psychology, 73, 110–116.
+
+161. Jamil, T., Ly, A., Morey, R. D., Love, J., Marsman, M., & Wagenmakers,
+E.–J. (in press). Default “Gunel and Dickey” Bayes factors for contingency
+tables. Behavior Research Methods.
+
+160. Rouder, J. N., Morey, R. D., & Wagenmakers, E.–J. (2016). The interplay
+between subjectivity, statistical practice, and psychological science. Collabra,
+2, 1–12.
+
+159. Scheibehenne, B., Jamil, T., & Wagenmakers, E.–J. (in press). Bayesian
+evidence synthesis can reconcile seemingly inconsistent results: The case of
+hotel towel reuse. Psychological Science.
+
+158. Jamil, T., Marsman, M., Ly, A., Morey, R. D., & Wagenmakers, E.–J.
+(in press). What are the odds? Modern relevance and Bayes factor solutions
+for MacAlister’s problem from the 1881 Educational Times. Educational and
+Psychological Measurement.
+
+157. Wagenmakers, E.-J., Morey, R. D., & Lee, M. D. (2016). Bayesian beneﬁts
+for the pragmatic researcher. Current Directions in Psychological Science, 25,
+169–176.
+
+156. Monden, R., de Vos, S., Morey, R. D., Wagenmakers, E.–J., de Jonge,
+P., & Roest, A. M. (in press). Toward evidence-based medical statistics: A
+Bayesian analysis of double-blind placebo-controlled antidepressant trials in the
+treatment of anxiety disorders. International Journal of Methods in Psychiatric
+Research.
+
+155. van Ravenzwaaij, D., Mulder, M. J., Tuerlinckx, F., & Wagenmakers, E.–
+J. (2015). Paradoxes of optimal decision making: A response to Moran (2014).
+Psychonomic Bulletin & Review, 22, 307–308.
+
+14 of 44
+
+154. Mulder, J., & Wagenmakers, E.–J. (2016). Editors’ introduction to the
+special issue “Bayes factors for testing hypotheses in psychological research:
+Practical relevance and new developments”. Journal of Mathematical Psychol-
+ogy, 72, 1–5.
+
+153. Marsman, M., & Wagenmakers, E.–J. (in press). Three insights from a
+Bayesian interpretation of the one-sided P value. Educational and Psychological
+Measurement.
+
+152. Ly, A., Verhagen, A. J., & Wagenmakers, E.–J. (2016). An evaluation
+of alternative methods for testing hypotheses, from the perspective of Harold
+Jeﬀreys. Journal of Mathematical Psychology, 72, 43–55.
+
+151. Wetzels, R., Tutschkow, D., Dolan, C., van der Sluis, S., Dutilh, G., &
+Wagenmakers, E.–J. (2016). A Bayesian test for the hot hand phenomenon.
+Journal of Mathematical Psychology, 72, 200–209.
+
+150. Morey, R. D., Chambers, C. D., Etchells, P. J., Harris, C. R., Hoekstra,
+R., Lakens, D., Lewandowsky, S., Morey, C. C., Newman, D. P., Sch¨onbrodt,
+F., Vanpaemel, W., Wagenmakers, E.–J., & Zwaan, R. A. (2016). The Peer Re-
+viewers’ Openness Initiative: Incentivising open research practices through peer
+review. Royal Society Open Science, 3:150547. See https://opennessinitiative.
+org/.
+
+149. Schweinsberg, M., Madan, N., Vianello, M., Sommer, S. A., Jordan, J.,
+Tierney, W., Awtrey, E., Zhu, L., Diermeier, D., Heinze, J., Srinivasan, M.,
+Tannenbaum, D., Bivolaru, E., Dana, J., Davis-Stober, C. P., Du Plessis, C.
+Gronau, Q. F., Hafenbrack, A. C., Liao, E. Y., Ly, A., Marsman, M., Murase,
+T., Qureshi, I., Schaerer, M., Thornley, N., Tworek, C. M., Wagenmakers, E–
+J., Wong, L., Anderson, T., Bauman, C. W., Bedwell, W. L., Brescoll, V.,
+Canavan, A., Chandler, J. J., Cheries, E., Cheryan, S., Cheung, F., Cimpian,
+A., Clark, M., Cordon, D., Cushman, F., Ditto, P. H., Donahue, T., Frick, S. E.,
+Gamez-Djokic, M., Hofstein Grady, R., Graham, J., Gu, J., Hahn, A., Hanson,
+B. E., Hartwich, N. J., Hein, K., Inbar, Y., Jiang, L., Kellogg, T., Kennedy, D.
+M., Legate, N., Luoma, T. P., Maibeucher, H., Meindl, P., Miles, J., Mislin, A.,
+Molden, D. C., Motyl, M., Newman, G., Ngo, H. H., Packham, H., Ramsay, P.
+S., Ray, J. L., Sackett, A. M., Sellier, A–L., Sokolova, T., Sowden, W., Storage,
+D., Sun, X., Van Bavel, J. J., Washburn, A. N., Wei, C., Wetter, E., Wilson,
+C., Darroux, S–C., & Uhlmann, E. L. (in press). The pipeline project: Pre-
+publication independent replications of a single laboratory’s research pipeline.
+Journal of Experimental Social Psychology.
+
+148. Boehm, U., Hawkins, G. E., Brown, S. D., van Rijn, H., & Wagenmakers,
+E.–J. (2016). Of monkeys and men: Impatience in perceptual decision-making.
+Psychonomic Bulletin & Review, 23, 738-749.
+
+147. Terry, A., Marley, A. A. J., Barnwal, A., Wagenmakers, E.–J., Heathcote,
+A., & Brown, S. D. (in press). Generalising the drift rate distribution for linear
+
+15 of 44
+
+ballistic accumulators. Journal of Mathematical Psychology.
+
+146. Morey, R. D., Hoekstra, R., Rouder, J. N., & Wagenmakers, E.–J. (2016).
+Continued misinterpretation of conﬁdence intervals: Response to Miller and
+Ulrich. Psychonomic Bulletin & Review, 23, 131–140.
+
+145. Morey, R. D., Hoekstra, R., Rouder, J. N., Lee, M. D., & Wagenmakers,
+E.–J. (2016). The fallacy of placing conﬁdence in conﬁdence intervals. Psycho-
+nomic Bulletin & Review, 23, 103–123.
+
+144. van Elk, M., Matzke, D., Gronau, Q. F., Guan, M., Vandekerckhove,
+J., & Wagenmakers, E.–J. (2015). Meta-analyses are no substitute for regis-
+tered replications: A skeptical perspective on religious priming. Frontiers in
+Psychology, 6:1365.
+
+143. Boekel, W., Forstmann, B. U., & Wagenmakers, E.–J. (in press). Chal-
+lenges in replicating brain-behavior correlations: Rejoinder to Kanai (2015) and
+Muhlert and Ridgway (2015). Cortex.
+
+142. Open Science Collaboration (2015). Estimating the reproducibility of
+psychological science. Science, 349, aac4716. Named #8 of Top 100 Stories of
+2015 by Discover Magazine, #6 by Science News, #5 in Altmetric100, Nature
+Magazine’s Top Science Stories of 2015, and a runner-up for “Breakthrough of
+the Year” by Science Magazine.
+
+141. Schoenbrodt, F. D., Wagenmakers, E.–J., Zehetleitner, M., & Perugini, M.
+(in press). Sequential hypothesis testing with Bayes factors: Eﬃciently testing
+mean diﬀerences. Psychological Methods.
+
+140. Wagenmakers, E.–J. (2015). A quartet of interactions. Cortex, 73, 334–
+335.
+
+139. Cramer, A. O. J., van Ravenzwaaij, D., Matzke, D., Steingroever, H.,
+Wetzels, R., Grasman, R. P. P. P., Waldorp, L. J., & Wagenmakers, E.–J.
+(2016). Hidden multiplicity in multiway ANOVA: Prevalence, consequences,
+and remedies. Psychonomic Bulletin & Review, 23, 640–647.
+
+138. Steingroever, H., Wetzels, R., & Wagenmakers, E.–J. (2016). Bayes factors
+for reinforcement-learning models of the Iowa Gambling Task. Decision, 3, 115–
+131.
+
+137. Rouder, J. N., Morey, R. D., Verhagen, A. J., Swagman, A. R., & Wagen-
+makers, E.–J. (in press). Bayesian analysis of factorial designs. Psychological
+Methods.
+
+136. Ly, A., Verhagen, A. J., & Wagenmakers, E.–J. (2016). Harold Jeﬀreys’s
+default Bayes factor hypothesis tests: Explanation, extension, and application
+in psychology. Journal of Mathematical Psychology, 72, 19–32.
+
+16 of 44
+
+135. Heck, D., Wagenmakers, E.–J., & Morey, R. D. (2015). Testing order con-
+straints: Qualitative diﬀerences between Bayes factors and Normalized Maxi-
+mum Likelihood. Statistics and Probability Letters, 105, 157–162.
+
+134. Nosek, B. A., Alter, G., Banks, G. C., Borsboom, D., Bowman, S. D.,
+Breckler, S. J., Buck, S., Chambers, C. D., Chin, G., Christensen, G., Contesta-
+bile, M., Dafoe, A., Eich, E., Freese, J., Glennerster, R., Goroﬀ, D., Green, D.
+P., Hesse, B., Humphreys, M., Ishiyama, J., Karlan, D., Kraut, A., Lupia, A.,
+Mabry, P., Madon, T. A., Malhotra, N., Mayo-Wilson, E., McNutt, M., Miguel,
+E., Levy Paluck, E., Simonsohn, U., Soderberg, C., Spellman, B. A., Turitto,
+J., VandenBos, G., Vazire, S., Wagenmakers, E. J., Wilson, R., & Yarkoni, T.
+(2015). Promoting an open research culture. Science, 348, 1422–1425.
+
+133. Morey, R. D., Wagenmakers, E.–J., & Rouder, J. N. (in press). Calibrated
+Bayes factors should not be used: A reply to Hoijtink, van Kooten, and Hulsker.
+Multivariate Behavioral Research.
+
+132. Hawkins, G., Wagenmakers, E.–J., Ratcliﬀ, R., & Brown, S. D. (in press).
+Discriminating evidence accumulation from urgency signals in speeded decision
+making. The Journal of Neurophysiology.
+
+131. Wagenmakers, E.–J., Verhagen, A. J., & Ly, A. (2016). How to quantify
+the evidence for the absence of a correlation. Behavior Research Methods, 48,
+413–426.
+
+130. Wagenmakers, E.-J., Beek, T., Rotteveel, M., Gierholz, A., Matzke, D.,
+Steingroever, H., Ly, A., Verhagen, A. J., Selker, R., Sasiadek, A., Gronau,
+Q. F., Love, J., & Pinto, Y. (2015). Turning the hands of time again: A
+purely conﬁrmatory replication study and a Bayesian analysis. Frontiers in
+Psychology: Cognition, 6:494.
+
+129. Steingroever, H., Fridberg, D. J., Horstmann, A., Kjome, K. L., Kumari,
+V., Lane, S. D., Maia, T. V., McClelland, J. L., Pachur, T., Premkumar, P.,
+Stout, J. C., Wetzels, R., Wood, S., Worthy, D. A., & Wagenmakers, E.–J.
+(2015). Data from 617 healthy participants performing the Iowa gambling task:
+A “many labs” collaboration. Journal of Open Psychology Data, 3:e5.
+
+128. Rotteveel, M., Gierholz, A., Koch, G., van Aalst, C., Pinto, Y., Matzke,
+D., Steingroever, H., Verhagen, J., Beek, T. F., Selker, R., Sasiadek, A., &
+Wagenmakers, E.–J. (2015). On the automatic link between aﬀect and ten-
+dencies to approach and avoid: Chen and Bargh (1999) revisited. Frontiers in
+Psychology: Cognition, 6:335.
+
+127. Steingroever, H., Wetzels, R., & Wagenmakers, E.–J. (2015). w = .2,
+a = .8, c = .6: So what? On the meaning of parameter estimates from
+reinforcement-learning models. Decision, 2, 228–235.
+
+126. van Maanen, L., Forstmann, B. U., Keuken, M. C., Wagenmakers, E.–
+
+17 of 44
+
+J., & Heathcote, A. (in press). The impact of MRI scanner environment on
+perceptual decision making. Behavior Research Methods.
+
+125. Nieuwenstein, M. R., Wierenga, T., Morey, R. D., Wicherts, J. M., Blom,
+T. N., Wagenmakers, E.–J., & van Rijn, H. (2015). On making the right choice:
+A meta–analysis and large–scale replication attempt of the unconscious thought
+advantage. Judgment and Decision Making, 10, 1–17. Featured in Nature.
+
+124. de Hollander, G., Wagenmakers, E.–J., Waldorp, L., & Forstmann, B.
+(2014). An antidote to the imager’s fallacy, or how to identify brain areas that
+are in limbo. PLOS ONE, 9, e115700.
+
+123. Hawkins, G. E., Forstmann, B. U., Wagenmakers, E.—J., Ratcliﬀ, R.,
+& Brown, S. D. (2015). Revisiting the evidence for collapsing boundaries and
+urgency signals in perceptual decision-making. Journal of Neuroscience, 35,
+2476–2484.
+
+122. Boekel, W., Wagenmakers, E.–J., Belay, L., Verhagen, A. J., Brown, S.
+D., & Forstmann, B. U. (in press). A purely conﬁrmatory replication study of
+structural brain-behavior correlations. Cortex.
+
+121. Zhang, S., Lee, M. D., Vandekerckhove, J., Maris, G., & Wagenmakers,
+E.-J. (2014). Time-varying boundaries for diﬀusion models of decision mak-
+ing and response time. Frontiers in Psychology: Quantitative Psychology and
+Measurement, 5:1364.
+
+120. Krypotos, A.–M., Beckers, T., Kindt, M., & Wagenmakers, E.–J. (2015).
+A Bayesian hierarchical diﬀusion model decomposition of performance in approach–
+avoidance tasks. Cognition & Emotion, 29, 1424-1444.
+
+119. Andraszewicz, S., Scheibehenne, B., Rieskamp, J., Grasman, R. P. P. P.,
+Verhagen, A. J., & Wagenmakers, E.–J. (2015). An introduction to Bayesian
+hypothesis testing for management research. Journal of Management, 41, 521–
+543.
+
+118. Matzke, D., Nieuwenhuis, S., van Rijn, H., Slagter, H. A., van der Molen,
+M. W., & Wagenmakers, E.–J. (2015). The eﬀect of horizontal eye movements
+on free recall: A preregistered adversarial collaboration. Journal of Experimen-
+tal Psychology: General, 144, e1–e15.
+
+117. Wagenmakers, E.–J., Verhagen, A. J., Ly, A., Bakker, M., Lee, M. D.,
+Matzke, D., Rouder, J. N., & Morey, R. D. (2015). A power fallacy. Behavior
+Research Methods, 47, 913–917.
+
+116. Munaf`o, M., Noble, S., Browne, W., Brunner, D., Button, K., Ferreira, J.,
+Holmans, P., Langbehn, D., Lewis, G., Lindquist, M., Tilling, K., Wagenmak-
+ers, E.–J., & Blumenstein, R. (2014). Scientiﬁc rigor and the art of motorcycle
+maintenance. Nature Biotechnology, 32, 871–873.
+
+18 of 44
+
+115. Morey, R. D., & Wagenmakers, E.–J. (2014). Simple relation between
+Bayesian order-restricted and point-null hypothesis tests. Statistics and Prob-
+ability Letters, 92, 121–124.
+
+114. van Ravenzwaaij, D., Boekel, W., Forstmann, B., Ratcliﬀ, R., & Wa-
+genmakers, E.–J. (2014). Action video games do not improve the speed of
+information processing in simple perceptual tasks. Journal of Experimental
+Psychology: General, 143, 1794–1805.
+
+113. Verhagen, A. J., & Wagenmakers, E.–J. (2014). Bayesian tests to quan-
+tify the result of a replication attempt. Journal of Experimental Psychology:
+General, 143, 1457–1475.
+
+112. Nuijten, M. B., Wetzels, R., Matzke, D., Dolan, C. V., & Wagenmak-
+ers, E.–J. (2015). A default Bayesian hypothesis test for mediation. Behavior
+Research Methods, 47, 85-97.
+
+111. Morey, R. D., Rouder, J. N., Verhagen, J., & Wagenmakers, E.–J. (2014).
+Why hypothesis tests are essential for psychological science: A comment on
+Cumming. Psychological Science, 25, 1289–1290.
+
+110. Hoekstra, R., Morey, R. D., Rouder, J. N., & Wagenmakers, E.–J. (2014).
+Robust misinterpretation of conﬁdence intervals. Psychonomic Bulletin & Re-
+view, 21, 1157–1164.
+
+109. Steingroever, H., Wetzels, R., & Wagenmakers, E.–J. (2013). Validat-
+ing the PVL-Delta model for the Iowa gambling task. Frontiers in Decision
+Neuroscience, 4:898.
+
+108. Matzke, D., Love, J., Wiecki, T. V., Brown, S. D., Logan, G. D., &
+Wagenmakers, E.–J. (2013). Release the BEESTS: Bayesian Estimation of Ex-
+Gaussian STop-Signal Reaction Time Distributions. Frontiers in Quantitative
+Psychology and Measurement, 4:918.
+
+107. Winkel, J., Keuken, M. C., van Maanen, L., Wagenmakers, E.–J., &
+Forstmann, B. U. (2014). Early evidence aﬀects later decisions: Why evidence
+accumulation is required to explain response time data. Psychonomic Bulletin
+& Review, 21, 777-784.
+
+106. Heathcote, A., Wagenmakers, E.–J., & Brown, S. D. (2014). The falsiﬁa-
+bility of actual decision-making models. Psychological Review, 121, 676–678.
+
+105. Logan, G. D., Van Zandt, T., Verbruggen, F., & Wagenmakers, E.–J.
+(2014). On the ability to inhibit thought and action: General and special
+theories of an act of control. Psychological Review, 121, 66-95.
+
+104. Steingroever, H., Wetzels, R., & Wagenmakers, E.–J. (2014). Absolute
+performance of reinforcement-learning models for the Iowa Gambling Task. De-
+
+19 of 44
+
+cision, 1, 161–183.
+
+103. Wagenmakers, E.–J., & Forstmann, B. U. (2014). Rewarding high-power
+replication research. Cortex, 51, 105-106
+
+102. Matzke, D., Dolan, C. V., Batchelder, W. H., & Wagenmakers, E.–J.
+(2015). Bayesian estimation of multinomial processing tree models with het-
+erogeneity in participants and items. Psychometrika, 80, 205–235.
+
+101. Mulder, M. J., Keuken, M. C., van Maanen, L., Boekel, W., Forstmann,
+B. U., & Wagenmakers, E.–J. (2013). The speed and accuracy of perceptual
+decisions in a random-tone pitch task. Attention, Perception, & Psychophysics,
+75, 1048–1058.
+
+100. Turner, B. M., Forstmann, B. U., Wagenmakers, E.–J., Brown, S. D.,
+Sederberg, P. B., & Steyvers, M. (2013). A Bayesian framework for simultane-
+ously modeling neural and behavioral data. Neuroimage, 72, 193–206.
+
+99. Steingroever, H., Wetzels, R., & Wagenmakers, E.–J. (2013) A comparison
+of reinforcement-learning models for the Iowa Gambling Task using parameter
+space partitioning. The Journal of Problem Solving, 5.
+
+98. Pl¨oderl, M., Wagenmakers, E.–J., Tremblay, P., Ramsay, R., Kralovec, K.,
+Fartacek, C., & Fartacek, R. (2013). Sexual orientation and suicide risk: A
+critical review. Archives of Sexual Behavior, 42, 715–727.
+
+97. Pashler, H., & Wagenmakers, E.–J. (2012). Editors’ introduction to the
+special section on replicability in psychological science: A crisis of conﬁdence?
+Perspectives on Psychological Science, 7, 528–530. Featured in media around
+the world; downloaded over 215,000 times in the ﬁrst 20 days.
+
+96. Matzke, D., Dolan, C. V., Logan, G. D., Brown, S. D., & Wagenmak-
+ers, E.–J. (2013). Bayesian parametric estimation of stop–signal reaction time
+distributions. Journal of Experimental Psychology: General, 142, 1047–1073.
+
+95. Scheibehenne, B., Rieskamp, J., & Wagenmakers, E.–J. (2013). Testing
+adaptive toolbox models: A Bayesian hierarchical approach. Psychological Re-
+view, 120, 39–64.
+
+94. Wagenmakers, E.–J., Wetzels, R., Borsboom, D., van der Maas, H. L. J., &
+Kievit, R. A. (2012). An agenda for purely conﬁrmatory research. Perspectives
+on Psychological Science, 7, 627–633.
+
+93. Dyjas, O., Grasman, R. P. P. P., Wetzels, R., van der Maas, H. L. J.,
+& Wagenmakers, E.–J. (2012). What’s in a name: A Bayesian hierarchical
+analysis of the name–letter eﬀect. Frontiers in Quantitative Psychology and
+Measurement, 3:334.
+
+20 of 44
+
+92. Steingroever, H., Wetzels, R., Horstmann, A., Neumann, J., & Wagenmak-
+ers, E.–J. (2013). Performance of healthy participants on the Iowa Gambling
+Task. Psychological Assessment, 25, 180–193.
+
+91. Wetzels, R., & Wagenmakers, E.–J. (2012). A default Bayesian hypothesis
+test for correlations and partial correlations. Psychonomic Bulletin & Review,
+19, 1057–1064.
+
+90. Dutilh, G., Forstmann, B. U., Vandekerckhove, J. & Wagenmakers, E.–
+J. (2013). A diﬀusion model account of age diﬀerences in posterror slowing.
+Psychology and Aging, 28, 64–76.
+
+89. Ho, T., Brown, S., van Maanen, L., Forstmann, B. U., Wagenmakers,
+E.–J., & Serences, J. (2012). The optimality of sensory processing during the
+speed-accuracy tradeoﬀ. Journal of Neuroscience, 32, 7992–8003.
+
+88. van Ravenzwaaij, D., Mulder, M. J., Tuerlinckx, F., & Wagenmakers, E.–J.
+(2012). Do the dynamics of prior information depend on task context? An
+analysis of optimal performance and an empirical test. Frontiers in Cognitive
+Science, 3:132.
+
+87. Wetzels, R., Grasman, R. P. P. P., & Wagenmakers, E.–J. (2012). A default
+Bayesian hypothesis test for ANOVA designs. The American Statistician, 66,
+104–111.
+
+86. Dutilh, G., van Ravenzwaaij, D., Nieuwenhuis, S., van der Maas, H. L.
+J., Forstmann, B. U., & Wagenmakers, E.–J. (2012). How to measure post-
+error slowing: A confound and a simple solution. Journal of Mathematical
+Psychology, 56, 208–216.
+
+85. Ortega, A., Wagenmakers, E.–J., Lee, M. D., Markowitsch, H. J., Piefke,
+M. (2012). A Bayesian latent group analysis for detecting poor eﬀort in the
+assessment of malingering. Archives of Clinical Neuropsychology, 27, 453–465.
+
+84. Hawkins, G. E., Brown, S. D., Steyvers, M., & Wagenmakers, E.–J. (2012).
+An optimal adjustment procedure to minimize experiment time in decisions
+with multiple alternatives. Psychonomic Bulletin & Review, 19, 339–348.
+
+83. van Maanen, L., Grasman, R. P. P. P., Forstmann, B. U., Keuken, M.
+C., Brown, S. D., & Wagenmakers, E.–J. (2012). Similarity and number of
+alternatives in the random–dot motion paradigm. Attention, Perception, &
+Psychophysics, 74, 739–753.
+
+82. Mulder, M., Wagenmakers, E.–J., Ratcliﬀ, R., Boekel, W., & Forstmann,
+B. U. (2012). Bias in the brain: A diﬀusion model analysis of prior probability
+and potential payoﬀ. Journal of Neuroscience, 32, 2335–2343.
+
+81. van Maanen, L., Grasman, R. P. P. P., Forstmann, B. U., & Wagenmakers,
+
+21 of 44
+
+E.–J. (2012). Pi´eron’s law and optimal behavior in perceptual decision–making.
+Frontiers in Decision Neuroscience, 5:143.
+
+80. Hawkins, G., Brown, S. D., Steyvers, M., & Wagenmakers, E.–J. (2012).
+Decision speed induces context eﬀects in choice. Experimental Psychology, 59,
+206–215.
+
+79. Huizenga, H., Wetzels, R., van Ravenzwaaij, R., & Wagenmakers, E.–J.
+(2012). Four empirical tests of Unconscious Thought Theory. Organizational
+Behavior and Human Decision Processes, 117, 332–340.
+
+78. Jepma, M., Wagenmakers, E.–J., & Nieuwenhuis, S. (2012). Temporal
+expectation and information processing: A model-based analysis. Cognition,
+122, 426–441.
+
+77. Dutilh, G., Vandekerckhove, J., Forstmann, B. U., Keuleers, E., Brysbaert,
+M., & Wagenmakers, E.–J. (2012). Testing theories of post–error slowing. At-
+tention, Perception, & Psychophysics, 74, 454–465.
+
+76. Wagenmakers, E.–J., Krypotos, A.–M., Criss, A. H., & Iverson, G. (2012).
+On the interpretation of removable interactions: A survey of the ﬁeld 33 years
+after Loftus. Memory & Cognition, 40, 145–160.
+
+75. van Ravenzwaaij, D., van der Maas, H. L. J., & Wagenmakers, E.–J. (2012).
+Optimal decision making in neural inhibition models. Psychological Review,
+119, 201–215.
+
+74. van Ravenzwaaij, D., Dutilh, G., & Wagenmakers, E.–J. (2012). A diﬀusion
+model decomposition of the eﬀects of alcohol on perceptual decision making.
+Psychopharmacology, 219, 1017–1025.
+
+73. Hawkins, G., Brown, S. D., Steyvers, M., & Wagenmakers, E.–J. (2012)
+Context eﬀects in multi–alternative decision making: Empirical data and a
+Bayesian model. Cognitive Science, 36, 498–516.
+
+72. Wagenmakers, E.–J., van der Maas, H. L. J., & Farrell, S. (2012). Ab-
+stract concepts require concrete models: Why cognitive scientists have not yet
+embraced nonlinearly–coupled, dynamical, self-organized critical, synergistic,
+scale–free, exquisitely context–sensitive, interaction–dominant, multifractal, in-
+terdependent brain–body–niche systems. TopiCS, 4, 87–93.
+
+71. Forstmann, B. U., Tittgemeyer, M., Wagenmakers, E.–J., Derrfuss, J., Im-
+perati, D. & Brown, S. (2011). The speed–accuracy tradeoﬀ in the elderly brain:
+A structural model–based approach. Journal of Neuroscience, 31, 17242–17249.
+
+70. van Maanen, L., Brown, S., Eichele, T., Wagenmakers, E.–J., Ho, T.,
+Serences, J., & Forstmann, B. U. (2011). Neural correlates of trial-to-trial
+ﬂuctuations in response caution. Journal of Neuroscience, 31, 17488–17495.
+
+22 of 44
+
+69. Nieuwenhuis, S., Forstmann, B. U., & Wagenmakers, E.–J. (2011). Er-
+roneous analyses of interactions in neuroscience: A problem of signiﬁcance.
+Nature Neuroscience, 14, 1105–1107.
+
+68. Lodewyckx, T., Kim, W., Lee, M. D., Tuerlinckx, F., Kuppens, P., &
+Wagenmakers, E.–J. (2011). A tutorial on Bayes factor estimation with the
+product space method. Journal of Mathematical Psychology, 55, 331–347.
+
+67. Forstmann, B. U., Wagenmakers, E.–J., Eichele, T., Brown, S., & Serences,
+J. T. (2011). Reciprocal relations between cognitive neuroscience and formal
+cognitive models: Opposites attract? Trends in Cognitive Sciences, 15, 272–
+279.
+
+66. Wetzels, R., Matzke, D., Lee, M. D., Rouder, J. N., Iverson, G. J., & Wa-
+genmakers, E.–J. (2011). Statistical evidence in experimental psychology: An
+empirical comparison using 855 t tests. Perspectives on Psychological Science,
+6, 291–298.
+
+65. van Ravenzwaaij, D., Brown, S., & Wagenmakers, E.–J. (2011). An in-
+tegrated perspective on the relation between response speed and intelligence.
+Cognition, 119, 381–393.
+
+64. Dutilh, G., Krypotos, A.–M., & Wagenmakers, E.–J. (2011). Task–related
+vs. stimulus–speciﬁc practice: A diﬀusion model account. Experimental Psy-
+chology, 58, 434–442.
+
+63. Wagenmakers, E.–J., Wetzels, R., Borsboom, D., & van der Maas, H. L.
+J. (2011). Why psychologists must change the way they analyze their data:
+The case of psi: Comment on Bem (2011). Journal of Personality and Social
+Psychology, 100, 426–432. Featured in the New York Times, der Spiegel, Science
+(2011, vol. 331, pp. 272–273), and many other journals and media throughout
+the world.
+
+62. Stringer, S., Borsboom, D., & Wagenmakers, E.–J. (2011). Bayesian infer-
+ence for the information gain model. Behavior Research Methods, 43, 297–309.
+
+61. van Ravenzwaaij, D., Dutilh, G., & Wagenmakers, E.–J. (2011). Cognitive
+model decomposition of the BART: Assessment and application. Journal of
+Mathematical Psychology, 55, 94–105.
+
+60. Nilsson, H., Rieskamp, J., & Wagenmakers, E.–J. (2011). Hierarchical
+Bayesian parameter estimation for cumulative prospect theory. Journal of
+Mathematical Psychology, 55, 84–93.
+
+59. van Ravenzwaaij, D., van der Maas, H. L. J., & Wagenmakers, E.–J. (2011).
+Does the name–race Implicit Association Test measure racial prejudice? Ex-
+perimental Psychology, 58, 271-277.
+
+23 of 44
+
+58. Donkin, C., Brown, S., Heathcote, A., & Wagenmakers, E.–J. (2011).
+Diﬀusion versus linear ballistic accumulation: Diﬀerent models but the same
+conclusions about psychological processes? Psychonomic Bulletin & Review,
+18, 61-69.
+
+57. Dutilh, G., Wagenmakers, E.–J., Visser, I., & van der Maas, H. L. J.
+(2011). A phase transition model for the speed–accuracy trade–oﬀ in response
+time experiments. Cognitive Science, 35, 211–250.
+
+56.
+Jepma, M., te Beek, E. T., Wagenmakers, E.–J., van Gerven, J. M.
+A., & Nieuwenhuis, S. (2010). The role of the noradrenergic system in the
+exploration–exploitation trade–oﬀ: A pharmacological study. Frontiers in Hu-
+man Neuroscience, 4:170.
+
+55. Heathcote, A., Brown, S., Wagenmakers, E.–J., & Eidels, A. (2010).
+Distribution–free tests of stochastic dominance for small samples. Journal of
+Mathematical Psychology, 54, 454–463.
+
+54. Wetzels, R., Lee, M. D., & Wagenmakers, E.–J. (2010). Bayesian inference
+using WBDev: A tutorial for social scientists. Behavior Research Methods, 42,
+884–897.
+
+53. Forstmann, B. U., Anwander, A., Sch¨afer, A., Neumann, J., Brown, S.,
+Wagenmakers, E.–J., Bogacz, R., & Turner, R. (2010). Cortico–striatal con-
+nections predict control over speed and accuracy in perceptual decision making.
+Proceedings of the National Academy of Sciences, 107, 15916–15920. Featured
+under “Editors’ Choice” in Science, 2010, vol. 329, p. 1443.
+
+52. Iverson, G. J., Wagenmakers, E.–J., & Lee, M. D. (2010). A model av-
+eraging approach to replication: The case of prep. Psychological Methods, 15,
+172–181.
+
+51. Forstmann, B. U., Brown, S., Dutilh, G., Neumann, J., & Wagenmakers,
+E.–J. (2010). The neural substrate of prior information in perceptual decision
+making: A model–based analysis. Frontiers in Human Neuroscience, 40:4.
+
+50. Wetzels, R., Grasman, R. P. P. P., & Wagenmakers, E.–J. (2010). An
+encompassing prior generalization of the Savage–Dickey density ratio. Compu-
+tational Statistics & Data Analysis, 54, 2094–2102.
+
+49.
+Iverson, G., Lee, M. D., & Wagenmakers, E.–J. (2010). The random–
+eﬀects prep continues to mispredict the probability of replication. Psychonomic
+Bulletin & Review, 17, 270–272.
+
+48. Wetzels, R., Vandekerckhove, J., Tuerlinckx, F., & Wagenmakers, E.–J.
+(2010). Bayesian parameter estimation in the Expectancy Valence model of
+the Iowa gambling task. Journal of Mathematical Psychology, 54, 14–27.
+
+24 of 44
+
+47. Wagenmakers, E.–J., Lodewyckx, T., Kuriyal, H., & Grasman, R. (2010).
+Bayesian hypothesis testing for psychologists: A tutorial on the Savage–Dickey
+method. Cognitive Psychology, 60, 158–189.
+
+46. Bogacz, R., Wagenmakers, E.–J., Forstmann, B. U., & Nieuwenhuis, S.
+(2010). The neural basis of the speed–accuracy tradeoﬀ. Trends in Neuro-
+sciences, 33, 10–16. Highlighted online in Neuron, September 2011.
+
+45. Brown, S., Steyvers, M., & Wagenmakers, E.–J. (2009). Observing evidence
+accumulation during multi–alternative decisions. Journal of Mathematical Psy-
+chology, 53, 453–462.
+
+44. Dutilh, G., Vandekerckhove, J., Tuerlinckx, F., & Wagenmakers, E.–J.
+(2009). A diﬀusion model decomposition of the practice eﬀect. Psychonomic
+Bulletin & Review, 16, 1026–1036.
+
+43. Grasman, R. P. P. P., van der Maas, H. L. J., & Wagenmakers, E.–J.
+(2009). Fitting the cusp catastrophe in R: A cusp–package primer. Journal of
+Statistical Software, 32, 1–27.
+
+42. Matzke, D. & Wagenmakers, E.–J. (2009). Psychological interpretation of
+ex-Gaussian and shifted Wald parameters: A diﬀusion model analysis. Psycho-
+nomic Bulletin & Review, 16, 798–817.
+
+41. Wetzels, R., Raaijmakers, J. G. W., Jakab, E., & Wagenmakers, E.–J.
+(2009). How to quantify support for and against the null hypothesis: A ﬂexible
+WinBUGS implementation of a default Bayesian t test. Psychonomic Bulletin
+& Review, 16, 752–760.
+
+40. Iverson, G. J., Lee, M. D., Zhang, S., & Wagenmakers, E.–J. (2009). prep:
+An agony in ﬁve ﬁts. Journal of Mathematical Psychology, 53, 195–202.
+
+39. Iverson, G. J., Lee, M. D., & Wagenmakers, E.–J. (2009). prep misestimates
+the probability of replication. Psychonomic Bulletin & Review, 16, 424–429.
+
+38. Grasman, R. P. P. P., Wagenmakers, E.–J., & van der Maas, H. L. J. (2009).
+On the mean and variance of response times under the diﬀusion model with an
+application to parameter estimation. Journal of Mathematical Psychology, 53,
+55–68.
+
+37. Torre, K., & Wagenmakers, E.–J. (2009). Theories and models for 1/f β
+noise in human movement science. Human Movement Science, 28, 297–318.
+
+36. Steyvers, M., Lee, M. D., & Wagenmakers, E.–J. (2009). A Bayesian anal-
+ysis of human decision–making on bandit problems. Journal of Mathematical
+Psychology, 53, 168–179.
+
+35. Jepma, M., Wagenmakers, E.–J., Band, G. P. H., & Nieuwenhuis, S.
+
+25 of 44
+
+(2009). The eﬀects of accessory stimuli on information processing: Evidence
+from electrophysiology and a diﬀusion–model analysis. Journal of Cognitive
+Neuroscience, 21, 847–864.
+
+34. Wagenmakers, E.–J. (2009). Methodological and empirical developments
+for the Ratcliﬀ diﬀusion model of response times and accuracy. The European
+Journal of Cognitive Psychology, 21, 641–671.
+
+33. Forstmann, B. U., Dutilh, G., Brown, S., Neumann, J., von Cramon, D. Y.,
+Ridderinkhof, K. R., & Wagenmakers, E.–J. (2008). Striatum and pre–SMA
+facilitate decision–making under time pressure. Proceedings of the National
+Academy of Sciences, 105, 17538–17542.
+
+32. Ahn, W.–Y., Busemeyer, J. R., Wagenmakers, E.–J., & Stout, J. C.
+(2008). Comparison of decision learning models using the generalization cri-
+terion method. Cognitive Science, 32, 1376–1402.
+
+31. Shiﬀrin, R. M., Lee, M. D., Kim, W., & Wagenmakers, E.–J. (2008). A
+survey of model evaluation approaches with a tutorial on hierarchical Bayesian
+methods. Cognitive Science, 32, 1248–1284.
+
+30. Wagenmakers, E.–J., van der Maas, H. L. J., Dolan, C., & Grasman, R. P.
+P. P. (2008). EZ does it! Extensions of the EZ–diﬀusion model. Psychonomic
+Bulletin & Review, 15, 1229–1235.
+
+29. Wagenmakers, E.–J., Ratcliﬀ, R., Gomez, P., & McKoon, G. (2008). A
+diﬀusion model account of criterion shifts in the lexical decision task. Journal
+of Memory and Language, 58, 140–159.
+
+28. Wagenmakers, E.–J. (2007). A practical solution to the pervasive problems
+of p values. Psychonomic Bulletin & Review, 14, 779–804.
+
+27. van Harreveld, F., Wagenmakers, E.–J., & van der Maas, H. L. J. (2007).
+The eﬀects of time pressure on chess skill: An investigation into fast and slow
+processes underlying expert performance. Psychological Research, 71, 591–597.
+
+26. Wagenmakers, E.–J., & Brown, S. (2007). On the linear relation between
+the mean and the standard deviation of a response time distribution. Psycho-
+logical Review, 114, 830–841.
+
+25. Wagenmakers, E.–J., van der Maas, H. L. J., & Grasman, R. P. P. P. (2007).
+An EZ–diﬀusion model for response time and accuracy. Psychonomic Bulletin
+& Review, 14, 3–22.
+
+24. Farrell, S., Wagenmakers, E.–J., & Ratcliﬀ, R. (2006). 1/f noise in human
+cognition: Is it ubiquitous, and what does it mean? Psychonomic Bulletin &
+Review, 13, 737–741.
+
+26 of 44
+
+23. Wagenmakers, E.–J., & Raaijmakers, J. G. W. (2006). Long–term prim-
+ing of neighbors biases the word recognition process: Evidence from a lexical
+decision task. Canadian Journal of Experimental Psychology, 60, 275–284.
+
+22. Wagenmakers, E.–J., & Gr¨unwald, P. (2006). A Bayesian perspective on
+hypothesis testing. Psychological Science, 17, 641–642.
+
+21. Wagenmakers, E.–J., Gr¨unwald, P., & Steyvers, M. (2006). Accumulative
+prediction error and the selection of time series models. Journal of Mathemat-
+ical Psychology, 50, 149–166.
+
+20. Wagenmakers, E.–J., & Waldorp, L. (Eds.)(2006). Special issue on model
+selection: Theoretical developments and applications. Journal of Mathematical
+Psychology, 50, 99–214.
+
+19. Zeelenberg, R., Wagenmakers, E.–J., & Rotteveel, M. (2006). The impact
+of emotion on perception: Bias or enhanced processing? Psychological Science,
+17, 287–291.
+
+18. Wagenmakers, E.–J., & Nieuwenhuis, S. (2005). Damasio’s error: De
+somatic marker hypothese onder vuur. Neuropraxis, 9, 165–169. The title
+translates as: “Damasio’s error: The somatic marker hypothesis under ﬁre”.
+
+17. Wagenmakers, E.–J., Molenaar, P. C. M., Grasman, R. P. P. P., Hartelman,
+P. A. I., & van der Maas, H. L. J. (2005). Transformation invariant stochastic
+catastrophe theory. Physica D, 211, 263–276.
+
+16. Wagenmakers, E.–J., Grasman, R., & Molenaar, P. C. M. (2005). On the
+relation between the mean and the variance of a diﬀusion model response time
+distribution. Journal of Mathematical Psychology, 49, 195–204.
+
+15. Lee, M. D., & Wagenmakers, E.–J. (2005). Bayesian statistical inference
+in psychology: Comment on Traﬁmow (2003). Psychological Review, 112, 662–
+668.
+
+14. Pecher, D., Zeelenberg, R., & Wagenmakers, E.–J. (2005). Enemies and
+friends in the neighborhood: Orthographic similarity eﬀects in a semantic clas-
+siﬁcation task. Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 31, 121–128.
+
+13. van der Maas, H. L. J., & Wagenmakers, E.–J. (2005). The Amsterdam
+Chess Test: A psychometric analysis of chess expertise. The American Journal
+of Psychology, 118, 29–60.
+
+12. Wagenmakers, E.–J., Farrell, S., & Ratcliﬀ, R. (2005). Human cognition
+and a pile of sand: A discussion on serial correlations and self–organized criti-
+cality. Journal of Experimental Psychology: General, 134, 108–116.
+
+27 of 44
+
+11. Wagenmakers, E.–J., Farrell, S., & Ratcliﬀ, R. (2004). Estimation and in-
+terpretation of 1/f noise in human cognition. Psychonomic Bulletin & Review,
+11, 579-615.
+
+10. Wagenmakers, E.–J., Zeelenberg, R., Steyvers, M., Shiﬀrin, R. M., & Raai-
+jmakers, J. G. W. (2004). Nonword repetition in lexical decision: Support for
+two opposing processes. The Quarterly Journal of Experimental Psychology,
+57A, 1191–1210.
+
+9. Wagenmakers, E.–J., & Farrell, S. (2004). AIC model selection using Akaike
+weights. Psychonomic Bulletin & Review, 11, 192–196.
+
+8. Wagenmakers, E.–J., Ratcliﬀ, R., Gomez, P., & Iverson, G. J. (2004). Assess-
+ing model mimicry using the parametric bootstrap. Journal of Mathematical
+Psychology, 48, 28–50.
+
+7. Wagenmakers, E.–J., Steyvers, M., Raaijmakers, J. G. W., Shiﬀrin, R. M.,
+van Rijn, H., & Zeelenberg, R. (2004). A model for evidence accumulation in
+the lexical decision task. Cognitive Psychology, 48, 332–367.
+
+6. Wagenmakers, E.–J., Farrell, S., & Ratcliﬀ, R. (2004). Naive nonparametric
+bootstrap model weights are biased. Biometrics, 60, 281–283.
+
+5. Zeelenberg, R., Wagenmakers, E.–J., & Shiﬀrin, R. M. (2004). Nonword
+repetition priming in lexical decision reverses as a function of study task and
+speed stress. Journal of Experimental Psychology: Learning, Memory, and
+Cognition, 30, 270–277.
+
+4. Steyvers, M., Tenenbaum, J. B., Wagenmakers, E.–J., & Blum, B. (2003).
+Inferring causal networks from observations and interventions. Cognitive Sci-
+ence, 27, 453–489.
+
+3. Zeelenberg, R., Wagenmakers, E.–J., & Raaijmakers, J. G. W. (2002). Prim-
+ing in implicit memory tasks: Prior study causes enhanced discriminability, not
+only bias. Journal of Experimental Psychology: General, 131, 38–47.
+
+2. Wagenmakers, E.–J., Zeelenberg, R., & Raaijmakers, J. G. W. (2000). Test-
+ing the counter model for perceptual identiﬁcation: Eﬀects of repetition priming
+and word frequency. Psychonomic Bulletin & Review, 7, 662–667.
+
+1. Wagenmakers, E.–J., Zeelenberg, R., Schooler, L. J., & Raaijmakers, J. G.
+W. (2000). A criterion–shift model for enhanced discriminability in perceptual
+identiﬁcation: A note on the counter model. Psychonomic Bulletin & Review,
+7, 718–726.
+
+Book Chapters 11. Forstmann, B. U., Ratcliﬀ, R., & Wagenmakers, E.–J. (2016). Sequen-
+tial sampling models in cognitive neuroscience: Advantages, applications, and
+
+28 of 44
+
+extensions. Annual Review of Psychology, 67, 641–666.
+
+10. Wagenmakers, E.–J., Verhagen, A. J., Ly, A., Matzke, D., Steingroever, H.,
+Rouder, J. N., & Morey, R. D. (in press). The need for Bayesian hypothesis
+testing in psychological science. In Lilienfeld, S. O., & Waldman, I. (Eds.), Psy-
+chological Science Under Scrutiny: Recent Challenges and Proposed Solutions.
+John Wiley and Sons.
+
+9. Wagenmakers, E.–J., Wetzels, R., Borsboom, D., Kievit, R., & van der
+Maas, H. L. J. (2015). A skeptical eye on psi.
+In May, E., & Marwaha, S.
+(Eds.), Extrasensory Perception: Support, Skepticism, and Science, pp. 153–
+176. ABC-CLIO.
+
+8. Vandekerckhove, J., Matzke, D., & Wagenmakers, E.–J. (2015). Model com-
+parison and the principle of parsimony. In J. Busemeyer, J. Townsend, Z. J.
+Wang, & A. Eidels (Eds.), Oxford Handbook of Computational and Mathemat-
+ical Psychology, pp. 300–319. Oxford: Oxford University Press.
+
+7. Lee, M. D., Lodewyckx, T., & Wagenmakers, E.–J. (2015). Three Bayesian
+analyses of memory deﬁcits in patients with dissociative identity disorder. In
+J. R. Raaijmakers, A. Criss, R. Goldstone, R. Nosofsky, & M. Steyvers (Eds.),
+Cognitive Modeling in Perception and Memory: A Festschrift for Richard M.
+Shiﬀrin, pp. 189–200. Psychology Press.
+
+6. Heathcote, A., Brown, S. D., & Wagenmakers, E.–J. (2015). An introduc-
+tion to good practices in cognitive modeling.
+In B. U. Forstmann, & E.–J.
+Wagenmakers (Eds.), An Introduction to Model–Based Cognitive Neuroscience,
+pp. 25–48. Springer: New York.
+
+5. Wetzels, R., van Ravenzwaaij, D., & Wagenmakers, E.–J. (in press). Bayesian
+analysis. In R. Cautin, & S. Lilienfeld (Eds.), The Encyclopedia of Clinical Psy-
+chology. Wiley–Blackwell.
+
+4. Forstmann, B. U., & Wagenmakers, E.–J. (2015). Model–based cognitive
+neuroscience: A conceptual introduction. In B. U. Forstmann, & E.–J. Wagen-
+makers (Eds.), An Introduction to Model–Based Cognitive Neuroscience, pp.
+139–156. Springer: New York.
+
+3. Wagenmakers, E.–J., Lee, M. D., Lodewyckx, T., & Iverson, G. (2008).
+Bayesian versus frequentist inference.
+In H. Hoijtink, I. Klugkist, & P. A.
+Boelen (Eds.), Bayesian Evaluation of Informative Hypotheses, pp. 181–207.
+Springer: New York.
+
+2. Wagenmakers, E.–J., van der Maas, H. L. J., & Molenaar, P. C. M. (2005).
+Catastrophe theory. In B. S. Everitt & D. C. Howel (Eds.), Encyclopedia of
+Statistics in Behavioral Science, Vol. 1, pp. 234-239. Chichester: Wiley.
+
+1. Wagenmakers, E.–J., Zeelenberg, R., Huber, D., Raaijmakers, J. G. W.,
+
+29 of 44
+
+Shiﬀrin, R. M., & Schooler, L. J. (2003). REMI and ROUSE: Quantitative
+models for long–term and short–term priming in perceptual identiﬁcation. In
+J. Bowers and C. Marsolek (Eds.), Rethinking Implicit Memory, pp. 105–123.
+Oxford University Press.
+
+Miscellaneous
+Scientific
+Writings
+
+Wagenmakers, E.–J., & Dutilh, G.
+
+32.
+reasons
+psychologicalscience.org/publications/observer/2016/nov-16/
+seven-selfish-reasons-for-preregistration.html).
+
+for preregistration.
+
+APS Observer,
+
+(2016).
+29.
+
+Seven selﬁsh
+(http://www.
+
+31. Wagenmakers, E.–J. (in press). Likelihood: A halfway house? In vivo
+contribution for Farrell, S. and Lewandowsky, S. (in press). Computational
+Modeling of Cognition and Behaviour. Cambridge University Press.
+
+30. Vandekerckhove, J. & Wagenmakers, E.–J. (2016) C. S. Peirce on
+the crisis of conﬁdence and the “no more bets” heuristic. The Winnower,
+3:e146611.14253, DOI: 10.15200/winn.146611.14253.
+
+29. Wagenmakers, E.–J., & Dutilh, G. (2016). Preregistration: Why, what,
+where? Column for the Psychology Research Institute of the University of Am-
+sterdam, section on Scientiﬁc Integrity (https://osf.io/crg29/).
+
+28. Wagenmakers, E.–J. (2016). Telescopic book review of “Beyond signiﬁcance
+testing: Statistics reform in the behavioral sciences” by Rex Kline. Journal of
+the American Statistical Association, 70, 221.
+
+27. Wagenmakers, E.–J. (2015). Statistiek van het gezonde verstand [Common
+sense statistics]. Skepter, 28, 23–25.
+
+Wagenmakers, E.–J.
+
+26.
+of a revolution.
+a-perfect-storm-the-record-of-a-revolution.
+
+record
+In-Mind Magazine, http://www.in-mind.org/article/
+
+A perfect
+
+(2015).
+
+storm:
+
+The
+
+25. Wagenmakers, E.–J., & Gronau, Q. F. (2015). A compendium of
+clean graphs in R. Blog post for Nicebread, http://www.nicebread.de/
+a-compendium-of-clean-graphs-in-r/. The compendium is available at
+http://shinyapps.org/apps/RGraphCompendium/index.html.
+
+24. Wagenmakers, E.–J. (2015). Proﬁjtelijk noch appetijtelijk. De Psycholoog,
+50, 19.
+
+23. Love, J., Selker, R., Verhagen, A. J., Marsman, M., Gronau, Q. F., Jamil,
+T., Smira, M., Epskamp, S., Wild, A., Ly, A., Matzke, D., Morey, R. D.,
+Rouder, J. N., & Wagenmakers, E.–J. (2015). Software to sharpen your stats.
+APS Observer, 28, 27–28.
+
+22. Wagenmakers, E.–J. (2014). Bem is back: A skeptic’s review of a meta-
+
+30 of 44
+
+analysis on Psi. Blog post for the Open Science Collaboration, http://osc.
+centerforopenscience.org/2014/06/25/a-skeptics-review/.
+
+Wagenmakers, E.–J.
+
+21.
+tics.
+the-problem-with-statistics.
+
+(2014).
+for Mindwise,
+
+Blog
+
+post
+
+The
+
+statis-
+http://mindwise-groningen.nl/
+
+problem with
+
+20. Wagenmakers, E.–J. (2014). Behavioral priming: Time to nut up
+or shut up. Blog post for the Open Science Collaboration, http://osc.
+centerforopenscience.org/2014/03/26/behavioral-priming/.
+
+19. De Groot, A. D. (1956/2014). The meaning of “signiﬁcance” for diﬀer-
+ent types of research. Translated and annotated by Eric-Jan Wagenmakers,
+Denny Borsboom, Josine Verhagen, Rogier Kievit, Marjan Bakker, Angelique
+Cramer, Dora Matzke, Don Mellenbergh, and Han L. J. van der Maas. Acta
+Psychologica, 148, 188-194.
+
+18. Bakker, M., Wagenmakers, E.–J., Borsboom, D., Wicherts, J., & van der
+Maas, H. (2013). Spelregels in de psychologie. De Psycholoog, 48, 68–76.
+
+17. Wagenmakers, E.–J. (2013). Sjoemelwetenschap. De Psycholoog, 48, 34–35.
+Invited comment on “Psychologie als wedstrijd”, by Wim Hofstee.
+
+16. Bakker, M., Cramer, A. O. J., Matzke, D., Kievit, R. A., van der Maas, H. L.
+J., Wagenmakers, E.–J., & Borsboom, D. (2013). Dwelling on the past. Euro-
+pean Journal of Personality, 27, 120–121. Open peer commentary on Asendorp
+et al., “Recommendations for increasing replicability in psychology”.
+
+15. Steingroever, H., & Wagenmakers, E.–J. (2014). Performance and aware-
+ness in the Iowa Gambling Task. Comment on “Unconscious inﬂuences on
+decision making: A critical review”. Behavioral and Brain Sciences, 37, 41–42.
+
+14. Borsboom, D., & Wagenmakers, E.–J. (2013). Derailed: The rise and fall
+of Diederik Stapel. APS Observer, 26, 31 & 33.
+
+13. Wagenmakers, E.–J. (2012). A year of horrors. De Psychonoom, 27, 12–13.
+
+12. Nieuwenhuis, S., Jepma, M., & Wagenmakers, E.–J. Temporal expectation
+may aﬀect the onset, not the rate, of evidence accumulation [electronic response
+to Rohenkohl, Cravo, Wyart, & Nobre. Temporal expectation improves the
+quality of sensory information. Journal of Neuroscience, 32, 8424–8428].
+
+11. Borsboom, D., Wagenmakers, E.–J., & Romeijn, J.–W. (2011). Mechanistic
+curiosity will not kill the Bayesian cat. Comment on “Bayesian Fundamentalism
+or Enlightenment? On the explanatory status and theoretical contributions of
+Bayesian models of cognition”. Behavioral and Brain Sciences, 34, 192–193.
+
+10. Wagenmakers, E.–J. (2011). Kleren voor de keizer. De Psycholoog, 46,
+
+31 of 44
+
+21–22. Review of “Informative Hypotheses: How to Move Beyond Classical
+Null Hypothesis Testing”, by Rens van de Schoot.
+
+9. Wetzels, R., & Wagenmakers, E.–J. (2010). Exemplary introduction to
+Bayesian statistical inference. Book review of “Bayesian modeling using Win-
+BUGS” (Wiley, 1st ed., 2009). Journal of Mathematical Psychology, 54, 466–
+469.
+
+8. Wagenmakers, E.–J. (2009). Teaching graduate students how to write clearly.
+APS Observer, 22.
+
+7. Wagenmakers, E.–J. (2008). Guidelines for tutorial articles in Journal of
+Mathematical Psychology. Published on the JMP website,
+http://www.mathpsych.org/journal.html.
+
+6. Wagenmakers, E.–J. (2009). How do individuals reason in the Wason card
+selection task? Comment on “Bayesian rationality: The probabilistic approach
+to human reasoning” (Oxford University Press, 2007). Behavioral and Brain
+Sciences, 32, 104.
+
+5. Wagenmakers, E.–J., & van der Maas, H. L. J. (2008). Book review of
+“Clocking the mind: Mental chronometry and individual diﬀerences” (Elsevier,
+2006). Intelligence, 36, 493–494.
+
+4. Grasman, R. P. P. P., & Wagenmakers, E.–J. (2006). Rescue the Gardiner
+book! Book review of “Handbook of stochastic methods: For physics, chem-
+istry, and the natural sciences” (Springer–Verlag, 3rd ed., 2004). Journal of
+Mathematical Psychology, 50, 431–435.
+
+3. Wagenmakers, E.–J. (2003). How many parameters does it take to ﬁt an ele-
+phant? Book review of “Model selection and multimodel inference: A practical
+information–theoretic approach” (Springer–Verlag, 2nd ed., 2002). Journal of
+Mathematical Psychology, 47, 580–586.
+
+2. Wagenmakers, E.–J. (2001). Book review of “The Oxford handbook of
+memory”, edited by E. Tulving and F. Craik (Oxford University Press 2000),
+Acta Psychologica, 106, 329–331.
+
+1. Steyvers, M., Wagenmakers, E.–J., Shiﬀrin, R. M., Zeelenberg, R., & Raai-
+jmakers, J. G. W. (2001). A Bayesian model for the time–course of lexical
+processing. In E. M. Altmann and A. Cleeremans (Eds.), Proceedings of the
+2001 Fourth International Conference on Cognitive Modeling (pp. 205–209).
+Mahwah, NJ: Erlbaum.
+
+Invited
+Presentations
+
+97. Wagenmakers, E.–J. (2016). A discussion on the TOP guidelines. Invited
+presentation for Unilever R&D, Vlaardingen, The Netherlands, October 2016.
+
+32 of 44
+
+96. Wagenmakers, E.–J. (2016). Bayesian inference with JASP. Invited presen-
+tation for the Department of Statistical Science, Universita Cattolica del Sacro
+Cuore, Milan, Italy, September 2016.
+
+95. Wagenmakers, E.–J. (2016). Bayesian analyses with JASP: A fresh way to
+do statistics. Plenary lecture for the Behavioural Science Institute (BSI) day,
+Radboud University, Nijmegen, The Netherlands, June 2016.
+
+94. B¨ohm, U., Gronau, Q. F., Sarafoglou, A., Ly, A., Matzke, D., Steingroever,
+H., Marsman, M., & Wagenmakers, E.–J. (2016). Bayes factors for models
+of choice response time.
+Invited presentation for the workshop “Sequential
+sampling models of decision making”, Emmetten, Switzerland, May 2016.
+
+93. Wagenmakers, E.–J. (2016). Bayesian beneﬁts. Presentation for the Young
+Statisticians Science Caf´e, Utrecht, the Netherlands, April 2016.
+
+92. Wagenmakers, E.–J. (2016). Bayesian analyses with JASP: A fresh way
+to do statistics. Presentation in the Statistics Seminar Series of the Athens
+University of Economics and Business, Athens, Greece, April 2016.
+
+91. Wagenmakers, E.–J. (2016). Transparent research practices: Past roots,
+present revolution, and future prospects. Keynote presentation for the 58th
+Conference of Experimental Psychologists (TeaP), Heidelberg, Germany, March
+2016.
+
+90. Wagenmakers, E.–J. (2016). Bayesian beneﬁts for the pragmatic researcher.
+Keynote presentation for Bayes at Lund, Lund, Sweden, February 2016.
+
+89. Wagenmakers, E.–J. (2016). Pre-conference tutorial on Bayesian inference
+for Bayes at Lund, Lund, Sweden, February 2016.
+
+88. Wagenmakers, E.–J. (2016). Bayesian beneﬁts for the pragmatic researcher.
+Invited presentation for the Department of Psychology, University of Gothen-
+burg, Gothenburg, Sweden, February 2016.
+
+87. Wagenmakers, E.–J. (2016). A predictive perspective on Bayesian infer-
+ence. Invited presentation for the Department of Mathematics, University of
+Gothenburg, Gothenburg, Sweden, February 2016.
+
+86. Wagenmakers, E.–J. (2016). Bayesian beneﬁts for the pragmatic researcher.
+Invited presentation for the workshop “Bayesian and frequentist approaches to
+inferential statistics” at the Centre for Interdisciplinary Research of the Uni-
+versity of Bielefeld, Bielefeld, Germany, January 2016.
+
+85. Wagenmakers, E.–J. (2016). Bayesian beneﬁts for the pragmatic researcher.
+Invited colloquium for the Otto Creutzfeldt Center for Cognitive and Behavioral
+Neuroscience at the University of M¨unster, M¨unster, Germany, January 2016.
+
+33 of 44
+
+84. Wagenmakers, E.–J. (2015). The revolution in psychological science. Keynote
+presentation for the 15th NVP Winter Conference on Cognition, Brain and Be-
+haviour, Egmond aan Zee, the Netherlands, December 2015.
+
+83. Wagenmakers, E.–J. (2015). JASP: Statistical inference without tears.
+Invited lecture for the Department of Methods and Techniques at Utrecht Uni-
+versity, Utrecht, the Netherlands, December 2015.
+
+82. Wagenmakers, E.–J. (2015). Subjective reﬂections on the work of Bill
+Batchelder. Invited presentation for the workshop “Cultural Consensus Theory,
+Multinomial Processing Trees, and Cognitive Psychometrics: Celebrating Bill
+Batchelder’s 75th Year ”, University of California at Irvine, USA, November
+2015.
+
+81. Wagenmakers, E.–J. (2015). Preregistration and Registered Reports. In-
+vited presentation for the workshop “Improving Inference in Evolutionary Bi-
+ology and Ecology”, Charlottesville, USA, November 2015.
+
+80. Wagenmakers, E.–J. (2015). JASP: Statistical inference without tears.
+Invited lecture for the Helmholtz Institute, Utrecht, the Netherlands, November
+2015.
+
+79. Wagenmakers, E.–J. (2015). Bayesian analyses with JASP: A fresh way to
+do statistics. Invited presentation for the Psychology Department at the Free
+University of Brussels, Brussels, Belgium, October 2015.
+
+78. Wagenmakers, E.–J. (2015). Bayesian analyses with JASP: A fresh way
+to do statistics.
+Invited presentation for the Psychology Department at the
+University of Cardiﬀ, Cardiﬀ, UK, October 2015.
+
+77. Wagenmakers, E.–J. (2015). Open science with JASP. Invited presentation
+for the Research Away day of the Psychology Department at the University of
+Bristol, Bristol, UK, September 2015.
+
+76. Wagenmakers, E.–J. (2015). A predictive perspective on Bayesian inference.
+Keynote address for 46th meeting of the European Mathematical Psychology
+Group, Padova, Italy, September 2015.
+
+75. Wagenmakers, E.–J. (2015). JASP: A fresh way to do Bayesian hypothesis
+testing. Invited presentation for the 30th IOPS Summer Conference, Utrecht,
+The Netherlands, June 2015.
+
+74. Wagenmakers, E.–J. (2015). Bayesian analyses with JASP: A fresh way to
+do statistics. Invited presentation for the Donders Institute for Brain, Cognition
+and Behavior, Nijmegen, The Netherlands, June 2015.
+
+73. Wagenmakers, E.–J. (2015). Bayesian analyses with JASP: A fresh way
+to do statistics.
+Invited presentation for the Psychology Department at the
+
+34 of 44
+
+University of Freiburg, Freiburg, Germany, June 2015.
+
+72. Wagenmakers, E.–J. (2015). Bayesian analyses with JASP: A fresh way to
+do statistics. Invited presentation for the Chaucer club seminar series, Cogni-
+tion & Brain Sciences Unit, Cambridge University, Cambridge, UK, May 2015.
+
+71. Wagenmakers, E.–J. (2015). Bayesian hypothesis testing: Why and how?
+Invited presentation for the Psychology Department at the University of Z¨urich,
+Z¨urich, Switzerland, May 2015.
+
+70. Wagenmakers, E.–J. (2015). Bayesian analyses with JASP: A fresh way
+to do statistics.
+Invited presentation for the Psychology Department at the
+University of Southampton, Southampton, UK, April 2015.
+
+69. Wagenmakers, E.–J. (2014). Guidelines for preregistration. Invited presen-
+tation for the workshop “Standards for Promoting Reproducible Research in the
+Social-Behavioral Sciences”, Charlottesville, USA, November 2014.
+
+68. Wagenmakers, E.–J. (2014). JASP: A fresh way to do statistics. Invited
+presentation for the Psychology Department at Tilburg University, Tilburg, The
+Netherlands, October 2014.
+
+In-
+67. Wagenmakers, E.–J. (2014). The crisis of conﬁdence in psychology.
+vited presentation for the Psychology Department at the University of Leuven,
+Leuven, Belgium, September 2014.
+
+66. Wagenmakers, E.–J. (2014). The pros and cons of study preregistration.
+Invited lecture for the NWO Symposium Improving Scientiﬁc Practice, Ams-
+terdam, The Netherlands, September 2014.
+
+65. Wagenmakers, E.–J. (2014). Reinforcement learning and the Iowa gam-
+bling task.
+Invited presentation for the conference Decision Making Bristol
+2014, University of Bristol, Bristol, UK, September 2014. Work done by Helen
+Steingroever.
+
+64. Wagenmakers, E.–J. (2014). Statistical pitfalls in cognitive neuroscience.
+Keynote presentation for the CRISM Workshop Statistical Challenges in Neu-
+roscience, The University of Warwick, UK, September 2014.
+
+63. Wagenmakers, E.–J. (2014). Theory and practice of Bayesian inference.
+One-day workshop for the conference “Evolution of Innovation”, Cambridge
+University, Cambridge, UK, June 2014.
+
+62. Wagenmakers, E.–J. (2014). Progress through struggle in psychological sci-
+ence. Invited presentation in the symposium “The Replication Revolution: One
+Year On” at the 26th Annual Convention of the Association for Psychological
+Science, San Francisco, USA, May 2014.
+
+35 of 44
+
+61. Wagenmakers, E.–J. (2014). An agenda for responsible research. Invited
+presentation for the Spring Statistics Workshop Reliability and Replication in
+Psychological Science, Princeton University, Princeton, USA, April 2014.
+
+60. Wagenmakers, E.–J. (2013). A Bayesian perspective on replication research.
+Invited presentation for the Psychology Department at the University of Leuven,
+Leuven, Belgium, December 2013.
+
+59. Wagenmakers, E.–J. (2013). The excitement of conducting a replication
+study. Half-day workshop for the BSI PhD day, Nijmegen, The Netherlands,
+October 2013.
+
+58. Wagenmakers, E.–J. (2013). Statistical pitfalls in cognitive neuroscience.
+Invited presentation for the Artiﬁcial Intelligence Group at the University of
+Groningen, Groningen, The Netherlands, September 2013.
+
+57. Wagenmakers, E.–J. (2013). The excitement of conducting a replication
+study. Invited presentation for the APS/ESCoP symposium “Building a Bet-
+ter Psychological Science: Good Data Practices and Replicability”, Budapest,
+Hungary, August 2013.
+
+56. Wagenmakers, E.–J. (2013). The future of psychometrics: An outsider’s
+perspective. Invited talk at the 78th Annual Meeting of the Psychometric So-
+ciety, Arnhem, The Netherlands, July 2013.
+
+55. Wagenmakers, E.–J. (2013). Fundamentals of Bayesian inference. Half–
+day tutorial workshop for the Psychology Department at Hamburg University,
+Hamburg, Germany, June 2013.
+
+54. Wagenmakers, E.–J. (2013). A Bayesian perspective on the “crisis of con-
+ﬁdence” in psychological science. Invited presentation for the Psychology De-
+partment at Hamburg University, Hamburg, Germany, June 2013.
+
+53. Wagenmakers, E.–J. (2013). On the diagnosticity of a p value. Invited pre-
+sentation for the Psychology Department at Ghent University, Ghent, Belgium,
+May 2013.
+
+52. Wagenmakers, E.–J. (2013). A Bayesian perspective on the “crisis of con-
+ﬁdence” in psychological science. Invited presentation for the Fakult¨at f¨ur Lin-
+guistik und Literaturwissenschaft at the University of Bielefeld, Bielefeld, Ger-
+many, April 2013.
+
+51. Wagenmakers, E.–J. (2013). Model–based cognitive neuroscience. Invited
+presentation for the Department of Artiﬁcial Intelligence at Radboud University,
+Nijmegen, The Netherlands, April 2013.
+
+50. Wagenmakers, E.–J. (2013). Bayesian hypothesis testing in practice. In-
+vited presentation for the Cognitive Psychology Unit at the Free University,
+
+36 of 44
+
+Amsterdam, The Netherlands, March 2013.
+
+49. Wagenmakers, E.–J. (2012). Common sense expressed in numbers.
+In-
+vited presentation for the mini-symposium “Reasoning with Uncertainty: The
+Bayesian Perspective” at the Stenden University of Applied Sciences, Leeuwar-
+den, The Netherlands, November 2012.
+
+48. Wagenmakers, E.–J. (2012). An agenda for conﬁrmatory research. Invited
+presentation for the Psychology Department at Tilburg University, Tilburg, The
+Netherlands, September 2012.
+
+47. Wagenmakers, E.–J. (2012). Comparison of reinforcement learning mod-
+els using parameter space partitioning. Invited presentation for the workshop
+“Testing Theories of Choice” at the Max Planck Institute for Human Develop-
+ment, Berlin, Germany, July 2012. Work done by Helen Steingroever.
+
+46. Wagenmakers, E.–J. (2012). Bias in speeded decision making.
+Invited
+presentation for the Psychology Department at the University of Bristol, Bristol,
+UK, June 2012.
+
+45. Wagenmakers, E.–J. (2012). A Bayesian correlation test, illustrated with
+events from the life of Rich Shiﬀrin.
+Invited presentation for the Shiﬀrin
+Festschrift at the Psychology Department of Indiana University, Bloomington,
+USA, May 2012.
+
+44. Wagenmakers, E.–J. (2012). Not so fast! Premature conclusions in cogni-
+tive neuroscience and beyond. Bernstein lecture, Bernstein Center for Compu-
+tational Neuroscience T¨ubingen, T¨ubingen, Germany, April 2012.
+
+43. Wagenmakers, E.–J. (2012). Bayesian sequential hypothesis testing of
+strictly conﬁrmatory research designs. Invited presentation for the Psychology
+Department at Purdue, Lafayette, USA, April 2012.
+
+42. Wagenmakers, E.–J. (2012). Not so fast! Premature conclusions in cogni-
+tive neuroscience and beyond. Invited presentation for the School of Psychology
+at the University of Glasgow, Glasgow, UK, March 2012.
+
+41. Wagenmakers, E.–J. (2012). Not so fast! Premature conclusions in cogni-
+tive neuroscience and beyond. Invited presentation in the Cognitive Neuroimag-
+ing seminar series at the University of Edinburgh, Edinburgh, UK, March 2012.
+
+40. Wagenmakers, E.–J. (2012). Healthy people perform poorly on the Iowa
+Gambling Task.
+Invited presentation in the London Judgment and Decision
+Making seminar series at University College London, London, UK, March 2012.
+Work done by Helen Steingroever.
+
+39. Wagenmakers, E.–J. (2012). Not so fast! Premature conclusions in cogni-
+tive neuroscience and beyond. Invited presentation in the Cognitive, Perceptual
+
+37 of 44
+
+and Brain Sciences seminar series at University College London, London, UK,
+March 2012.
+
+38. Wagenmakers, E.–J. (2012). The future of psychological science. Invited
+presentation for the KLI workshop “Should we worry about our methodology?
+Current concerns in experimental research and how to deal with them”, Ams-
+terdam, The Netherlands, March 2012.
+
+37. Wagenmakers, E.–J. (2012). Can people look into the future, or: What
+is wrong with psychological science? Invited presentation for the School of
+Psychology at the University of New South Wales, Sydney, Australia, February
+2012.
+
+36. Wagenmakers, E.–J. (2011). Worth no more than a bare mention? An
+objective Bayesian analysis of the evidential impact of the p–value.
+Invited
+presentation for the lecture series on “Null Hypothesis Testing in the Social
+Sciences” organized by the Social Sciences Division of the Netherlands Statis-
+tical Society, Amsterdam, The Netherlands, December 2011.
+
+35. Wagenmakers, E.–J. (2011). Bayesian sequential hypothesis testing of
+strictly conﬁrmatory research designs. Invited presentation for the Psychology
+Department at Essex University, Essex, UK, December 2011.
+
+34. Wagenmakers, E.–J. (2011). Unexpected participant heterogeneity in the
+Iowa Gambling Task. Invited presentation for the workshop “Structural Mod-
+eling of Heterogeneity in Discrete Choice Under Risk and Uncertainty” at the
+Center for the Economic Analysis of Risk (CEAR) at Georgia State University,
+Atlanta, USA, December 2011. Work done by Helen Steingroever.
+
+33. Wagenmakers, E.–J. (2011). The hidden message behind extrasensory porn-
+ception.
+Invited presentation for the Psychology Department at the Ludwig–
+Maximilian Universit¨at, Munich, Germany, June 2011.
+
+32. Wagenmakers, E.–J. (2011). Why Bayesian statistics is right, and every-
+thing else is wrong.
+Invited presentation for the Psychology Department at
+Uppsala University, Uppsala, Sweden, May 2011.
+
+31. Wagenmakers, E.–J. (2011). A Bayesian parametric approach for the es-
+timation of stop–signal reaction time distributions.
+Invited presentation for
+the Center for Integrative and Cognitive Neuroscience (CICN) at Vanderbilt
+University, Nashville, USA, April 2011. Work done by Dora Matzke.
+
+30. Wagenmakers, E.–J. (2011). Validity and ﬁt in ACT–R. Invited presenta-
+tion for the ACT–R Spring School, Groningen, the Netherlands, April 2011.
+
+29. Wagenmakers, E.–J. (2011). Default Bayesian t–tests. Invited presentation
+for the workshop “All models are wrong...”, Groningen, the Netherlands, March
+2011.
+
+38 of 44
+
+28. Wagenmakers, E.–J. (2010). Bayesian model selection in sensometrics.
+Plenary presentation for the 10th Conference on Sensometrics, Rotterdam, the
+Netherlands, July 2010.
+
+27. Wagenmakers, E.–J. (2010). Bayesian parameter estimation and model
+selection. Half–day workshop for the ESCoP Summer School in Computational
+and Mathematical Modeling of Cognition, Mallnitz, Austria, July 2010.
+
+26. Wagenmakers, E.–J., & Wetzels, R. (2010). A pessimistic perspective on
+psychological science? Invited presentation for the Psychology Department at
+the University of Heidelberg, Heidelberg, Germany, May 2010.
+
+25. Wagenmakers, E.–J. (2010). Bayesian graphical modeling using WinBUGS.
+Half–day workshop at the University of Western Australia, Perth, Australia,
+January 2010.
+
+24. Wagenmakers, E.–J. (2009). What is Bayesian inference? Why be Bayesian?
+Invited presentation for the Fakult¨at f¨ur Linguistik und Literaturwissenschaft
+at the University of Bielefeld, Bielefeld, Germany, December 2009.
+
+23. Wagenmakers, E.–J. (2009). Bayesian hypothesis testing without tears.
+Invited Heymans colloquium for the Psychology Department at the University
+of Groningen, Groningen, the Netherlands, November 2009.
+
+22. Wagenmakers, E.–J. (2008). Doing what Id wants: The Savage–Dickey
+approach to Bayesian hypothesis testing.
+Invited presentation for the 18th
+IOPS Winter Conference, Oegstgeest, the Netherlands, December 2008.
+
+21. Wagenmakers, E.–J. (2008). Doing what Id wants: Bayesian hypothe-
+sis testing. Invited presentation for the Psychology Unit at the University of
+T¨ubingen, T¨ubingen, Germany, October 2008.
+
+20. Wagenmakers, E.–J. (2008). Decision making under time pressure: A study
+combining mathematical modeling and functional neuroimaging. Invited joint
+presentation together with Birte Forstmann for the Institute for Mathematical
+Behavioral Sciences (IMBS) at the University of California at Irvine, USA,
+April 2008.
+
+19. Wagenmakers, E.–J. (2007). Pervasive problems of p–values. Invited pre-
+sentation for the Cognitive Psychology Unit at the Free University, Amsterdam,
+The Netherlands, December 2007.
+
+18. Wagenmakers, E.–J. (2007). A diﬀusion model account of the worst per-
+formance rule, the law of practice, and the accessory stimulus eﬀect. Invited
+presentation for the Max Planck Institute for Human Development, Berlin, Ger-
+many, November 2007.
+
+17. Wagenmakers, E.–J. (2007). Current developments in the modeling of re-
+
+39 of 44
+
+sponse times and accuracy using the Ratcliﬀ diﬀusion model. Keynote presen-
+tation for the 15th Conference of the European Society for Cognitive Psychology
+(ESCoP), Marseille, France, August 2007.
+
+16. Wagenmakers, E.–J. (2007). Current developments in the modeling of re-
+sponse times and accuracy using the Ratcliﬀ diﬀusion model. Keynote presen-
+tation for the 40th annual meeting of the Society for Mathematical Psychology,
+Costa Mesa, USA, July 2007.
+
+15. Wagenmakers, E.–J., Lee, M. D., & Iverson, G. (2007). Bayesian versus
+frequentist inference. Invited presentation for the workshop “Null, Alternative
+and Informative Hypotheses”, Utrecht, The Netherlands, July 2007.
+
+14. Wagenmakers, E.–J. (2007). Pervasive problems of p–values. Invited pre-
+sentation for the Psychology Department at the Erasmus University, Rotterdam,
+The Netherlands, June 2007.
+
+13. Wagenmakers, E.–J. (2007). Current developments in the modeling of
+response times and accuracy using the Ratcliﬀ diﬀusion model. Invited pre-
+sentation for the Institute for Mathematical Behavioral Sciences (IMBS) at the
+University of California at Irvine, USA, April 2007.
+
+12. Wagenmakers, E.–J. (2007). Pervasive problems of p–values. Invited pre-
+sentation for the Psychology Department at the University of Newcastle, New-
+castle, Australia, February 2007.
+
+11. Wagenmakers, E.–J. (2006). Practical methods for model selection: Cross–
+validation, bootstrap, and prequential approaches.
+Invited presentation for
+the Air Force Research Laboratory workshop “Model Comparison and Model
+Validation”, Syracuse, USA, September 2006.
+
+10. Wagenmakers, E.–J., van der Maas, H., & Grasman, R. (2006). An EZ–
+diﬀusion model for response time and response accuracy: Extensions. Invited
+presentation for the workshop “Diﬀusion Models in Psychology”, Freiburg, Ger-
+many, February 2006.
+
+9. Wagenmakers, E.–J. (2006). A statistical perspective on the peculiar prop-
+erties and pervasive problems of p–values. Invited presentation for the Institute
+for Mathematical Behavioral Sciences (IMBS) at the University of California
+at Irvine, USA, February 2006.
+
+8. Wagenmakers, E.–J. (2005). Peculiar problems with p–values. Invited pre-
+sentation for the Psychology Department at the University of Bristol, Bristol,
+UK, October 2005.
+
+7. Wagenmakers, E.–J. (2005). Consequences of the likelihood principle for the
+statistical analysis of psychological experiments. Invited presentation for the
+2nd Adelaide Mental Life conference, Adelaide, Australia, June 2005.
+
+40 of 44
+
+Committee
+Work
+
+6. Wagenmakers, E.–J. (2005). Peculiar problems with p–values. Invited pre-
+sentation for the Psychology Department at CMU and the Psychology Depart-
+ment at Leuven, both April 2005.
+
+5. Wagenmakers, E.–J. (2003). Priming in visual word recognition: Empirical
+studies and computational models. Keynote presentation for the bi–annual
+NVP conference, Egmond, the Netherlands, December 2003.
+
+4. Wagenmakers, E.–J., van der Maas, H., Molenaar, P., & Hartelman, P.
+(2003). Generalized stochastic catastrophe theory: Achieving invariance under
+transformation of the measurement scale. Invited presentation for the EPOS
+annual meeting, Amsterdam, the Netherlands, November 2003.
+
+3. Wagenmakers, E.–J. (2003). Bias and enhanced discriminability in per-
+ceptual identiﬁcation. Invited presentation for the Psychology Department at
+UCLA, Los Angeles, USA, March 2003.
+
+2. Wagenmakers, E.–J. (2003). Models of information integration.
+Invited
+presentation for the Psychology Department at Georgia Tech, Atlanta, USA,
+January 2003.
+
+1. Wagenmakers, E.–J. (2002). Model mimicry, information integration, and
+the bootstrap.
+Invited presentation for the Quantitative Psychology weekly
+meeting at Ohio State University, Columbus, USA, October 2002.
+
+• 2012–current. Member of the Academic Advisory Board (“wetenschap-
+pelijke adviesraad, WAR”) for the Department of Psychology at the Uni-
+versity of Amsterdam.
+
+• 2007–current. Member of the Revesz committee for the Psychology De-
+partment at the University of Amsterdam. The Revesz committee is
+responsible for the logistics surrounding the Revesz honorary professor-
+ships.
+
+• 2006–current. Member of the committee for the Research Master in Psy-
+
+chology at the University of Amsterdam.
+
+• 2009–2015. Member of the executive board of the Society for Mathemat-
+
+ical Psychology.
+
+• 2012. Member of the Committee on Scientiﬁc Integrity for the Depart-
+
+ment of Psychology at the University of Amsterdam.
+
+• 2011. Member of the committee for the Best Thesis Award from the
+
+Dutch Psychonomic Society (NVP).
+
+• 2005. Member of the NSF (National Science Foundation) panel on Human
+
+and Social Dynamics (Washington D.C., May 2005).
+
+• 1997. Co–founded BOPSY, a committee of interest for PhD–students at
+the Psychology Department of the University of Amsterdam. Chairman
+of BOPSY from 1997–1998.
+
+41 of 44
+
+Teaching
+
+• 2016. Two–day workshop “Bayesian analysis with JASP: A fresh way of
+doing statistics” for the Department of Psychology at the University of
+Milano–Bicocca, Milan, Italy.
+
+• 2016. Workshop “Bayesian vs. frequentist statistics: A JASP workshop”
+
+at the Brain & Mind symposium, Helsinki, Finland.
+
+• 2016. One–day workshop “Bayesian analysis with JASP: A fresh way of
+
+doing statistics” at the University of Gothenburg, Sweden.
+
+• 2009–2016. A Practical Course in Bayesian Modeling (master course). In
+2010, also taught this course as a one–week block seminar at the CITEC
+department of the University of Bielefeld, Germany; in 2014, also taught
+this course as a one-week workshop at Aarhus University, Aarhus, Den-
+mark (together with Michael Lee).
+
+• 2016. Two–day workshop “Bayesian analysis with JASP: A fresh way of
+doing statistics” at the Catholic University of Leuven, Leuven, Belgium.
+• 2016. One–day lecture series on Bayesian inference for KLI students (Am-
+
+sterdam, The Netherlands).
+
+• 2016. One–day lecture series on Bayesian inference for the Erasmus+ pro-
+gram “Tools for Teaching Quantitative Thinking” (Arrifana, Portugal).
+• 2015. Good Science, Bad Science (master course). The course website is
+
+at http://www.ejwagenmakers.com/GSBS/GSBS.html.
+
+• 2006–2015. Scientiﬁc Writing and Presenting (master course). In 2009,
+also taught this course at the University of Basel, Switzerland. In 2011,
+runner–up for the award of “best teacher in the UvA Psychology Research
+Master” (out of 24 nominees).
+
+• 2015. Two–day workshop “Bayesian Hypothesis Testing Using JASP” at
+
+Bern University, Bern, Switzerland (together with Jonathon Love).
+
+• 2015. Two–day lecture series on Bayesian hypothesis testing for the sem-
+inar on “A Quantitative Approach to Psychological Processes: Modeling,
+Testing, Fitting” (Balatonfoldv´ar, Hungary).
+
+• 2014. Co-lecturer for the VW Foundation Summer School in Cognitive
+
+Modeling, Laufen, Germany.
+
+• 2008, 2009, 2011, 2012, and 2013. Module “Knowledge” (part of a third–
+year course, co–taught with Angelique Cramer, Denny Borsboom, or Ro-
+gier Kievit).
+
+• 2012, 2013. Co-lecturer for the three–day workshop “What is Psycho-
+
+metrics?” for IOPS PhD students.
+
+• 2011, 2013. One–day workshop “Positive Journal Interactions” for EPOS
+
+PhD students.
+
+• 2013. Two guest lectures for the bachelor course “Scientiﬁc and Statistical
+
+Reasoning” for second-year psychology students.
+
+• 2011–2013. Guest lecture on Bayesian inference for the master course
+
+“Learning to Analyze Neural Data”.
+
+42 of 44
+
+• 2012. One–day workshop “Theory and Practice of Bayesian Inference” at
+
+the Radboud University, Nijmegen, the Netherlands.
+
+• 2012. One–day workshop “Bayesian Inference Using WinBUGS” for KLI
+
+PhD students.
+
+• 2012. Co-lecturer for the SNF Summer School in Computational Model-
+
+ing of Cognition, Berg¨un, Switzerland.
+
+• 2011. Experimental Design (bachelor course).
+• 1998, 1999, 2000, 2003, 2004, 2005, 2006, 2009, and 2011. Research
+
+Practice: Applied (“Onderzoeksgroepen”, bachelor course).
+
+• 2011. Invited lecture for the HOVO course “Gebruik en Misbruik van de
+
+Statistiek” (use and misuse of statistics) at Leiden University.
+
+• 2010. Co-lecturer for the ESCoP Summer School in Computational and
+
+Mathematical Modelling of Cognition, Mallnitz, Austria.
+
+• 2009. Mathematical Psychology (master course, co–taught with other
+
+faculty).
+
+• 2009. One–day workshop “Bayesian Modeling for Cognitive Science”,
+
+co–taught with Michael Lee and Ruud Wetzels.
+
+• 2009. Two–day lecture series on Bayesian Modeling for the Socrates–
+Erasmus Intensive Programme on “Formal Models and Quantitative Meth-
+ods for Psychology” (Blaubeuren, Germany).
+
+• 2008 and 2009. Module “Modeling” (part of a third–year course, co–
+
+taught with Han van der Maas and Ruud Wetzels).
+
+• 2008. Two–day lecture series on Model Selection for the Socrates–Erasmus
+Intensive Programme on “Mathematical and Computational Models in
+the Psychological Sciences” (Padova, Italy).
+
+• 2007 and 2008. Scientiﬁc Writing (EPOS course for PhD students).
+• 2006, 2007, and 2008. Current Issues in Cognitive Science (master course).
+• 2007. Statistical Inference (bachelor course, co–taught with Gunter Maris).
+• 2007. Two–day lecture series on Reinforcement Learning for the Socrates–
+Erasmus Intensive Programme on “Mathematical and Computational Mod-
+els in the Psychological Sciences” (Bremen, Germany).
+
+• 2006 and 2007. Computational Psychology (master course).
+• 2005. JavaScript Programming (master course).
+• 2004 and 2005. Introduction to Cognitive Science / Memory: A Cognitive
+
+Science Approach (master course).
+
+• 2004 and 2005. Model Construction in Psychology (bachelor course).
+• 2000. Research Practice: Theory (“Basisdeel OnderzoeksPrakticum”,
+
+bachelor course).
+
+• 1998 and 1999. Experience with Psychonomic Experiments (“Experimen-
+
+tatie in de Psychonomie”, bachelor course).
+
+43 of 44
+
+• 1997. Together with Durk Talsma, designed the HOVO course “Hersenen,
+Mentale Processen en Gedrag” (brain, mental processes, and behavior).
+
+• 1995 and 1996. Programming Experiments (bachelor course).
+
+Lab Members
+(Past(cid:63) and
+Present)
+
+• Postdocs: Maarten Marsman(cid:63), Tahira Jamil(cid:63), Josine Verhagen(cid:63), Martijn
+
+Mulder(cid:63), Leendert van Maanen(cid:63).
+
+• Software engineers: Bruno Boutin, Frans Meerhoﬀ, Patrick Knight, Damian
+
+Dropmann(cid:63), Jonathon Love(cid:63).
+
+• PhD–students: Quentin Gronau, Johnny van Doorn, Udo B¨ohm (with
+Hedderik van Rijn), Alexander Ly, Helen Steingroever(cid:63), Ravi Selker(cid:63),
+Dora Matzke(cid:63) (with Conor Dolan; cum laude), Ruud Wetzels(cid:63) (cum
+laude), Don van Ravenzwaaij(cid:63) (cum laude), Gilles Dutilh(cid:63) (cum laude).
+• Research–assistants: Don van den Bergh, Alexandra Sarafoglou, Tim de
+Jong, Quentin Gronau(cid:63), Titia Beek(cid:63), Laura Dijkhoﬀ(cid:63), Ravi Selker(cid:63), Anja
+Sommavilla(cid:63), Helen Steingroever(cid:63), Joram van Driel(cid:63), Angelos Krypotos(cid:63),
+Sven Stringer(cid:63), Dora Matzke(cid:63), Tom Lodewyckx(cid:63), Don van Ravenzwaaij(cid:63),
+Ruud Wetzels(cid:63), Gilles Dutilh(cid:63).
+
+• International students: Akash Raj(cid:63), Johnny van Doorn(cid:63), Felix Wolﬀ(cid:63),
+Martin Smira(cid:63), Lutz Ostkamp(cid:63), Akhil Hens(cid:63), Darja Tutschkow(cid:63), Avinash
+Barnwal(cid:63), Annika Boldt(cid:63), Oliver Dyjas(cid:63), Himanshu Kuriyal(cid:63), Esther Stroe–
+Kunold(cid:63), Tom Lodewyckx(cid:63).
+
+Thesis
+Opposition
+
+Member of the thesis committee for: Sacha Epskamp (University of Amster-
+dam), Jorrit Montijn (University of Amsterdam), Xin Gu (Utrecht University),
+Stijn Verdonck (University of Leuven), Wouter Kruijne (Free University, Ams-
+terdam), Rivka de Vries (University of Groningen), Angelos Krypotos (Univer-
+sity of Amsterdam), Maarten Marsman (University of Twente), David Neville
+(University of Amsterdam), Andrei Teodorescu (Tel-Aviv University), Vivien
+Marmelat (Free University, Amsterdam, and University of Montpellier), Sandra
+Andraszewicz (University of Basel), Marjan Bakker (University of Amsterdam),
+Jesper Tijmstra (Utrecht University), Angelique Cramer (University of Ams-
+terdam), Rogier Kievit (University of Amsterdam), Annemarie Zand Scholten
+(University of Amsterdam), Esther Stroe–Kunold (University of Heidelberg),
+Chistopher Donkin (University of Newcastle), Joachim Vandekerckhove (Uni-
+versity of Leuven), Jiaxiang Zhang (University of Bristol), Kjerstin Torre (Uni-
+versity of Montpellier), Lourens Waldorp (University of Amsterdam), and Raoul
+Grasman (University of Amsterdam).
+
+44 of 44
+
+

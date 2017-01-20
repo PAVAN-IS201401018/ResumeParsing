@@ -1,0 +1,221 @@
+{
+	"domains": ["objected oriented programming", "web development", "functional programming", "programming language", "web application framework", "relational database", "nosql database", "apache project"],
+	"indexes": {
+		"c": {
+			"domain": ["programming language"],
+			"similar": ["c++", "c#", "objective-c"]
+		},
+		"c#": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"c++": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"java": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"python": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"scala": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"r": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"erlang": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"go": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"hack": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"objective-c": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"sql": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"ruby": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"perl": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"php": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"javascript": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"html?(5)": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"css": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"bootstrap": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"mongodb": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"cassandra": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"hive": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"pig": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"redis": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"couchdb": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"hbase": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"dynamodb": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"bigtable": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"bigquery": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"yarn": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"hadoop": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"mahout": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"react?(js)": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"knockout?(js)": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"django": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"angular?(js)": {
+			"domain": [],
+			"similar": []
+		},
+		"?(ruby on rails)?(ronr)?(ruby-on-rails)?(rubyonrails)": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"spring": {
+			"domain": ["programming language"],
+			"similar": []
+		},
+		"play": {
+			"domain": [],
+			"similar": []
+		},
+		"lift": {
+			"domain": [],
+			"similar": []
+		},
+		"laravel": {
+			"domain": [],
+			"similar": []
+		},
+		"mysql": {
+			"domain": [],
+			"similar": []
+		},
+		"postgres?(ql)": {
+			"domain": [],
+			"similar": []
+		},
+		"sqlite?(3)": {
+			"domain": [],
+			"similar": []
+		},
+		"spark": {
+			"domain": [],
+			"similar": []
+		},
+		"material design": {
+			"domain": [],
+			"similar": []
+		},
+		"android ?(studio)?(app)?(development)": {
+			"domain": [],
+			"similar": []
+		},
+		"ES?([56])": {
+			"domain": [],
+			"similar": []
+		},
+		"julia": {
+			"domain": [],
+			"similar": []
+		},
+		"?(ms)?(microsoft) word": {
+			"domain": [],
+			"similar": []
+		},
+		"?(ms)?(microsoft) excel": {
+			"domain": [],
+			"similar": []
+		},
+		"?(ms)?(microsoft) office": {
+			"domain": [],
+			"similar": []
+		},
+		"groovy": {
+			"domain": [],
+			"similar": []
+		}
+	},
+	"domain aliases": {
+		"oop": "objected oriented programming",
+		"functional": "functional programming"
+	}
+}

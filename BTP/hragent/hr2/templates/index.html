@@ -1,0 +1,65 @@
+{% load staticfiles %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>HR2 | Recruitment Intelligence</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="{% static 'vendor/bootstrap/css/bootstrap.min.css' %}" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="{% static 'vendor/font-awesome/css/font-awesome.min.css' %}">
+
+    <!-- Theme CSS -->
+    <link href="{% static 'css/styles.min.css' %}" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style>
+    body{background: #f5f5f5;}
+    .left-div{padding:45px; min-height: calc(100vh - 60px); overflow-y: scroll; overflow-x:hidden; }
+    .right-div{padding:45px; height: calc(100vh - 60px); overflow-y: scroll; }
+    .card{border-radius: 5px; background:white;padding: 15px; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); transition: 0.3s;}
+    .btn-round{z-index: 3000; border-radius: 100%;border: none; position: absolute; top:50vh; left:46.5vw; padding:20px 19px 20px 23px; background: #333; color:white;}
+    </style>
+    </head>
+
+    <body>
+        <nav class="navbar nav navbar-inverse">
+            {% include 'nav.html' %}
+        </nav>
+        <div class="container-fluid">
+            <aside class="left-div col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                {% include 'input.html' %}
+                
+            </aside>
+            <button id="run" class="btn-round"><i class="fa fa-2x fa-play" aria-hidden="true"></i></button>
+            <div class="right-div col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                {% include 'output.html' %}
+            </div>
+        </div>
+    </body>
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,1666 @@
+ 
+
+Ge Wang                                          Curriculum Vitae 
+    Assistant Professor                                                                                          2016.11.28 
+    Center for Computer Research in Music and Acoustics (CCRMA) 
+    Department of Music (also Computer Science, by Courtesy) 
+    Stanford University 
+    ge@ccrma.stanford.edu 
+    http://www.gewang.com/ 
+ 
+
+RESEARCH INTERESTS 
+
+Art  of  design;  Computer  music;  Programming  languages  and  interactive  software 
+design for computer music; Human-computer interaction design; Audiovisual design; 
+Mobile  music,  Computer-mediated  performance  &  ensembles:  laptop  orchestra  and 
+mobile  phone  orchestra;  Sound  synthesis  and  analysis;  Expressive  musical  game 
+design;  Aesthetics  of  music  technology  design;  Education  at  intersection  of  arts, 
+engineering, and design. 
+
+EDUCATION 
+
+Degree 
+PhD 
+
+M.S. 
+
+B.S. 
+
+High 
+School 
+
+Institution 
+Princeton University 
+Department of Computer Science 
+ 
+The ChucK Audio Programming 
+Language: A Strongly-timed and 
+On-the-fly Environ/mentality (thesis) 
+ 
+Advisor: Perry R. Cook 
+ 
+Princeton University 
+Department of Computer Science 
+Advisor: Perry R. Cook 
+ 
+Duke University 
+Department of Computer Science 
+ 
+Shawnee Mission South High School, 
+Overland Park, KS 
+ 
+
+Date 
+2008 
+ 
+
+Field 
+Computer Science 
+
+2003 
+
+Computer Science 
+
+2000 
+
+Computer Science 
+
+1996 
+
+- 
+
+WORKS: DESIGN, SOFTWARE, AND PUBLICATIONS 
+
+Book 
+
+Wang, G.  2017.  The Art of Computer Music Design. (working title) 
+Stanford University Press.  [under contract and in preparation] 
+
+• Recipient of a 2016 Guggenheim Fellowship.  http://www.gf.org/fellows/ge-wang/ 
+
+Design: ChucK Music Programming Language 
+
+Chief designer and architect.  2003–present | A programming language for real-time 
+sound synthesis and music creation. At the core of ChucK is a unique way of thinking 
+about time and deterministic concurrency as powerful, precise mechanism for crafting 
+sound and physical interactions (we call this strongly-timed). Designed for digital 
+artists and musicians.  http://chuck.stanford.edu/ 
+Wang, G.  2008.  The ChucK Audio Programming Language: A Strongly-timed and 
+
+On-the-fly Environ/mentality.  PhD Thesis, Princeton University. 
+
+Wang, G., P. R. Cook, and S. Salazar.  2015.  “ChucK: A Strongly-timed Computer Music 
+
+Language.”  Computer Music Journal.  39(4):10-29. 
+
+Kapur, A., P. R. Cook, S. Salazar, G. Wang.  2015. Programming for Musician and 
+Digital Artists: Making Music with ChucK.  Manning Press.  (ISBN: 1617291706) 
+
+ 
+Design: Ocarina and Ocarina 2 
+
+Inventor and chief designer.  Smule 2008 and 2012 | One of the original Apple Hall of 
+Fame apps, Ocarina transformed the iPhone into a flute-like instrument, while offering 
+a social dimension that allows its users to hear one another anonymously around the 
+world. With more than 10 million downloads, Ocarina combines physical interaction 
+design and social experimentation that remains a milestone mobile music application, 
+serving as a window into what might be possible.  http://www.gewang.com/ocarina/ 
+Wang,  G.    2014.  “Ocarina:  Designing  the  iPhone’s  Magic  Flute.”  Computer  Music 
+
+Journal.  38(2):8-21. 
+
+ 
+Stanford Laptop Orchestra (SLOrk) 
+
+Founding director; designer of instruments, works, and curricula; curator of over 30 
+performances.  2008–present | The Stanford Laptop Orchestra (SLOrk) is a large-scale, 
+computer-mediated ensemble and instrument design laboratory that explores cutting-
+edge technology in combination with conventional musical contexts – aiming to 
+radically transform both. Founded in 2008 by director Ge Wang and students, faculty, 
+and staff at Stanford, this unique ensemble comprises more than 20 laptops, human 
+performers, controllers, and custom multi-channel speaker arrays designed to provide 
+each computer meta-instrument with its own identity and presence.  Overall 100 new 
+instruments and works premiered.  http://slork.stanford.edu/ 
+Wang, G., D. Trueman, S. Smallwood, and P. R. Cook. 2008. “The Laptop Orchestra 
+
+as Classroom.” Computer Music Journal.  32(1):26-37. 
+
+Smallwood, S., D. Trueman, P. R. Cook, and G. Wang.  2008. “Composing for Laptop 
+
+Orchestra.”  Computer Music Journal.  32(1):9-25. 
+
+                                                   Ge Wang | CV  2 
+
+ 
+
+TED Talk 
+Wang, G.  2014.  “DIY Orchestra of the Future”  TED.  Over 1 million viewers. 
+
+http://www.ted.com/talks/ge_wang_the_diy_orchestra_of_the_future 
+
+ 
+Stanford Mobile Phone Orchestra (MoPhO) 
+
+Founding director.  2008–2012 
+http://mopho.stanford.edu/ 
+
+ 
+Expressive Mobile Music Startup: Smule 
+
+Co-founder, 2008; Chief Creative 2008–2013; Chief Technology Officer, 2008–2012.  
+Responsible for interaction-, product-, social-design; core interaction engine 
+technology; research and development, marketing, PR, and outreach.  Reached over 
+125 million users before stepping down in 2013. 
+
+ 
+Design: Additional Mobile Music Apps (with Smule) 
+Magic Piano (2010) • Magic Fiddle (2011) • Magic Guitar (2012) • Zephyr (2008) • 
+Sonic Lighter (2008) • Glee Karaoke (2010, concept) • Ocarina (2008) • Ocarina 2 (2012) 
+Wang, G.   2016.  “Game Design for Expressive Mobile Music.” New Interfaces for 
+
+Musical Expression.  Brisbane, Australia. 
+
+Wang,  G.    2014.    “Principles  of  Visual  Design  for  Computer  Music.”  International 
+
+Computer Music Conference, Athens. 
+
+ 
+Social Music Design: Leaf Trombone: World Stage  
+
+Creator and chief designer.  Smule 2009 | An experimental social design where users 
+can create musical content, perform using a mobile phone-based instrument, and 
+present that performance to the greater community. As part of a social game, these 
+users are then recruited to serve as juries in online, real-time judging sessions, giving 
+feedback and ratings to the performers. This creates an ecosystem where a participant 
+can take on the role of performer, judge, observer, and/or composer. This experiment 
+was fully implemented and deployed in an iPhone application, Smule’s Leaf 
+Trombone: World Stage, which has reached more than 800,000 users. 
+Wang,  G.,  S.  Salazar,  J.  Oh,  and  R.  Hamilton.  2015.  “World  Stage:  Crowdsourcing 
+Paradigm  for  Expressive  Social  Mobile  Music.”    Journal  of  New  Music  Research.  
+44(2):112-128. 
+
+ 
+Software: Sndpeek (Lightweight Audio Visualization) 
+
+Designer.  2005—present. 
+
+    http://www.gewang.com/software/sndpeek/ 
+ 
+Capturing and Rendering of Musical Performance on Mobile Devices (U.S. Patent) 
+Inventor.  As a social exchange for user musical performances, the globe visualization 
+pervaded Smule mobile music apps – from Ocarina to Magic Piano to Glee Karaoke, 
+I Am T-Pain, and Sing! – Allowing users to listen to peer and to participate musically. 
+(see U.S. Patent 8222507) 
+
+                                                   Ge Wang | CV  3 
+
+Writings: Books, Journal Articles, and Book Chapters 
+
+Wang,  G.    2017.    The  Art  of  Computer  Music  Design.    Stanford  University  Press.   
+
+(under contract; Guggenheim Fellowship project 2016-2017). 
+
+Wang,  G.  2017.    “On-the-fly  Programming:  Using  Code  as  an  Expressive  Musical 
+Instrument.”  The NIME Reader. (in preparation; peer-selected influential article, 
+revised from 2004 initial publication; New Interfaces for Musical Expression). 
+
+Fiebrink, R, G. Wang, P. R. Cook.  2017.  “Don’t Forget the Laptop: Using Native 
+Input  Capabilities  for  Expressive  Musical  Control.”  The  NIME  Reader.  (in 
+preparation; peer-selected influential article, revised from 2007 initial publication; 
+New Interfaces for Musical Expression). 
+
+Wang,  G.  2016.  “Some  Principles  of  Visual  Design  for  Computer  Music.”  Leonardo 
+
+Music Journal. 26:14-19. 
+
+Wang, G., P. R. Cook, and S. Salazar.  2015.  “ChucK: A Strongly-timed Computer Music 
+
+Language.”  Computer Music Journal.  39(4):10-29. 
+
+Wang,  G.,  S.  Salazar,  J.  Oh,  and  R.  Hamilton.  2015.  “World  Stage:  Crowdsourcing 
+Paradigm  for  Expressive  Social  Mobile  Music.”    Journal  of  New  Music  Research.  
+44(2):112-128. 
+
+Kapur, A., P. R. Cook, S. Salazar, G. Wang.  2015. Programming for Musician and 
+Digital Artists: Making Music with ChucK.  Manning Press.  (ISBN: 1617291706) 
+Wang, G.  2014.  “Ocarina: Designing the iPhone’s Magic Flute.”  Computer Music 
+
+Journal.  38(2):8-21. 
+
+Wang, G.  2017.  “Improvisation of the Masses: Anytime, Anywhere Music.”  Oxford 
+Handbook  of  Improvisation  Studies.    G.  Lewis  and  B.    Piekut    Eds.    Oxford 
+University Press. (forthcoming) 
+
+Wang,  G.    2017.    “The  Laptop  Orchestra.”    The  Routledge  Companion  to  Music, 
+Technology,  and  Education.    A.  King,  E.  Minonides,  and  A.  Ruthmann,  Eds.  
+Routledge Publishing. (forthcoming) 
+
+Wang, G., G. Essl, and H. Pentinnen. 2014.  “The Mobile Phone Orchestra.”  Oxford 
+Handbook of Mobile Music Studies, Volume 2.  S. Gopinath and J. Stanyek Eds.  
+Oxford University Press, pp. 453-469. 
+
+Wang, G.  2014.  “The World Is Your Stage: Making Music on the iPhone.”  Oxford 
+Handbook of Mobile Music Studies, Volume 2.  S. Gopinath and J. Stanyek Eds.  
+Oxford University Press, pp. 487-504. 
+
+Hamilton,  R.,  J.  Smith,  and  G.  Wang.    2011.    “Social  Composition:  Musical  Data 
+Systems for Expressive Mobile Music.” Leonardo Music Journal.  Vol. 21:57-64. 
+
+Oh,  J.  and  G.  Wang.    2011.    “Converge:  An  Omni-Biographical  Composition.”  
+
+Computer Music Journal Emile.  Vol. 9. 
+
+Wang, G.  “A History of Programming and Music.”  2008.  Cambridge Companion to 
+Electronic Music.  N. Collins and J. D’Escrivan Eds.  Cambridge University Press. 
+
+                                                   Ge Wang | CV  4 
+
+Smallwood,  S.,  D.  Trueman,  P.  R.  Cook,  and  G.  Wang.    2008.    “Composing  for 
+
+Laptop Orchestra.”  Computer Music Journal.  32(1):9-25. 
+
+Wang, G., D. Trueman, S. Smallwood, and P. R. Cook. 2008. “The Laptop Orchestra 
+
+as Classroom.” Computer Music Journal.  32(1):26-37. 
+
+Misra, A., G. Wang, and P. Cook.  2007.  “Musical Tapestry: Re-composing Natural 
+Sounds.”  Journal of New Music Research.  36(4):241-250.  (winner: 2006 ICMA 
+Swets & Zietlinger Distinguished Paper Award) 
+
+Kapur,  A.,  G.  Wang,  P.  Davidson,  P.  Cook.  2005.    “Interactive  Network  Media:  A 
+
+Dream Worth Dreaming?”  Organised Sound.  10(3):209-219. 
+
+Conference Publications 
+
+Wang, G.   2016.  “Game Design for Expressive Mobile Music.” New Interfaces for 
+
+Musical Expression.  Brisbane, Australia. 
+
+Meacham,  A.,  S.  Kannan,  and  G.  Wang.    2016.    “The  Laptop  Accordion.”    New 
+
+Interfaces for Musical Expression.  Brisbane, Australia. 
+
+Michon, R., J. O. Smith, C. Chafe, M. Wright, and G. Wang, 2016.  “Nuance: Adding 
+Multi-Touch Force Detection to the iPad,” In Proceedings of the Sound and Music 
+Computing Conference (SMC-16).  Hamburg, Germany. 
+
+Wang, G. and R. Michon, 2016. “FaucK!! Hybridizing the Faust and ChucK Audio 
+Programming  Languages,”  In  Proceedings  of  the  Sound  and  Music  Computing 
+Conference (SMC-16).  Hamburg, Germany. 
+
+Wang,  G.      2016.    “Thoughts  on  Virtual  Reality  Design  for  Musical  Expression.”  
+
+ACM CHI Music and HCI Workshop.  San Jose. 
+
+Wang,  G.    2014.    “Principles  of  Visual  Design  for  Computer  Music.”  International 
+
+Computer Music Conference, Athens. 
+
+Salazar,  S.  and  G.  Wang.    2014.    “miniAudicle  for  iPad:  Touchscreen-based  Music 
+
+Software Programming.” International Computer Music Conference, Athens. 
+
+Bryan,  N.  J.,  G.  J.  Mysore,  and  G.  Wang.    2014.    “ISSE:  An  Interactive  Source 
+
+Separation Editor.”  ACM Human Factors in Computing Systems (CHI), Toronto. 
+
+Salazar,  S.  and  G.  Wang.    2014.    “Auraglyph:  Handwritten  Computer  Music 
+Composition  and  Design.”    In  Proceedings  of  the  International  Conference  on 
+New Interfaces for Musical Expression.  London. 
+
+Bryan, N., G. Mysore, G. Wang. 2013. “Source Separation of Polyphonic Music with 
+Interactive User-Feedback on a Piano-Roll Display.” In International Society for 
+Music Information Retrieval Conference.  Brazil. 
+
+Oh,  J.  and  G.  Wang.  2013.  “Laughter  Modulation:  from  Speech  to  Speech-Laugh” 
+
+(Show & Tell)  In Proceedings of Interspeech, ISCA. Lyon, France. 
+
+Oh., J. and G. Wang.  2013.  “LOLOL: Laugh Out Loud On Laptop.”  In Proceedings 
+of the International Conference on New Interfaces for Musical Expression.  Seoul. 
+
+                                                   Ge Wang | CV  5 
+
+Cerqueira, M., S. Salazar, and G. Wang.  2013.  “SoundCraft: Transducing Starcraft 
+2.”  In Proceedings of the International Conference on New Interfaces for Musical 
+Expression.  Seoul. 
+
+Oh.,  J.  and  G.  Wang.    2012.    “Evaluating  Crowd-sourcing  through  Amazon 
+Mechanical Turk as a Technique for Conducting Music Perception Experiments.”   
+In  Proceedings  of  the  International  Conference  of  Music  Perception  and 
+Cognition.  Thessaloniki. 
+
+Byran,  N.,  J.  Herrera,  and  G.  Wang.    2012.    “User-guided  Variable-rate  Time-
+stretching via Stiffness Control.”  In Proceedings of the International Conference 
+on Digital Audio Effects.  York, UK. 
+
+Salazar, S. and G. Wang.  2012.  “Chugens, Chubgraphcs, and Chugins: 3 Tiers for 
+Extending  ChucK.”    In  Proceedings  of  the  International  Computer  Music 
+Conference.  Slovenia. 
+
+Wang, G.  2012.  “10 Past and Future Lessons of Laptop Orchestra.”  (Keynote)  1st 
+International  Symposium  on  Laptop  Ensembles  and  Orchestras  (SLEO).    Baton 
+Rouge. 
+
+Bortz, B., S. Salazar, J. Jaivovich, R. B. Knapp, and G. Wang.  2012.  “ShEMP: A 
+  3rd 
+Mobile  Framework  for  Shared  Emotion,  Music,  and  Physiology.” 
+International Workshop on Social Behaviour in Music (SBM2012), in framework 
+of the 14th International Conference on Multimodal Interaction.  Santa Monica. 
+
+Rotondo,  M.,  N.  Kruge,  and  G.  Wang.    2012.    “Many-Person  Instruments  for 
+Computer Music Performance.” In Proceedings of the International Conference on 
+New Interfaces for Musical Expression.  Ann Arbor, Michigan. 
+
+Carlson, C. and G. Wang.  2012.  “Borderlands: An Audiovisual Interface for Granular 
+Synthesis.”  In Proceedings of the International Conference on New Interfaces for 
+Musical Expression.  Ann Arbor, Michigan. 
+
+Wang, G.  2011.  “Breaking Barriers with Sound.”  (Keynote)  ACM Symposium on 
+
+User Interface Software and Technology (UIST).  Santa Barbara. 
+
+Wang, G., J. Oh, S. Salazar, and R. Hamilton.  2011.  “World Stage: A Crowdsourcing 
+Paradigm  for  Social  Mobile  Music.”    In  Proceedings  of  the  International 
+Computer Music Conference.  Huddersfield, UK. 
+
+Oh,  J.  and  G.  Wang.    2011.    “Audience-participation  Techniques  Based  on  Social 
+Mobile  Computing.”    In  Proceedings  of  the  International  Computer  Music 
+Conference.  Huddersfield, UK. 
+
+Wang, G., J. Oh, and T. Lieber.  2011.  “Designing for the iPad: Magic Fiddle.” In 
+Proceedings  of  the  International  Conference  on  New  Interfaces  for  Musical 
+Expression.  Oslo. 
+
+Bryan,  N.  J.  and  G.  Wang.    2011.    “Two  Turntables  and  a  Mobile  Phone.”  In 
+Proceedings  of  the  International  Conference  on  New  Interfaces  for  Musical 
+Expression.  Oslo. 
+
+                                                   Ge Wang | CV  6 
+
+Kruge, N. and G. Wang.  2011.  “MadPad: A Crowdsourcing System for Audiovisual 
+Sampling.”  In Proceedings of the International Conference on New Interfaces for 
+Musical Expression.  Oslo. 
+
+Byran, N. J. and G. Wang.  2011.  “Musical Influence Network Analysis and Rank in 
+Sample-Based Music.”  In Proceedings of the International Conference on Music 
+Information Retrieval.  Miami. 
+
+Oh, J., J. Herrera, N. J. Bryan, L. Dahl, and G. Wang.  2010.  “Evolving the Mobile 
+Phone  Orchestra.”    In  Proceedings  of  the  International  Conference  on  New 
+Interfaces for Musical Expression.  Sydney. 
+
+Byran,  N.  J.,  J.  Herrera,  J.  Oh,  and  G.  Wang.    2010.    “MoMu:  A  Mobile  Music 
+Toolkit.”  In Proceedings of the International Conference on New Interfaces for 
+Musical Expression.  Sydney. 
+
+Dahl,  L.  and  G.  Wang.    2010.    “Sound  Bounce:  Physical  Metaphors  in  Designing 
+Mobile  Music  Performance.”  In  Proceedings  of  the  International  Conference  on 
+New Interfaces for Musical Expression.  Sydney. 
+
+Choi,  H.  and  G.  Wang.    2010.    “LUSH:  An  Organic  Eco-Musical  System.”    In 
+Proceedings  of  the  International  Conference  on  New  Interfaces  for  Musical 
+Expression.  Sydney. 
+
+Chang,  M.  H.,  G.  Wang,  T.  Moore,  and  J.  Berger.    2010.    “Sonification  and 
+Visualization of Neural Data.”  In Proceedings of the International Conference on 
+Auditory Display.  Washington D.C. 
+
+Wang,  G.    2009.    “Designing  Smule’s  iPhone  Ocarina.”    In  Proceedings  of  the 
+
+International Conference on New Interfaces for Musical Expression.  Pittsburgh. 
+
+Wang, G., N. J. Bryan, J. Oh, and R. Hamilton.  2009.  “Stanford Laptop Orchestra 
+(SLOrk).”    In  Proceedings  of  the  International  Computer  Music  Conference.  
+Montreal. 
+
+Wang, G., G. Essl, J. Smith, S. Salazar, P. Cook, R. Hamilton, R. Fiebrink, J. Berger, 
+D.  Zhu,  M.  Ljungstrom,  A.  Berry,  J.  Wu,  T.  Kirk,  E.  Berger,  J.  Segal.    2009.  
+“Smule = Sonic Media: An Intersection of the Mobile, Musical, and Social.”  In 
+Proceedings of the International Computer Music Conference.  Montreal. 
+
+Fiebrink,  R.,  P.  Cook,  S.  Smallwood,  D.  Trueman,  and  G.  Wang.    2009.    “Laptop 
+Orchestras and Machine Learning in Real-time Music Performance.”  ACM CHI 
+2009, Computational Creativity Support Workshop.  Boston. 
+
+Wang, G., G. Essl, and H. Pentinnen.  2008.  “MoPhO: Do Mobile Phones Dreams of 
+Electric  Orchestras?”    In  Proceedings  of  the  International  Computer  Music 
+Conference.  Belfast. 
+
+Essl,  G.,  G.  Wang,  and  M.  Rohs.    2008.    “Developments  and  Challenges  Turning 
+Mobile  Phones  into  Generic  Music  Performance  Platforms.”    In  Proceedings  of 
+Mobile Music Workshop.  Vienna. 
+
+                                                   Ge Wang | CV  7 
+
+Caceres, J., R. Hamilton, D. Iyer, C. Chafe, and G. Wang.  2008.  “China on the Edge: 
+Explorations in Network-based Performance.”  In Proceedings of the International 
+Conference on Digital Arts (ARTECH).  Porto, Portugal. 
+
+Fiebrink, R., G. Wang, and P. R. Cook.  2008.  “Foundations for On-the-fly Learning 
+in  the  ChucK  Programming  Language.”    In  Proceedings  of  the  International 
+Computer Music Conference.  Belfast. 
+(winner: 2008 ICMA Best Presentation Award) 
+
+ 
+Fiebrink,  R.,  G.  Wang,  and  P.  R.  Cook.    2008.    “Support  for  MIR  Prototyping  and 
+Real-time Applications of the ChucK Programming Language.”  In Proceedings of 
+the International Conference on Music Information Retrieval.  Philadelphia. 
+
+Wang, G., R., Fiebrink, and P. R. Cook. 2007.  “Combining Analysis and Synthesis in 
+the  ChucK  Programming  Language.”    In  Proceedings  of  the  International 
+Computer Music Conference.  Copenhagen. 
+
+Fiebrink,  R.,  G.  Wang,  and  P.  R.  Cook.    2007.    “Don’t  Forget  the  Laptop:  Using 
+Native Input Capabilities for Expressive Musical Control.” In Proceedings of the 
+International Conference on New Interfaces for Musical Expression.  New York. 
+
+Wang, G., A. Misra, and P. R. Cook.  2006.  “Building Collaborative interFaces in the 
+Audicle.”  In Proceedings of the International Conference on New Interfaces for 
+Musical Expression.  Paris. 
+
+Misra, A., P. R. Cook, and G. Wang.  2006.  “TAPESTREA: Sound Scene Modeling 
+
+by Example” (Sketch) ACM SIGGRAPH.  Boston. 
+
+Misra, A., P. R. Cook, and G. Wang.  2006.  “A New Paradigm for Sound Design.”  In 
+
+Proceedings of the International Conference on Digital Audio Effects.  Montreal. 
+
+Salazar, S., G. Wang, and P. R. Cook.  2006.  “miniAudicle and ChucK Shell: New 
+Interfaces  for  ChucK  Development  and  Performance.”    In  Proceedings  of  the 
+International Computer Music Conference.  New Orleans. 
+
+Trueman,  D.,  P.  R.  Cook,  S.  Smallwood,  and  G.  Wang.    2006.    “PLOrk:  Princeton 
+Laptop Orchestra, Year 1.”  In Proceedings of the International Computer Music 
+Conference.  New Orleans. 
+
+Wang, G., P. R. Cook, and A. Misra. 2005. “Designing and Implementing the ChucK 
+Programming  Language.”  In  Proceedings  of  the  International  Computer  Music 
+Conference.  Barcelona. 
+
+Wang, G., A. Misra, A. Kapur, and P. R. Cook. 2005. “Yeah ChucK It! => Dynamic 
+Controllable Interface Mapping.” In Proceedings of the International Conference 
+on New Interfaces for Musical Expression.  Vancouver.  
+
+Misra, A., Wang, G., and P. R. Cook. 2005. “SndTools: Real-time Audio DSP and 3D 
+Visualization.” In Proceedings of the International Computer Music Conference.   
+Barcelona. 
+
+Wang,  G.,  A.  Misra,  P.  Davidson,  and  P.  R.  Cook.  2005.  “Co-Audicle:  A 
+Collaborative  Audio  Programming  Space.”  In  Proceedings  of  the  International 
+Computer Music Conference.  Barcelona. 
+
+                                                   Ge Wang | CV  8 
+
+Kapur, A., G. Tzanetakis, N. Virji-Babul, G. Wang, and P. R. Cook. “A Framework 
+for  Sonification  of  Vicon  Motion  Capture  Data”  In  Proceedings  of  the 
+International Conference on Digital Audio Effects.  Madrid. 
+
+Wang, G., P. R. Cook. 2004. “On-the-fly Programming: Using Code as an Expressive 
+Musical  Instrument”.  In  Proceedings  of  the  International  Conference  on  New 
+Interfaces for Musical Expression.  Hamamatsu, Japan.  
+
+Wang, G., P. R. Cook. 2004. “ChucK: A Programming Language for On-the-fly, Real-
+time Audio Synthesis and Multimedia.” In Proceedings of ACM Multimedia.  New 
+York City.(co-winner: 2004 ACM Multimedia Open Source Software Competition)  
+Wang,  G.,  P.  R.  Cook.  2004.  “Audicle:  A  Context-sensitive,  On-the-fly  Audio 
+Programming  Environ/mentality.”  In  Proceedings  of  the  International  Computer 
+Music Conference.  Miami. (winner: 2004 ICMA Best Presentation Award)  
+
+Wang, G., P. R. Cook. 2003. “ChucK: A Concurrent, On-the-fly Audio Programming 
+Language”.  In  Proceedings  of  the  International  Computer  Music  Conference, 
+Singapore.  (winner: 2003 ICMA Best Presentation Award) 
+
+AWARDS AND ACCOMPLISHMENTS 
+
+ 
+
+John Simon Guggenheim Foundation Fellowship, 2016-2017 
+
+For prior achievement and exceptional promise in scholarship or creativity in the arts.   
+Project: The Art of Computer Music Design (working title): a book and manifesto about the 
+artful design of technology, meticulously designed using a radical, unconventional format. 
+http://www.gf.org/fellows/ge-wang/ 
+
+Residency, Stanford Center @ Peking University, 2014 
+
+To bring Stanford Laptop Orchestra to China for residency, joint graduate seminar with local 
+University students, and live performance; first laptop orchestra venture into China. 
+
+Champion of the Arts, 2013 
+
+Annual award recognizes an individual for significant contribution to promotion of music 
+and the arts in Silicon Valley.  Presented by Cantabile Youth Singers and City of Palo Alto. 
+
+Faculty Fellow, Stanford Center @ Peking University, 2013 
+
+Summer residency to promote the arts and technology in outreach to China.  
+
+Co-founder of Smule, a mobile music startup, 2008-2013 
+Built from inception in 2008 to 125 millions users in 2013. 
+
+Inventor and chief designer of mobile music apps (iPhone, iPad, Android): 
+
+Ocarina, Magic Piano, Leaf Trombone: World Stage, Magic Fiddle 
+Combined: over 100 million users (since 2008) 
+
+As author of mobile/social music applications for class 2016; curated by Mark Applebaum 
+
+Apple Hall of Fame App: Ocarina 
+
+Inducted in the inaugural class in 2010 by Apple Inc. 
+Stanford University “Three Books” Author, 2012 
+
+San Francisco Symphony Board of Governors 
+
+Board Member, 2011-present 
+
+Emerging Pioneer Award, 2012 
+
+Selected by independent jurors, KAPi at CES 2012 
+
+                                                   Ge Wang | CV  9 
+
+Annenberg Faculty Fellow 2009-2011, Stanford University 
+
+“… to recognize outstanding junior faculty in the Humanities and Arts.” 
+
+Best Children’s App: Magic Piano, 2011 
+
+Selected by 11 independent jurors from over 500 products at KAPi, CES 2011 
+
+The 2010 Creativity 50 Award 
+
+Awarded annually to 50 individuals worldwide for creative thinking and doing in media, 
+technology, and culture, Creativity Magazine, 2010. 
+
+Entrepreneurs We Love 2010, Inc. Magazine 
+
+… for “turning app development into an art form.” 
+
+National Science Foundation Creative IT Grant (No. IIS-0855758), 2010-2012 
+
+Co-PI (with Georgia Tech), exploring improvisation in computer music 
+
+App-Nation Pioneer Award 2010 
+
+The 2009 Creativity 50 Award 
+
+Awarded for achievement impacting development and growth of mobile applications. 
+
+Awarded annually to 50 individuals worldwide for creative thinking and doing in media, 
+technology, and culture, Creativity Magazine, 2009. 
+
+The Silicon Valley 40 Under 40 
+
+Awarded annually to 40 individuals for innovation, San Jose Business Journal, 2009. 
+
+2006 ICMA/Swets & Zeitlinger Distinguished Paper Award 
+   “TAPESTREA: Re-composing Natural Sounds” (with Ananya Misra and Perry Cook) 
+    Awarded annually to one paper at the International Computer Music Conference. 
+2004 ICMA Best Presentation Award 
+    For: “The Audicle: A Context-sensitive, On-the-fly Audio Programming Environ/mentality” 
+    Chosen from 210 research paper presentations, by vote from conferees ICMC 2004  
+Co-winner: 2004 ACM Multimedia Best Open-Source Software Competition 
+    For: “ChucK : Programming Language for Real-time Audio and Multimedia” 
+    Selected from 10 open-source projects, by jury at ACM Multimedia 2004, New York. 
+2003 ICMA Best Presentation Award 
+    For: “ChucK: A Concurrent, On-the-fly Audio Programming Language” 
+    Chosen from 80 research paper presentations, by vote from conferees at ICMC 2003 
+Presented more than 100 invited talks and keynotes (2007–present) 
+
+Topics: computer music, programming, music software design, mobile music, social music, 
+laptop orchestra, design, art & entrepreneurship. 
+
+PATENTS (AWARDED AND PENDING) 
+
+“System and Method for Capturing and Rendering of Performance on Synthetic Musical 
+Instrument.”  U.S.  Patent  8222507.    With  Spencer  D.  Salazar  and  Perry  R.  Cook, 
+assigned  to  Smule  2012.    Description:  Capturing  multiple  gestures  on  a  mobile  device 
+(blowing  on  the  microphone,  touching  various  points  on  a  multi-touch  screen,  tilting  the 
+device,  etc.),  encoding  those  gestures  (effectively  compressing  the  performance),  using  the 
+gesture codes to control a synthesizer in real time, uploading the gesture codes to a server for 
+later transmittal and resynthesis on another client, using uploaded gestures to render a sound 
+file  (.wav,  .mp3,  etc.)  on  a  server  and  offering  playback  of  such  files  on  a  mobile  or  non-
+mobile  device  (e.g.,  via  a  web  browser).    Geo-coding  the  location  of  a  performance, 
+transmitting  that  information  to  a  server,  and  using  it  later  to  display  resynthesized 
+performances on a globe or map (either on mobile device or other). 
+
+                                                   Ge Wang | CV  10 
+
+“World  Stage  for  Pitch-Corrected  Vocal  Performance.”  Patent  Filed  2012,  U.S.  Non-
+provisional  12/876133.    With  Spencer  D.  Salazar,  Rebecca  A.  Fiebrink,  Mattias 
+Ljungstrom,  Jeffrey  C.  Smith,  and  Jeannie  Yang.    Description:  Global  Community 
+Singing:  retrieval  and  playing  back  (with  globe  display)  on  a  mobile  device  and  mixed 
+(possibly  pitch-corrected  and/or  harmonized),  rendered,  and  geo-coded  vocal  performance.  
+Collecting and displaying further geo-coded data about performances, such as “likes/loves,” 
+rankings,  thumbs-up/down,  chat  and  comments,  etc. 
+  Mixing  multiple  asynchronous 
+performances into crowdsourced choirs. 
+
+“System  and  Method  for  Capture  and  Rendering  of  Performance  on  Synthetic  String 
+Instrument.” Patent Filed 2011, U.S. Non-provisional 13/292773.  With Spencer D. 
+Salazar,  Rebecca  A.  Fiebrink,  Mattias  Ljungstrom,  Jeffrey  C.  Smith,  and  Jeannie 
+Yang.    Description:  Capture  of  finger  gestures  on  virtual  strings,  combined  with  finger 
+gestures indicative of bowing one or more strings, using an encoding of the gesture streams to 
+control a digital string instrument model for sound synthesis.  Displaying score-driven markers 
+on  the  multi-touch  display  to  indicate  to  the  user  where  and  when  gestures  should  be 
+performed in real-time. 
+
+“Audiovisual  Sampling  for  Percussive-Type  Instrument  with  Crowd-sourced  Content 
+Sourcing  and  Distribution.”  Patent  Filed  2012,  U.S.  Non-provisional  13/607153.  
+With  Nick  Kruge  and  Perry  Cook.    Description:  Capture  of  short  video  /  audio  clips, 
+triggered  by  audio  events  and  settings.  Converting  and  pre-caching  of  clip  video  frames.  
+Trigger playback of clips by tapping, in a displayed array (palette) of clips, with optional pitch 
+and  time  transformations.  Video  playback  (dynamic  framerate)  driven  by  audio  playback.  
+Capturing of taps and gestures, for playback in looping mode.  
+
+SELECTED KEYNOTES AND FEATURE PRESENTATIONS 
+
+– TED talk: The DIY Orchestra of the Future – 
+
+http://www.ted.com/talks/ge_wang_the_diy_orchestra_of_the_future 
+• A journey of computer music research that weaves together ChucK, laptop 
+orchestra, mobile music, and global music making.  July 2014.                
+(Featured TED talk; over 1 million views) 
+
+– The Art of Designing Computer Music – 
+
+• International Conference on Mathematics and Computation in Music.  June 2015.  
+
+London. (Keynote)  
+
+• CCTV (China Central Television) “We World”, China’s first TED-like TV 
+
+program series, 2015. (Broadcast primetime nationwide; 80 million viewers). 
+
+– ChucK: 10 Years of Programming for Music – 
+
+• California Institute of the Arts, Digital Arts Expo & Conference on Computer 
+
+Science in Music Education.  April 2014. (Keynote)  
+
+– Breaking Barriers with Sound (A Computer Music Odyssey) – 
+
+                                                   Ge Wang | CV  11 
+
+• ACM UIST – Symposium on User Interface and Software and Technology.  Santa 
+
+Barbara, October 2011.  (Keynote) 
+
+• Duke (2013), CU Boulder (2013), Yale (2012), Dartmouth (2012) (Distinguished 
+
+• The Entertainment Gathering (EG) #4, #5, #6 (2010, 2011, 2012) 
+• Web 2.0 Expo.  San Francisco, May 2010. (Keynote) 
+• Billboard Magazine Mobile Entertainment Summit.  San Francisco, October 2010. 
+
+Lecture Series) 
+
+(Keynote) 
+
+– Music, Computer, People (Art, Technology, Entrepreneurship) – 
+
+• Mobile Developer Conference China.  Beijing, October 2012.  (Keynote)  
+• Stanford University Entrepreneur’s Corner.  2012. 
+• Duke University. Arts and Entrepreneurship Initiative (Inaugural Speaker) 
+
+– 10 Past and Future Lessons of Laptop Orchestra – 
+
+1st Symposium on Laptop Ensembles & Orchestras (SLEO): International Workshop 
+
+on Music Performance for Laptops and Mobile Devices.  LSU, April 2012.  
+(Keynote) 
+
+– The World is Your Stage: Mobile-Social Music – 
+
+• Stanford University, Computer Forum Annual Meeting, Mobile & Social 
+
+Workshop.  April 2013.  (Keynote) 
+
+• Contemplum, Temple University.  March 2013. (Keynote) 
+• University of Southern California, Annenberg School for Communication and 
+
+Journalism, Chinese Internet Research Conference, May 2012. (Keynote) 
+
+• St. Lawrence String Quartet Chamber Music Seminar.  Stanford University, June 
+
+2011.  (Keynote) 
+
+• CES 2011 Kids at Play Interactive Summit. Las Vegas, January 2011.  (Keynote) 
+• European E-commerce Conference (EEC). Madrid, October 2010.  (Keynote) 
+
+INVITED TALKS & KEYNOTES (FULL LIST) 
+
+Titles & Topics: Artful Design.  The Art of Designing Computer Music;  Music, 
+Computer, People;  The DIY Orchestra of the Future;  Breaking Barriers with Sound;  
+10 Past and Future Lessons of Laptop Orchestra;  ChucK Programming Language;  
+The World is Your Stage: Mobile-Social Music;  Mobile Phone Orchestras;  The 
+Leading Edge: Software Design for Musical Expression; Mobile Music, Social Music; 
+On-the-fly Programming; Real-time Languages and Environments for Synthesis, 
+Composition, and Performance; Teaching Programming with Music and Laptop 
+Orchestra; New Classrooms in Computer Science + Music;  Designing Interfaces for 
+Music;  Creating New Expressive Social Mediums on Mobile Phones;  At the 
+Intersection of Music and Computer Science; Art and Entrepreneurship. 
+
+                                                   Ge Wang | CV  12 
+
+May 2017.  International Conference on New Interfaces for Musical Expression 
+
+(NIME), Copenhagen.  (Keynote) 
+
+November 2016.  Stanford Chinese Students and Scholars Symposium (Keynote) 
+November 2016.  Stanford University HCI Meeting: “Music, Computing, Design” 
+October 2016. Stanford University HCI “People, Computing, Design Seminar”:     
+
+An Ocarina Retrospective. 
+
+September 2016. Stanford New Student Orientation: “Engaging with Faculty” 
+August 2016.  World Lab Summer Institute Exhibition @ Stanford Center in Peking 
+
+University, also @ Stanford d.school. 
+
+March 2016.  Stanford University Parents’ Weekend: Back to School Class for 
+
+Parents: “The Art of Design and Computer Music.” 
+
+March 2016. Waffles.js community meetup. 
+March 2016.  Oculus Rift Headquarters: “Artful Design of Computer Music” 
+February 2016.  RedBull’s “Hack the Hits Music Tech Hackathon” (Keynote) 
+January 2016.  Stanford-Silicon Valley Innovation Study (from Tsinghua). 
+October 2015.  China Entrepreneur Club: “Art and Innovation of Silicon Valley” 
+Summer 2015.  We World.  Ge Wang: Computer Music Researcher.  China’s first 
+
+TED-like nationwide TV program, produced by China Central Television 
+(CCTV). (Broadcast in primetime, viewed by more 80 million people) 
+
+June 2015.  International Conference on Mathematics and Computation in Music, 
+
+London 2015.  The Art of Designing Computer Music.  (Keynote) 
+
+April 2015.  MIT Museum.  The Art of Designing Computer Music.  (with Eran 
+
+Egozy). 
+
+March 2015.  Escondido Elementary School Family Science Night.  The Science of 
+
+Sound and Computer Music. 
+
+February 2015.  Mathematical Sciences Research Institute and Berkeley City 
+
+College.  Making Music Socially: A Story of People and Technology in the 21st 
+Century (with Madeline Huberth). 
+
+July 2014.  TED.  The DIY Orchestra of the Future.  (featured TED talk) 
+http://www.ted.com/talks/ge_wang_the_diy_orchestra_of_the_future 
+May 2014.  Digital Arts Expo & Conference on Computer Science in Music 
+
+Education, featuring Processing and ChucK.  CalArts.  (Keynote) 
+
+May 2014.  TEDxStanford.  THIS Is Computer Music. 
+March 2014.  KCPB Product Works Design Panel, hosted by John Maeda. 
+March 2014.  Stanford University Parents’ Weekend 
+February 2014.  Mathematical Sciences Research Institute / Berkeley City College 
+
+(Distinguished Lecture Series) 
+
+November 2013.  Adobe (Distinguished Lecture Series) 
+November 2013.  UIC Innovation Center, Mobile Processing (Keynote) 
+October 2013.  United States Library of Congress (Special Presentation on Music 
+
+and Technology) 
+
+October 2013.  IHS Interactive Technology Summit (Keynote) 
+October 2013.  Los Altos High School, Science and Technology Week. 
+
+                                                   Ge Wang | CV  13 
+
+September 2013. Stanford d.school, ReDesigning Theater: Live and Digital 
+
+Performance. 
+
+September 2013.  Stanford University, Residential Program combining the Arts 
+
+(ITALIC) and Science (SIMILE). 
+
+September 2013.  Duke University, Arts and Entrepreneurship (Inaugural Speaker) 
+September 2013.  Duke University, Pratt School of Engineering (Distinguished 
+
+Lecture Series) 
+
+September 2013.  Duke University, Technology, Society, and Culture (guest lecture) 
+July 2013.  Stanford Center at Peking University. 
+May 2013.  Fujitsu Technology Symposium.  Computer History Museum. 
+April 2013. Stanford University, Computer Forum Annual Meeting, Mobile & 
+
+Social Workshop.  (Keynote) 
+
+March 2013.  Contemplum, Temple University.  (Keynote) 
+March 2013.  University of Colorado, Boulder.  (ATLAS Speaker Series) 
+November 2012. TECH+: Technology, Economy, Culture, Humanity.  Seoul. 
+October 2012.  Mobile Developer Conference China. Beijing. (Keynote) 
+October 2012.  Mobile Developer Conference China. Beijing. (Master Class on 
+
+mobile music design) 
+
+October 2012.  Stanford University Entrepreneur’s Corner.  (with Jeff Smith) 
+October 2012.  Dartmouth College, Neukom Institute for Computational Science 
+
+(Donoho Colloquium Series) 
+
+September 2012.  Stanford University’s Three Books.  As author of social mobile 
+music apps Ocarina, MadPad, and I Am T-Pain.  Curated by Mark Applebaum. 
+
+May 2012.  University of Southern California, Annenberg School for 
+
+Communication and Journalism, Chinese Internet Research Conference 
+(Keynote) 
+
+April 2012.  1st Symposium on Laptop Ensembles & Orchestras (SLEO): 
+
+International Workshop on Music Performance for Laptops and Mobile Devices.  
+(Keynote) 
+
+April 2012.  The Entertainment Gathering (EG 6) Monterey, CA. 
+April 2012.  Yale University, Computer Science Department.  (Distinguished 
+
+Lecture Series) 
+
+March 2012.  Game Developer’s Conference (GDC), San Francisco, CA. 
+November 2011. TECH+: Technology, Economy, Culture, Humanity.  Seoul, Korea. 
+October 2011.  ACM UIST: Symposium on User Interface and Software and 
+
+Technology. (Keynote) 
+
+September 2011.  Duke University: Technical and Social Foundations of the Internet 
+
+(presentation via Skype, hosted by Owen Astrachan) 
+
+June 2011. St. Lawrence String Quartet Chamber Music Seminar.  (Keynote) 
+April 2011. USC Music Computation and Cognition Laboratory. 
+April 2011. The Entertainment Gathering (EG5) Monterey, CA. (with Jieun Oh) 
+March 2011.  South by Southwest 2011. 
+
+                                                   Ge Wang | CV  14 
+
+January 2011.  CES 2011; Kids at Play Interactive Summit.  (Keynote) 
+December 2010.  SF Music Technology Summit.  Panel on mobile music creation. 
+October 2010.  European E-commerce Conference (EEC) 2010.  Madrid. (Keynote) 
+October 2010.  Billboard Magazine Mobile Entertainment Summit. (Keynote) 
+September 2010.  Duke University: Technical and Social Foundations of the Internet 
+
+(presentation via Skype, hosted by Owen Astrachan) 
+
+July 2010.  Stanford University Science Outreach Program; presentation on Music, 
+
+Science, and Technology to high school students. 
+
+June 2010.  Foo Camp (presentation and performance, with Jieun Oh) 
+May 2010.  Maker Faire (Featured Presentation) 
+May 2010.  SF Music Technology Summit.  Panel presentation with Max Mathews, 
+
+John Chowning, Roger Linn, and David Wessel. 
+
+May 2010.  San Francisco Music Hack Day. 
+May 2010.  Mathematical Sciences Research Institute, with Jieun Oh. 
+May 2010.  Web 2.0 Expo.  San Francisco.  (Keynote) 
+April 2010.  Stanford Computer Science Annual Forums. 
+April 2010.  Apple. “Bring Your Kids to Work Day” 
+April 2010.  Emerging Communications Conference.  (Keynote) 
+April 2010.  Art Center Nabi, Seoul (remote via Skype) 
+March 2010.  Open MAKE @ Exploratorium: Making Music. 
+February 2010.  MacWorld 2010, San Francisco. 
+January 2010.  Carnegie Mellon University, Silicon Valley. 
+January 2010.  The Entertainment Gathering (EG4), Monterey, CA. 
+November 2009.  CCRMA Colloquium. 
+November 2009.  Los Altos High School, Science + Technology Week. 
+October 2009.  Duke University (remote via Skype, hosted by Owen Astrachan). 
+October 2009.  Stony Brook University, New York. 
+August 2009.  Foo Camp ’09. 
+June 2009.  Stanford University Science Outreach Program; Presentation on Music 
+
+Technology for high school science educators. 
+
+June 2009.  Apple Worldwide Developer Conference, San Francisco. 
+
+(Featured Presentation) 
+
+June 2009.  Frost and Sullivan Conference, San Francisco (Keynote) 
+May 2009.  Mobile Music Symposium, University of Minnesota. 
+April 2009.  Louisiana State University. 
+April 2009.  Harvard University Systems Seminar. 
+March 2009. Apple iPhone OS 3.0 Announcement Event. 
+March 2009.  iGames Summit 2009, San Francisco. 
+March 2009.  Emerging Communications Conference.  (Keynote) 
+March 2009.  California College of the Arts. 
+November 2008.  Stanford University Symbolic Systems Forum. 
+
+                                                   Ge Wang | CV  15 
+
+November 2008.  International Symposium on Culture Technology, Seoul. 
+April 2008.  Alberta College of Art and Design. Calgary, Canada.  
+
+(with Rebecca Fiebrink) 
+
+March 2008.  California Institute of the Arts. 
+March 2008.  Rencontres Musicales Pluridisciplinaires;  theme: “Digital Arts and 
+
+Programming” Lyon, France. 
+
+January 2008.  Duke University Visualization Seminar; ISIS Seminar. 
+January 2008.  Ex’pression College for Digital Arts, Insider’s Day. 
+December 2007.  Bay Area Music Technology Group, San Francisco. 
+December 2007.  Living the Knowledge Society workshop, Santa Clara University. 
+November 2007.  Stanford University HCI Seminar - People, Computer, and Design. 
+September 2007.  Bay Area Music Technology Group, San Francisco. 
+June 2007.  Electro-music 2007 Festival, Philadelphia. (with Rebecca Fiebrink) 
+April 2006.  School of the Art Institute of Chicago (1-week residency/workshop). 
+October 2005.  University of Beijing, China. 
+October 2005.  Central Conservatory of China / MusicAcoustica 2005. 
+September 2005.  University of Rome (La Sapienza), Rome, Italy. 
+May 2005.  University of Victoria, Department of Computer Science.  BC, Canada. 
+February 2005.  Transmediale 2005 Festival.  Berlin, Germany. 
+
+TEACHING EXPERIENCE 
+
+Fall 2007 – present, Stanford University 
+      Assistant Professor 
+
+CCRMA | Music Department (also Computer Science, by courtesy) 
+
+• Music, Computing, and Design (2008-present) 
+• Virtual and Augmented Reality Design for Music (2015-present) 
+• Mobile Music (2010-2015) 
+• Composing, Coding, and Performance for Laptop Orchestra (2008-present) 
+• Compositional Algorithms and Psychoacoustics (2008-present) 
+• Fundamentals of Computer-Generated Sound (2008, with Chris Chafe 2007) 
+• Soundwire Ensemble (with Chris Chafe 2007) 
+
+Stanford Center at Peking University 
+
+• Designing Solutions for Global Grand Challenges (with James Landay, 2016) 
+• Stanford Laptop Orchestra in China (Summer 2014) 
+
+MOOC (Kadenze, Coursera): Programming for Musicians and Digital Artists 
+
+With the ChucK Programming Language (Fall 2013-present) 
+
+Fall 2006, Princeton University 
+      Instructor + Co-Director (with Perry Cook):  Princeton Laptop Orchestra. 
+
+Graduate + Undergraduate Seminar: Composing for Laptop Orchestra 
+Designed core curriculum (lectures, projects, performances). 
+
+                                                   Ge Wang | CV  16 
+
+Delivered weekly lectures, rehearsals, and discussions on issues ranging from 
+
+software design, composition, musical performance design, interface design 
+and mapping, networking, instruction building, sound synthesis. 
+
+Co-directed major performances (NYC Debut, PLOrktastic Chambers Music, Final 
+
+Concert), premiering 15+ all-new pieces for the laptop orchestra. 
+
+Fall 2006, Dartmouth College (commuted weekly between Dartmouth and Princeton) 
+
+Instructor, Graduate Seminar: In the Service of Electro-Acoustic Music:  
+
+Digital Signal Processing + Software Design/Implementation Techniques 
+
+Designed curriculum teaching DSP theory and applications together with software 
+
+design and implementation techniques, topics, and “best practices”. 
+Delivered weekly lectures and discussions on issues ranging from signal 
+
+processing (theory and applications, Fourier analysis, filter analysis, classic 
+synthesis techniques, physical modeling, speech modeling, etc.) and computer 
+science (interactive system design, object-oriented principals, design patterns, 
+real-time audio, data structures for sound synthesis, optimization, C++/Java) 
+
+Fall + Spring 2005, Princeton University 
+
+Teaching assistant: PLOrk: Princeton Laptop Orchestra 
+(Perry Cook, Dan Trueman, Scott Smallwood, Ge Wang) 
+designed half of core curriculum based on ChucK programming language 
+delivered weekly class lectures on ChucK/Audicle and programming 
+helped to build PLOrk networking infrastructure in Max/ChucK 
+
+2004, Stanford CCRMA Summer Workshop (Banff Centre, Canada).   
+
+Teaching Assistant: Digital Signal Processing for Audio: Spectral and Physical 
+Models.  (for Perry Cook and Xavier Serra) 
+
+2003, Princeton University.  Teaching assistant: Advanced Programming Techniques. 
+
+(for Brian Kernighan, with Limin Jia) 
+mentored of 7 groups over 2 months in designing 3-tiered system 
+
+2002, Princeton University.  Teaching assistant: Human Computer Interaction. 
+
+(for Perry Cook) 
+
+2000, Duke University.  Teaching assistant: Introduction to Computer Graphics. 
+
+(for Pankaj Agarwal) 
+designed and held precepts and OpenGL samples 
+designed and implemented public scene file format and parser for student use 
+
+1999 – 2000, Duke University.  Teaching assistant: Advanced Object-oriented 
+
+Programming  (for Owen Astrachan and Robert Duvall) 
+
+1997 – 1999, Duke University.  Teaching assistant: Data Structures II 
+
+(for Owen Astrachan and Robert Duvall) 
+
+                                                   Ge Wang | CV  17 
+
+Ph.D. GRADUATE STUDENTS 
+
+• Nicholas J. Bryan, Stanford CCRMA Ph.D. (graduated 2014) 
+
+Thesis: Interactive Sound Source Separation 
+
+• Jieun Oh, Stanford CCRMA Ph.D. (graduate 2014) 
+
+Thesis: Affective Analysis and Synthesis of Laughter 
+
+• Jorge Herrera, Stanford CCRMA Ph.D. (6th year) 
+• Spencer Salazar, Stanford CCRMA Ph.D. (6th year) 
+• Zhengshan Shi, Stanford CCRMA Ph.D. (2nd year) 
+• Jack Atherton, Stanford CCRMA Ph.D. (1st year) 
+
+WORKSHOPS 
+
+“Making Music with Your iPad” 
+ 
+
+December 2010, presented to middle-school music students 
+Ge Wang and Turner Kirk. 
+
+San Francisco Music Hack Day, May 15, 2010 
+
+New Interfaces for Music Expression (NIME 2010), Sydney Australia. 
+Nick Bryan, Jorge Herrera, Jieun Oh, Ge Wang 
+
+“Mobile Music Design and Programming” 
+ 
+ 
+“Hacking ChucK + Designing Mobile Music” 
+ 
+“Playing Music on Your iPhone and iPad” 
+  May 7, 2010, Mathematical Sciences Research Institute, Berkeley, CA. 
+ 
+“Rapid Prototyping for Real-time Music Information Retrieval with ChucK” 
+2008 International Conference on Music Information Retrieval (ISMIR) 
+ 
+ 
+Ge Wang, Rebecca Fiebrink, and Perry Cook 
+“ChucK Programming + Laptop Orchestras” 
+ 
+ 
+“Sound Design and Composing with TAPESTREA: Weaving Musical Tapestries” 
+
+2008 Alberta College of Arts of Design, Calgary, Canada (invited) 
+Ge Wang and Rebecca Fiebrink 
+
+Ge Wang and Jieun Oh 
+
+2007 International Computer Music Conference 
+Ananya Misra, Ge Wang, and Perry Cook 
+
+“ChucK + On-the-fly Programming” 
+
+June 3, 2007. Electro-Music Festival 
+Ge Wang and Rebecca Fiebrink 
+
+“ChucK Programming Language”  
+
+November 5, 2006.  International Computer Music Conference 
+Ge Wang, Perry Cook, Ananya Misra, Spencer Salazar, Rebecca Fiebrink 
+
+ “ChucK + On-the-fly Programming”  
+
+April 2006. School of the Art Institute of Chicago, part of one week residency. 
+
+“Yeah ChucK It!”  
+
+May 24, 2005. International Conference on New Interface for Musical Expression 
+Ge Wang, Ananya Misra, Perry Cook, Ajay Kapur, and Adam Tindale 
+
+ “ChucK + Audicle Programming Language” 
+
+                                                   Ge Wang | CV  18 
+
+February 6, 2005.  Transmediale 2005 Media Festival 
+
+“ChucK: New Audio Programming Language” 
+
+November 17, 2005.  Share 2004, NYC 
+Ge Wang and Phil Davidson 
+
+SELECTED MUSICAL WORKS AND PERFORMANCES 
+
+“Turenas: VR Visualization” (2016, with John Chowning, Matt Wright, and Wisam 
+Reid).  Full spherical visualization of John Chowning’s Turenas, for the AlloSphere 
+at University of California, Santa Barbara.  Premiered in February, 2016. 
+
+“Beijing” (2014, with Madeline Huberth) for laptop orchestra.  Stanford Laptop 
+
+Orchestra Live in Beijing Concert at the Stanford Center @  Peking University in 
+July 2014.  Sounds recorded on location in Beijing; live processing via gestures. 
+“Contiuum” (2014, with Madeline Huberth) for laptop orchestra and live visuals. 
+
+Forward motion is. 
+
+A study in dynamics and balance; 
+cyclic tendrils ebbing and flowing, swelling and retreating;  
+timbres varying over pseudo-life-cycles;  
+voices echoing in space and through windows into processes set in motion  
+long before we are, and will continue long after;  
+like ocean waves, unrelenting, not looking back.  
+
+Forward motion is. 
+
+“Twilight” (2013) for laptop orchestra.  Inspired by the classic science-fiction short 
+story “Twilight” by John W. Campbell (published in 1934, under the pseudonym 
+“Don A. Stuart”), this piece ruminates not of the dawn, ascension, nor triumph of the 
+human race, but of one possible demise set seven million years in the future.  This 
+end is not one of annihilation through war, nor decimation from famine or disease, 
+but a golden decrescendo of defeat brought on by the gradual, peaceful, but 
+unstoppable usurping of technology and machines -- and the loss of man's curiosity 
+and sense of wonder.  From the original text: 
+“Twilight – the sun has set.  The desert out beyond, in its mystic, changing colors.  
+The great, metal city rising straight-walled to the human city above, broken by spires 
+and towers and great trees with scented blossoms.  The silvery-rose glow in the 
+paradise of gardens above.” 
+i. The Dead City 
+“And all the great city-structure throbbing and humming to the steady gentle beat of 
+perfect, deathless machines built more than three million years before – and never 
+touched since that time by human hands.  And they go on.  The dead city.  The men 
+that have lived, and hoped, and built – and died to leave behind them those little men 
+who can only wonder and look and long for a forgotten kind of companionship.  
+
+                                                   Ge Wang | CV  19 
+
+They wander through the vast cities their ancestors built, knowing less of them than 
+the machines themselves.” 
+ii. A Song of Longings 
+“And the songs.  Those tell the story best, I think.  Little, hopeless, wondering men 
+amid vast unknowing, blind machines that started three million years before – and 
+just never knew how to stop.  They are dead – and can't die and be still.” 
+This is the first installment in the Twilight series for various and mixed media.  The 
+cycle explores the psychology, longing, beauty and sadness of a twilight of humanity 
+ending not in a bang, but an irreversible powerdown, basked in the golden, lingering, 
+dying glow of man’s dusk. 
+
+“GG Music” (2013, with Mark Cerqueira and Spencer Salazar) for live 8-channel and 
+
+Starcraft 2.  This piece examines the possibilities of using a popular real-time 
+strategy computer game as the interface to a rich musical environment.  Two players 
+go head-to-head in a competitive match of StarCraft 2, observed by a third 
+performer.  As they develop economies and wage battles against each other, 
+SoundCraft (a custom software created with the Starcraft 2 Editor, Ruby, and the 
+ChucK audio programming language) collects gameplay data, which is extensively 
+sonified in real-time. The sonification rises and falls with the development of the 
+ongoing match, exploring the relationship between StarCraft’s gameplay mechanics 
+and musical performance.  New Interfaces for Musical Expression 2013. 
+
+“Converge” (2010, with Jieun Oh) for the Stanford Laptop Orchestra (SLOrk) and 
+
+Stanford Mobile Phone Orchestra (MoPhO). Images, sounds, and sentiments from 
+Jieun’s and Ge’s everyday lives are captured, time- and geo-tagged, and collected 
+via iPhones and cloud-based servers; they converge during the performance in an 
+audio-visual journey of memory, time, and space. 
+
+“TBA” (2007) for the Princeton Laptop Orchestra (PLOrk) and Stanford Laptop 
+
+Orchestra (SLOrk).  Orchestral Live Coding for 15 laptops using ChucK!  Premiered 
+in Princeton. 
+
+“Joy of Chant” (2007) for the Princeton Laptop Orchestra (PLOrk).  (with Rebecca 
+Fiebrink and Perry Cook). A scored and improvisatory work for laptop ensemble, 
+using joystick- and keyboard-controlled real-time singing synthesis. 
+
+“PLOrk Beat Science” (2007, with Rebecca Fiebrink).  An Adventure for Flute and 
+HyPLOrkussion!  Performances include: National Academy of Science Museum 
+Washington DC, Electro-music 2007 Festival in Philadelphia, Princeton 2007, New 
+Interfaces for Music Expression 2009, Pittsburgh. 
+http://plork.cs.princeton.edu/beatscience/ 
+
+“Crystalis” (2006) for the Princeton Laptop Orchestra (PLOrk) and Stanford Laptop 
+Orchestra 
+(SLOrk).  This is a sonic rumination of crystal caves in the clouds, where 
+the only sounds are those of the wind and the resonances of the crystals.  It uses two 
+simple instruments called the crystalis and wind-o-lin.  These instruments make use 
+of the laptop keyboard (which controls pitch and resonance) and the trackpad (which 
+the players “bow” in various patterns to generate sound). 
+http://plork.cs.princeton.edu/listen/NYC/ 
+
+                                                   Ge Wang | CV  20 
+
+“Loom (Etude II pour un enfant seul)” (2006)  for 8-channel tape using musical 
+tapestry + sound scene re-composition, with Ananya Misra and Perry Cook.   
+– juried – International Computer Music Conference. 
+http://taps.cs.princeton.edu/ 
+
+“ChucK ChucK Rocket” (2006) (with Scott Smallwood, special thanks to Ananya 
+
+Misra) for the Princeton Laptop Orchestra (PLOrk).  Human players perform via a 
+networked game-board for virtual mouse-like critters, creating patterns at various 
+scales via patterns and sound objects. 
+
+“CliX” (2006) for the Princeton Laptop Orchestra (PLOrk) and Stanford Laptop 
+
+Orchestra (SLOrk).  Human operators type to make sounds, while their machines 
+synthesize, synchronize, and spatialize the audio.  Every key on the computer 
+keyboard (upper/lower-case letters, numbers, symbols) is mapped to a distinct pitch 
+(using the key's ASCII representation) and when pressed, emits a clicking sound that 
+is synchronized in time to a common pulse.  A (human) conductor coordinates 
+frequency range, texture, movement, and timing. 
+http://plork.cs.princeton.edu/listen/green/ 
+
+“Non-Specific Gamelan Taiko Fusion” (2005) for the Princeton Laptop Orchestra 
+(PLOrk) and Stanford Laptop Orchestra (SLOrk).  (with Perry Cook) This piece is 
+an experiment in human controlled, but machine synchronized percussion ensemble 
+performance, for 15 laptops, each with 6 channel hemispherical speakers. 
+http://plork.cs.princeton.edu/listen/debut/ 
+
+ “Gigapop Ritual” (2003) Montreal/Princeton Internet2/CA2Net concert, for Sitar and 
+
+EDholak (Ajay Kapur, Montreal), DigitalDoo (Perry Cook. Montreal), Electronic 
+Spoon / Networking (Ge Wang, Montreal), Graphics (Philip Davidson, Montreal), 
+Tabla and EDholak (Manjul Bhargava, Princeton), Electric Violin and RBow (Dan 
+Trueman, Princeton), and Bass (Tae Hong Park, Princeton). 2003 International 
+Conference on New Interfaces for Musical Expression, Montreal. 
+http://gigapop.cs.princeton.edu/ 
+
+“On-the-fly Counterpoint” (2003, with Perry Cook) duo live coding for laptops and 
+
+projectors | http://on-the-fly.cs.princeton.edu/ 
+
+(with Perry Cook)  2003 Listening in the Sound Kitchen Festival, Princeton, NJ. 
+(with Perry Cook)  2004 International Conference of New Interfaces for Musical 
+
+Expression,   Hamamatsu, Japan.  – juried – 
+
+(10-person TOPLAP jam) 2005 Transmediale Festival, Club Maria, Berlin, Germany 
+(with Nick Collins)  2005 Off-ICMC, Barcelona, Spain. 
+(solo)  2005 MusicAcoustic Festival, Central Conservatory of China, Beijing, China 
+(with Perry Cook)  2006 SIGGRAPH Art Gallery – Electronically Mediated 
+
+Performance.  – juried – 
+
+CONCERTS DIRECTED AND CURATED 
+
+SLOrk in the Bing!  May 2016. Ge Wang, Director; Matt Wright and Tim O’Brien 
+Co-directors.  “The Stanford Laptop Orchestra (SLOrk) presents it’s a full-scale 
+performance at Stanford University’s Bing Concert Hall.  All are cordially invited to 
+
+                                                   Ge Wang | CV  21 
+
+an evening of all news works for humans, laptops, hemispherical speaker arrays, and 
+new instruments.”  Bing Concert Hall, Stanford University. 
+
+SLOrktastic Chamber Music 2016.  April 2016.  Ge Wang, Director; Matt Wright 
+
+and Tim O’Brien, Co-directors.  “The Stanford Laptop Orchestra presents an 
+evening of all new works for laptop chamber music, by members of the SLOrk 
+ensemble and seminar.”  CCRMA Stanford University. 
+
+SLOrk in the Bing!  May 2015. Ge Wang and Madeline Huberth, Directors;  “The 
+
+Stanford Laptop Orchestra (SLOrk) presents it’s a full-scale performance at Stanford 
+University’s Bing Concert Hall.  All are cordially invited to an evening of works for 
+the full ensemble of humans, laptops, hemispherical speaker arrays, and new 
+instruments.”  Bing Concert Hall, Stanford University. 
+
+SLOrktastic Chamber Music 2015.  April 2015.  Ge Wang and Madeline Huberth, 
+
+Directors.  “The Stanford Laptop Orchestra presents an evening of all new works for 
+laptop chamber music, by members of the SLOrk ensemble and seminar.”  CCRMA 
+Stanford University. 
+
+SideLObe @ Cantor.  February 2015.  Ge Wang, Director.  “SideLObe — the premier 
+performance ensemble of the Stanford Laptop Orchestra — in collaboration with the 
+Cantor Arts Center, presents a special performance event featuring electronic 
+chamber music curated for Cantor’s Modern and Contemporary Gallery.”  Stanford 
+University Cantor Arts Center, Modern and Contemporary Gallery. 
+
+Stanford Laptop Orchestra: Live in Beijing.  July 2014. Ge Wang, Director.  The 
+
+Stanford Laptop Orchestra (SLOrk) travels to China as part of a unique journey and 
+joint graduate seminar with students from Stanford and Peking University.  This 
+marks the first time a laptop orchestra has traveled to and performed in the Far East.  
+Stanford Center @ Peking University. 
+
+SLOrk in the Bing!  May 2014. Ge Wang, Director; Spencer Salazar Co-director.  
+“The Stanford Laptop Orchestra (SLOrk) presents it’s a full-scale performance at 
+Stanford University’s Bing Concert Hall.  All are cordially invited to an evening of 
+works for the full ensemble of humans, laptops, hemispherical speaker arrays, and 
+new instruments.”  Bing Concert Hall, Stanford University. 
+
+SLOrktastic Chamber Music 2014.  May 2014.  Director.  “The Stanford Laptop 
+
+Orchestra presents an evening of all new works for laptop chamber music, by 
+members of the SLOrk ensemble and seminar.”  CCRMA Stanford University. 
+
+SLOrk in the Bing!  June 2013.  Jieun Oh and Ge Wang, Directors.  “The Stanford 
+
+Laptop Orchestra (SLOrk) presents its first full-scale performance at Stanford 
+University’s new Bing Concert Hall.  All are cordially invited to an evening of 
+works for the full ensemble of humans, laptops, hemispherical speaker arrays, and 
+new instruments.”  Bing Concert Hall, Stanford University. 
+
+SLOrk 2012 Spring Concert.  June 2012.  Director.  “The Stanford Laptop Orchestra 
+(SLOrk) and Stanford Mobile Phone Orchestra (MoPhO) celebrates the conclusion 
+of a wonderful 2012 season with a full-scale laptop orchestra concert featuring all 
+new works by students and instructors in the SLOrk seminar.”  Stanford University. 
+
+                                                   Ge Wang | CV  22 
+
+SLOrktastic Chamber Music 2012.  April 2012.  Director.  “The Stanford Laptop 
+
+Orchestra presents an evening of all new works for laptop chamber music, by 
+members of the SLOrk ensemble and seminar.”  Stanford University. 
+
+SLOrk 2011 Spring Concert.  June 2011.  Director.  “The Stanford Laptop Orchestra 
+(SLOrk) and Stanford Mobile Phone Orchestra (MoPhO) celebrates the conclusion 
+of a wonderful 2011 season with a full-scale laptop orchestra concert featuring all 
+new works by students and instructors in the SLOrk seminar.”  Stanford University. 
+
+SLOrktastic Chamber Music 2011.  April 2011.  Director.  “The Stanford Laptop 
+
+Orchestra presents an evening of all new works for laptop chamber music, by 
+members of the SLOrk ensemble and seminar.”  Stanford University. 
+
+SLOrk 2010 Spring Concert.  June 2010.  Director.  “The Stanford Laptop Orchestra 
+(SLOrk) and Stanford Mobile Phone Orchestra (MoPhO) celebrates the conclusion 
+of a wonderful 2010 season with a full-scale laptop orchestra concert featuring 
+works by guest composers Chris Chafe, Bruno Ruviaro, and Marisol Jimenez as well 
+as students and instructors in the SLOrk seminar.”  Stanford University. 
+
+SLOrktastic Chamber Music 2010, featuring Jordan Rudess.  April 2010.  Director.  
+
+“The Stanford Laptop Orchestra presents an evening of all new works for laptop 
+chamber music, by members of the SLOrk ensemble and seminar.”  Stanford 
+University. 
+
+Stanford Mobile Phone Orchestra: “i, MoPhO: Music for iPhones”.  December 
+2009.  Director.  “The Stanford Mobile Phone Orchestra presents a concert of new 
+music for iPhone.”  Stanford University, CCRMA Stage.  Covered by December 5th 
+2009 New York Times front page article. 
+
+SLOrk 2009 Spring Concert.  June 2009.  Director.  “The Stanford Laptop Orchestra 
+
+(SLOrk) celebrates the conclusion of a wonderful 2009 season with a full-scale 
+laptop orchestra concert.”  Stanford University. 
+
+SLOrktastic Chamber Music I + II.  May 2009.  Director.  “The Stanford Laptop 
+
+Orchestra (SLOrk) presents two evenings of all new works for laptop chamber 
+music, by members of the SLOrk ensemble and seminar.”  Stanford University. 
+
+Stanford Laptop Orchestra @ Distinctive Voices, Beckman Center.  March 2009.  
+Director.  Presented by the Beckman Center and the National Academy of Science, 
+the Stanford Laptop Orchestra presents a concert and discussion.  Irvine, CA. 
+
+Stanford Laptop Orchestra @ MacWorld.  January 2009.  Director.  “The Stanford 
+
+Laptop Orchestra presents a selection of works for a wide audience at MacWorld 
+2009.”  San Francisco, CA. 
+
+MoPhO @ ICMC.  August 2008.  Co-director – with Georg Essl and Henri Pentinnen.  
+
+“The Stanford Mobile Phone Orchestra (MoPhO) presents works for mobile smart 
+phones at the International Computer Music Conference.”  Belfast, Ireland. 
+
+SLOrktastic Chamber Music.  May 2008.  Director.  “The Stanford Laptop Orchestra 
+presents and evening of all new works for electronic chamber music, by members of 
+the SLOrk ensemble and seminar.  The public is cordially invited to join us in 
+
+                                                   Ge Wang | CV  23 
+
+exploring intimate sonic and musical spaces with performances crafted for up to six 
+laptop stations.”  Stanford University. 
+
+Pacific Rim of Wire: An Online Concert with Chinain the Premiere of the 
+
+Stanford Laptop Orchestra.  April 2008.  Co-curator and director – with Chris 
+Chafe and Jindong Cai.  “In this first-of-its-kind concert, musicians from Stanford 
+University’s renowned Center for Computer Research in Music and Acoustics 
+(CCRMA) connects with musicians 6000 miles away in Beijing to perform – in real-
+time via the internet – a program that celebrates music, technology, and international 
+collaboration, and marks the stage premiere of the Stanford Laptop Orchestra.” 
+
+Sonic SLOrk Sculptures.  April 2008.  Director.  “Stanford Laptop Orchestra presents 
+
+an afternoon of music and sonic installation performances, among the statues and 
+under the canopy of the New Guinea Sculpture Garden at Stanford University, in a 
+first-ever outdoor laptop orchestra concert.” 
+
+Mobile Phone Orchestra Debut.  January 2008.  Director.  “CCRMA’s Mobile Phone 
+
+Orchestra presents an experimental concert featuring music performed on mobile 
+electronic devices. Far beyond ring-tones, these interactive musical works take 
+advantage of the unique technological capabilities of today's hardware, turning 
+computer keypads, touch-screens and built-in accelerometers into powerful and 
+mobile musical control systems.” 
+
+Princeton Laptop Orchestra: Winter Concert. January 2007.  Co-directed, with 
+
+Perry Cook.  “The Princeton Laptop Orchestra presents an evening of new music, 
+composed and performed by members of the Fall 2006 PLOrk seminar and 
+ensemble.”  Princeton University. 
+
+PLOrk in New York: Ear to the Earth Festival.  New York City, October 2006.  Co-
+directed, with Perry Cook.  “For the Ear to the Earth Festival, the Princeton Laptop 
+Orchestra has prepared a special set of sounds and musical works that explore our 
+environments – both real and imagined, human and natural.  These pieces do not aim 
+to convey a single idea or message, but simply to evoke and to immerse the listener 
+in familiar as well as alternate sonic surroundings.” 
+
+Princeton Laptop Orchestra Debut.  Princeton University, Fall 2005.  Co-directed 
+and instructed, with Dan Trueman, Perry Cook, and Scott Smallwood.  “The debut 
+concert of the Princeton Laptop Orchestra features works by instructors and students 
+in inaugural PLOrk ensemble.” 
+
+ADDITIONAL PERFORMANCES 
+
+“Under Construction: Bing Concert Hall.”  June 2012, Stanford University Bing 
+
+Concert Hall.  This “hard hat” required performances marked the first musical 
+performance in Bing’s main hall (while it was still under construction). 
+
+Beijing Modern Music Festival.  May 2011, Central Conservatory of China.  
+
+Performance of “Converge” and “Laugh” with Jieun Oh. 
+
+                                                   Ge Wang | CV  24 
+
+EG 2011.  April 2011, curated by Michael Hawley.  Performance of “Converge” with 
+
+Jieun Oh. 
+
+Music and Brain Symposium.  March 2011, curated by Jonathan Berger.  
+
+Performance of “Converge” with Jieun Oh. 
+
+Music, Memory, and Aging Symposium.  September 2010, curated by Jonathan 
+
+Berger.  Performed “Converge” with Jieun Oh. 
+
+NIME 2010 Mobile Music Concert.  June 2010.  Stanford Mobile Phone Orchestra 
+performs as part of concert mediated via mobile phones (with Georg Essl and Greg 
+Schiemer). 
+
+Stanford University Bing Concert Hall Groundbreaking.  March 2010.  Stanford 
+
+Mobile Phone Orchestra, director and performer. 
+
+Stanford University Prospective Student Weekend.  March 2009, 2010, 2011.  Part 
+of the final concert at Memorial Church, curated by Steve Sano.  Stanford Mobile 
+Phone Orchestra, Stanford Laptop Orchestra, director and performer. 
+
+Oakland Museum of California Grand Reopening.  March 2010.  Stanford Mobile 
+
+Phone Orchestra, director and performer. 
+
+Stanford University Prospective Student Weekend.  March 2009.  Part of the final 
+concert at Memorial Church, curated by Steve Sano.  Stanford Laptop Orchestra, 
+director and performer. 
+
+SELECTED PRESS FEATURES 
+
+“Stanford Professor’s Music Apps Turns iPhone and iPad into Musical Instruments.”  
+
+NBC’s Rock Center with Brian Williams.  March 2012. 
+
+“The Machine That Makes You Musical.” (also “YouTunes.”) The New York Times 
+
+Magazine.  November 2011. 
+
+“Digital Giants: Ge Wang”  BBC.  March 2010.  (profile and feature) 
+“Ge Wang: the iPhone’s Music Man.”  IEEE Spectrum.  September 2009. 
+“From  Pocket  to  Stage,  Music  in  the  Key  of  iPhone.”    The  New  York  Times.  
+
+December 4th, 2009.  (front page feature story) 
+
+“Blow  It  Out  Your  iPhone:  Ge  Wang  Invites  You  to  Reinvent  Music.”    Inventors 
+
+Magazine Digest.  September 2009.  (cover story and feature) 
+
+“Virtual Maestro.” Duke Magazine.  July / August 2011.  (feature and profile) 
+“So Many Apps, So Little Time.”  The New York Times: Pogue’s Posts.  March 2009. 
+ “Mobile Phone Orchestra: Music on the Move.”  National Public Radio.  May 2009. 
+“Hi-Tech Tunes: Stanford Taps Into Music’s Future.”  MSNBC.  April 2009. 
+“Leading a  Big Parade of iPhone Apps.”  USA Today.  April 2009.  (cover story and 
+
+profile) 
+
+                                                   Ge Wang | CV  25 
+
+“Stanford Researcher Uses Cell Phone to Make Music.” Stanford Report. March 2009. 
+“Play  It  Again,  HAL:  The  Stanford  Laptop  Orchestra  Puts  the  Code  in  Coda.”  
+
+Stanford Magazine.  March/April 2009. 
+
+“Laptop Maestro Makes Music Apt for the iPhone.”  The Age.  February 2009. 
+“Is That Ocarina Music Coming from Your iPhone?”  Scientific American.  December 
+
+2008.  
+
+“There’s Gold in Them iPhones.”  Newsweek.  December 2008. 
+“Stanford Laptop Orchestra: Musical Macs.”  Apple Pro.  November 2008. 
+
+WORK EXPERIENCE 
+
+2007—present.    Assistant  Professor.    Stanford  University.    Center  for  Computer 
+Research  in  Music  and  Acoustics  (CCRMA)  |  Department  of  Music  (also 
+Computer Science, by Courtesy).  Full-time research and teaching. 
+
+2008—2013.  Co-founder  and  Chief  Creative.    Smule  (formerly  also  SonicMule) 
+Startup company exploring interactive social music leveraging mobile technology; 
+a  research  platform  to  bring  the  visions  of  social  computer  music  to  a  wide 
+population. 
+
+2001—2007.    Graduate  Student  and  Research  Assistant.    Princeton  University.  
+
+Department of Computer Science.  Full-time research; teaching. 
+
+Feb—Aug 2001.  Software Engineer.  The Adrenaline Group.  Software Development 
+Team.     Designed and implemented distributed architecture for associative client-
+side  database  caching  in  Java;  constructed  and  taught  company  course  in  C++, 
+application development, and graphics. 
+
+2000 Summer.  Software Design Engineer.  Microsoft Corporation.  DirectX Group, 
+SDK  Team.  Designed  and  implemented  DirectX  8.0  multimedia  samples,  and 
+shared  sample  components  (binaries  and  source  code  shipped  with  SDK)  using 
+DirectMusic, DirectSound, and DirectInput. 
+
+1997—2000.    Teaching  Assistant.    Duke  University  Computer  Science  Department.  
+10-30 hours per week.  Guided and helped students enrolled in computer science 
+courses  in  laboratory  work  and  programming  projects  in  Java/C++,  simulations, 
+and graphics. 
+
+1999 Fall.  Lead Developer and Co-founder.  BuyIQ.com (failed E-commerce start-
+up).  Designed  and  implemented  SQL  Server  database  with  ASP  front-end  for 
+consumer  research  /  shopping  site,  along  with  authoring/publishing  tool  and 
+utilities for managing / maintaining web site and database. 
+
+1999 Summer.  Software Engineer.  Evans and Sutherland Corporation.  Designed and 
+implemented architecture for GL-Trace, an application for observing and tracing 
+multithreaded OpenGL applications. 
+
+                                                   Ge Wang | CV  26 
+
+1998  Summer.    Software  Design  Engineer.    Microsoft  Corporation.    WindowsNT 
+Development  Group.  Graphics  Device  Interface  (GDI)  Team.  Implemented 
+features for color management and test-bed application to flexibly test GDI+. 
+
+1998 Spring.  Lead Developer (with George Stetten and Visnu Pitiyanuvath).  3D Java 
+/ C++ Game Engine.  Designed and Implemented graphics / game engine in Java 
+and in C++/OpenGL used in simulation course. 
+
+1997  Summer.    Custom  Programmer  /  Consultant.    Data  Systems  International.  
+Designed  and  implemented  database  software  while  working  directly  and 
+extensively with client. 
+
+MOBILE MUSIC COMMERICAL SOFTWARE APPLICATIONS 
+
+Smule (startup company), Co-founder, 2008. (reaching 125+ millions users) 
+Ocarina (iPhone app). concept and design, programming (10+ million users) 
+Ocarina 2 (iPhone app). concept and design, programming 
+Magic Piano (iPad, iPhone app). concept and design, programming (80+ million users) 
+Leaf Trombone: World Stage (iPhone app). concept and design. 
+Magic Fiddle (iPad app). concept and design, programming. 
+Sonic Lighter (iPhone app).  Concept and design, programming. 
+Zephyr (iPhone app).  Concept and design. 
+I Am T-Pain (iPhone app), creative advisor. 
+AutoRap (iPhone app), creative advisor, marketing. 
+Sing! (iPhone app), concept: globe and distributed singing, creative advisor. 
+
+ACADEMIC, DEPARTMENTAL, AND PROFESSIONAL SERVICE 
+
+Courtesy Appointment, Stanford University Computer Science; 2008–present 
+Board Member, San Francisco Symphony Board of Governors; 2011–present 
+Committee, Stanford CS+X / CS+Music Joint Major Program; 2013–2014 
+Stanford CS+Music Joint Major Program advisor; 2014–present 
+Created and teach three CS and Music crosslisted courses; 2010–present 
+Stanford Music Dept. Graduate Studies Committee; 2013–present 
+Faculty Search Committee, Stanford Music Dept. (CCRMA); 2011 
+Faculty Search Committee, Stanford Music Dept. (Ethnomusicology); 2010 
+Faculty Search Committee, Stanford Music Dept. (Composition); 2008 
+Program Committee, International Computer Music Conference (ICMC); 2006, 2008 
+Program Committee, New Interfaces for Musical Expression (NIME); 2008 
+Reviewer, ACM CHI; 2010 
+Reviewer, International Computer Music Conference (ICMC); 2004–present 
+Reviewer, New Interfaces for Musical Expression (NIME); 2006–present 
+Reviewer, Music Information Retrieval ISMIR; 2012–present 
+Reviewer, Computer Music Journal; 2006–present 
+Reviewer, Leonardo Music Journal; 2010–present 
+
+                                                   Ge Wang | CV  27 
+
+Reviewer, IEEE Multimedia; 2007–present 
+Member, Association for Computing Machinery 
+Member, International Computer Music Association 
+Member, TOPLAP (live coding organization) 
+Member, Computer Science Graduate Council (Princeton); 2002–2007 
+
+ADDITIONAL INFORMATION 
+
+Spoken languages: English, Chinese (Mandarin) 
+Citizenship: U.S. 
+Born: November 1977 in Beijing, China 
+
+REFERENCES 
+
+    (available upon request.) 
+
+                                                   Ge Wang | CV  28 
+
+
