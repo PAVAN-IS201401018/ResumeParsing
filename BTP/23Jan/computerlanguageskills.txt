@@ -1,0 +1,86 @@
+Computer language Skills
+C
+sas
+C++
+PHP
+JAVA
+FORTRAN
+COBOL
+PYTHON
+PASCAL
+SCALA
+RUBY
+ADA
+C#
+HTML
+CSS
+Boot Strap
+Java Script
+Angular Js
+Node Js
+Ajax
+J-query
+J query
+XML
+Android
+IOS
+bash
+shell Scripting
+erlang
+apex
+d programming
+euphoria
+sas
+programming d
+go programming
+go
+d
+programming go
+ASM
+JS
+LISP
+CLISP
+SCM guile
+BF
+c99 strict
+CAML
+SBCL
+LUA
+NEM
+NICE
+CLOJ
+CLPS
+SCM qobi
+SCM chicken
+cPP 4.3.2
+cpp 
+ST
+TCL
+TEXT
+WSPCPAS fpc
+PERL
+PERL6
+PIKE
+FORT
+ERL
+PRLG
+PYPY
+PYTH
+PYTH 3.4
+arduino
+assembly programming
+assembly language
+assembly
+clojure
+data Structures
+groovy
+java-8
+elixir
+jcl
+rexx
+socket
+vba
+vb.net
+r programming
+r
+swift
